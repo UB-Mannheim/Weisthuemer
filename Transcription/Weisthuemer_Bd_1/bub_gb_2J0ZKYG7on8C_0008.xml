@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-10T20:06:59</Created>
+	<LastChange>2020-03-20T15:40:18</LastChange></Metadata>
+	<Page imageFilename="bub_gb_2J0ZKYG7on8C_0008.png" imageWidth="1528" imageHeight="2500">
+	<TextRegion id="r45" type="paragraph">
+	<Coords points="403,429 1003,429 1003,491 1059,491 1059,562 1290,562 1290,605 1292,605 1292,645 1294,645 1294,690 1289,690 1289,810 1292,810 1292,854 1290,854 1290,976 1292,976 1292,1100 1298,1100 1298,1144 1296,1144 1296,1348 1297,1348 1297,1429 1298,1429 1298,1473 1300,1473 1300,1517 1296,1517 1296,1761 1297,1761 1297,1805 1298,1805 1298,1845 1297,1845 1297,1974 1298,1974 1298,2100 1300,2100 1300,2179 1293,2179 1293,2208 1273,2208 1273,2281 978,2281 978,2318 931,2318 931,2281 257,2281 257,2318 161,2318 161,2244 118,2244 118,2140 124,2140 124,2013 120,2013 120,1838 125,1838 125,1721 124,1721 124,1680 122,1680 122,1596 124,1596 124,1429 126,1429 126,1266 125,1266 125,1141 128,1141 128,1022 126,1022 126,645 128,645 128,605 210,605 210,562 359,562 359,491 403,491"/>
+	<TextLine id="l0">
+	<Coords points="210,562 210,606 1290,606 1290,562"/>
+	<TextEquiv>
+	<Unicode>Dis sint dú recht, dú dc gotzhus von Engelberg het in dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="128,605 128,648 1292,648 1292,605"/>
+	<TextEquiv>
+	<Unicode>ampte vnd in dien höven in Zürichgoewe, die daz gotzhus anhoe-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="129,933 129,980 1289,980 1289,933"/>
+	<TextEquiv>
+	<Unicode>ein brôt, vnd in der andren ein hůn, daz hůn hoeret an den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="403,429 403,490 1003,490 1003,429"/>
+	<TextEquiv>
+	<Unicode>ENGELBERGER HOFRODEL ¹).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="126,976 126,1022 1292,1022 1292,976"/>
+	<TextEquiv>
+	<Unicode>habch, vnd daz brôt die hunde, vnd sol man im vnd sim gú-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="128,1017 128,1064 1290,1064 1290,1017"/>
+	<TextEquiv>
+	<Unicode>sinde, dc hie gúnemmet ist, spinwidrin fleisch geben, vnd bergins,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="130,1062 130,1104 1292,1104 1292,1062"/>
+	<TextEquiv>
+	<Unicode>vnd huenr gnuegú. vnd enhein ander fleisch, vnd gůten Elseser vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="128,1100 128,1144 1298,1144 1298,1100"/>
+	<TextEquiv>
+	<Unicode>enhein lantwin. vff swelem hof er och den imbis nimet, wil er</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="125,1141 125,1188 1296,1188 1296,1141"/>
+	<TextEquiv>
+	<Unicode>zú nacht aber da búliben, so sol icklich schůppoſse, dú in den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="125,1184 125,1225 1292,1225 1292,1184"/>
+	<TextEquiv>
+	<Unicode>hof hoeret, geben ein hůn, vnd der tegding anders enhein scha-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="125,1221 125,1266 1296,1266 1296,1221"/>
+	<TextEquiv>
+	<Unicode>den han. Ovch sol man dc meijentegding vnd daz herbstegding vor</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="129,1262 129,1306 1296,1306 1296,1262"/>
+	<TextEquiv>
+	<Unicode>gúbieten acht tage, vnd swer zwischent Rús vnd dem Rine des</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="126,645 126,690 1294,690 1294,645"/>
+	<TextEquiv>
+	<Unicode>rent. Daz erste, dc ein apt von Engelberg zwüront in dem jare</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="126,1304 126,1349 1296,1349 1296,1304"/>
+	<TextEquiv>
+	<Unicode>gotzhus eigen ist, die sullen alle dar komen vffen dú tegding, vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="128,1348 128,1388 1297,1388 1297,1348"/>
+	<TextEquiv>
+	<Unicode>dar nach alle die, die von dem gotzhus erb oder lên hant. Swer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="126,1385 126,1432 1294,1432 1294,1385"/>
+	<TextEquiv>
+	<Unicode>aber dar nit keme, vnd dc vber seſze, als hie vor gúschriben ist,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="124,1429 124,1472 1298,1472 1298,1429"/>
+	<TextEquiv>
+	<Unicode>der sol bessron mit drin schillingen pfenningen, vnd swenne des</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="124,1473 124,1517 1300,1517 1300,1473"/>
+	<TextEquiv>
+	<Unicode>gotzhus botte vordrot die bůſze zú hus vnd zú houe, der in denne</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="125,1517 125,1554 1294,1554 1294,1517"/>
+	<TextEquiv>
+	<Unicode>nit enrichtet der vorgúnanden bůſze, der sol si zwiualt geben.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="125,1552 125,1598 1296,1598 1296,1552"/>
+	<TextEquiv>
+	<Unicode>Es soll ovch uff des vorgúnanden gotzhus höven wan des gotzhus</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="122,1596 122,1640 1296,1640 1296,1596"/>
+	<TextEquiv>
+	<Unicode>eigen lúte ²). Wer ovuch dem andern gelten sol vff des gotzhus</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="122,1638 122,1680 1296,1680 1296,1638"/>
+	<TextEquiv>
+	<Unicode>höven, da wir twing vnd ban hein, vnd dc an lovgen ist, vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="124,1678 124,1721 1296,1721 1296,1678"/>
+	<TextEquiv>
+	<Unicode>in darumb búklagot, wer denne on des gotzhus stat richtet, der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="197,2100 197,2144 1300,2144 1300,2100"/>
+	<TextEquiv>
+	<Unicode>1) auf der letzten blattseite eines pergamentbandes, im archiv des</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="125,1718 125,1761 1296,1761 1296,1718"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="126,1761 126,1806 1297,1806 1297,1761"/>
+	<TextEquiv>
+	<Unicode>ein husgúnos dem andern, die zúsemen hoerent in den hof. klaget</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="125,1805 125,1845 1298,1845 1298,1805"/>
+	<TextEquiv>
+	<Unicode>aber ein gast, den sol man gúbieten zû weren bi der tagzît, bi</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="120,1838 120,1884 1297,1884 1297,1838"/>
+	<TextEquiv>
+	<Unicode>der bůſze. der des nit tůt, so sol man im richten, vnz an den drit-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="120,1884 120,1928 1296,1928 1296,1884"/>
+	<TextEquiv>
+	<Unicode>ten tag, vnd wer denne weibel ist, der sol gan zú hus vnd zú</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="120,1929 120,1972 1296,1972 1296,1929"/>
+	<TextEquiv>
+	<Unicode>houe, vnd sol nemen inne vnd vssen, vnz dc er den kleger gú-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="120,1974 120,2013 1298,2013 1298,1974"/>
+	<TextEquiv>
+	<Unicode>wer, ob er es vindet, vnd sol man im dc nit weren. vnd wer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="124,2012 124,2054 1298,2054 1298,2012"/>
+	<TextEquiv>
+	<Unicode>im es werti, der sol er beſzron mit zwivalter bůſze. Dar zů hant</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="359,491 359,543 1059,543 1059,491"/>
+	<TextEquiv>
+	<Unicode>(wol noch aus dem schluſs des 13 jh.)</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="118,2140 118,2179 1300,2179 1300,2140"/>
+	<TextEquiv>
+	<Unicode>klosters Engelberg verzeichnet, schrift aus dem anfang des 14 jh. Die abtei</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="128,689 128,728 1289,728 1289,689"/>
+	<TextEquiv>
+	<Unicode>vss sol varn vff sin höve zú meijen vnd zú herbsten, vnd sol mit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="118,2173 118,2208 1293,2208 1293,2173"/>
+	<TextEquiv>
+	<Unicode>Engelberg liegt zwischen Urn, Unterwalden und Bern, hier aber sind ihre</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="118,2200 118,2244 663,2244 663,2200"/>
+	<TextEquiv>
+	<Unicode>besitzungen im Zürichgau gemeint.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="195,2236 195,2281 1273,2281 1273,2236"/>
+	<TextEquiv>
+	<Unicode>2) eine lücke in dem ms.; man ergänze nach höven: nieman wonen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="161,2275 161,2318 257,2318 257,2275"/>
+	<TextEquiv>
+	<Unicode>Bd. I.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="931,2276 931,2318 978,2318 978,2276"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="126,726 126,773 1289,773 1289,726"/>
+	<TextEquiv>
+	<Unicode>im fueren sin kapplan vnd ein probst vnd ein lütpriester von Stans,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="129,770 129,813 1289,813 1289,770"/>
+	<TextEquiv>
+	<Unicode>ob er wil, vnd ein ritter, swen er wil, mit zwein winten, mit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="129,810 129,854 1292,854 1292,810"/>
+	<TextEquiv>
+	<Unicode>einem vogelhunde, vnd mit einem habche, vnd swenne er inritet so</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="126,852 126,896 1290,896 1290,852"/>
+	<TextEquiv>
+	<Unicode>sol dú meigerin des hoves, uff den er denne da kumet, im búkomen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="129,894 129,938 1290,938 1290,894"/>
+	<TextEquiv>
+	<Unicode>vor in dem hove, vnd sol in enpfan, vnd sol in einer hant tragen</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ENGELBERGER HOFRODEL ¹).
+(wol noch aus dem schluſs des 13 jh.)
+Dis sint dú recht, dú dc gotzhus von Engelberg het in dem
+ampte vnd in dien höven in Zürichgoewe, die daz gotzhus anhoe-
+rent. Daz erste, dc ein apt von Engelberg zwüront in dem jare
+vss sol varn vff sin höve zú meijen vnd zú herbsten, vnd sol mit
+im fueren sin kapplan vnd ein probst vnd ein lütpriester von Stans,
+ob er wil, vnd ein ritter, swen er wil, mit zwein winten, mit
+einem vogelhunde, vnd mit einem habche, vnd swenne er inritet so
+sol dú meigerin des hoves, uff den er denne da kumet, im búkomen
+vor in dem hove, vnd sol in enpfan, vnd sol in einer hant tragen
+ein brôt, vnd in der andren ein hůn, daz hůn hoeret an den
+habch, vnd daz brôt die hunde, vnd sol man im vnd sim gú-
+sinde, dc hie gúnemmet ist, spinwidrin fleisch geben, vnd bergins,
+vnd huenr gnuegú. vnd enhein ander fleisch, vnd gůten Elseser vnd
+enhein lantwin. vff swelem hof er och den imbis nimet, wil er
+zú nacht aber da búliben, so sol icklich schůppoſse, dú in den
+hof hoeret, geben ein hůn, vnd der tegding anders enhein scha-
+den han. Ovch sol man dc meijentegding vnd daz herbstegding vor
+gúbieten acht tage, vnd swer zwischent Rús vnd dem Rine des
+gotzhus eigen ist, die sullen alle dar komen vffen dú tegding, vnd
+dar nach alle die, die von dem gotzhus erb oder lên hant. Swer
+aber dar nit keme, vnd dc vber seſze, als hie vor gúschriben ist,
+der sol bessron mit drin schillingen pfenningen, vnd swenne des
+gotzhus botte vordrot die bůſze zú hus vnd zú houe, der in denne
+nit enrichtet der vorgúnanden bůſze, der sol si zwiualt geben.
+Es soll ovch uff des vorgúnanden gotzhus höven wan des gotzhus
+eigen lúte ²). Wer ovuch dem andern gelten sol vff des gotzhus
+höven, da wir twing vnd ban hein, vnd dc an lovgen ist, vnd
+in darumb búklagot, wer denne on des gotzhus stat richtet, der
+
+ein husgúnos dem andern, die zúsemen hoerent in den hof. klaget
+aber ein gast, den sol man gúbieten zû weren bi der tagzît, bi
+der bůſze. der des nit tůt, so sol man im richten, vnz an den drit-
+ten tag, vnd wer denne weibel ist, der sol gan zú hus vnd zú
+houe, vnd sol nemen inne vnd vssen, vnz dc er den kleger gú-
+wer, ob er es vindet, vnd sol man im dc nit weren. vnd wer
+im es werti, der sol er beſzron mit zwivalter bůſze. Dar zů hant
+1) auf der letzten blattseite eines pergamentbandes, im archiv des
+klosters Engelberg verzeichnet, schrift aus dem anfang des 14 jh. Die abtei
+Engelberg liegt zwischen Urn, Unterwalden und Bern, hier aber sind ihre
+besitzungen im Zürichgau gemeint.
+2) eine lücke in dem ms.; man ergänze nach höven: nieman wonen.
+Bd. I.
+1</Unicode></TextEquiv></TextRegion></Page></PcGts>

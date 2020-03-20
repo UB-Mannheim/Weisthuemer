@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-14T23:34:03</Created>
+	<LastChange>2020-03-15T00:03:37</LastChange></Metadata>
+	<Page imageFilename="bub_gb_o6S3yrj9TkwC_0011.png" imageWidth="2500" imageHeight="4053">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="l0">
+	<Coords points="1097,147 1097,223 1321,223 1321,147"/>
+	<TextEquiv>
+	<Unicode>DEUZ</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="2130,159 2130,230 2190,230 2190,159"/>
+	<TextEquiv>
+	<Unicode>d</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="378,288 378,376 2197,376 2197,288"/>
+	<TextEquiv>
+	<Unicode>Item si quid Tuytium venit navigio, nisi exoneretur, nihil</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="242,364 242,428 452,428 452,364"/>
+	<TextEquiv>
+	<Unicode>solvet.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="383,428 383,511 2197,511 2197,428"/>
+	<TextEquiv>
+	<Unicode>ltem colonienses, si conveniuntur in Tuytio, accredere se</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="238,509 238,583 2190,583 2190,509"/>
+	<TextEquiv>
+	<Unicode>possunt super suam hereditatem, si quam habent; sed si non</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="242,576 242,650 2190,650 2190,576"/>
+	<TextEquiv>
+	<Unicode>sequantur judicium, sicuti sunt vocati, significabitur judicibus co-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="242,645 242,721 2190,721 2190,645"/>
+	<TextEquiv>
+	<Unicode>loniensibus, qui de eodem judicabunt. idem jus habent tuytien-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="245,714 245,778 700,778 700,714"/>
+	<TextEquiv>
+	<Unicode>ses in Colonia.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="383,778 383,864 2190,864 2190,778"/>
+	<TextEquiv>
+	<Unicode>Item colonienses teloneum non solvent in Tuytio, nec tuy-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="240,845 240,921 709,921 709,845"/>
+	<TextEquiv>
+	<Unicode>tienses Colonie.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="385,919 385,1000 2197,1000 2197,919"/>
+	<TextEquiv>
+	<Unicode>Item si quis deliquerit in tantum, quod vulnus apertum fe-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="245,992 245,1071 2200,1071 2200,992"/>
+	<TextEquiv>
+	<Unicode>cerit, recognoscat v. marcis zů gemůde; et si aliquid aliud fecerit,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="245,1061 245,1140 840,1140 840,1061"/>
+	<TextEquiv>
+	<Unicode>VIII (I. VII½) solidis.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="390,1133 390,1211 2200,1211 2200,1133"/>
+	<TextEquiv>
+	<Unicode>Item nulla satisfastio, que dicitur gemůde, poterit de justitia</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="247,1204 247,1266 735,1266 735,1204"/>
+	<TextEquiv>
+	<Unicode>excedere wedde.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="795,1269 795,1347 1647,1347 1647,1269"/>
+	<TextEquiv>
+	<Unicode>Jus scabinorum hic sequitur.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="395,1335 395,1421 2197,1421 2197,1335"/>
+	<TextEquiv>
+	<Unicode>Item si aliquis deliquerit, scabini habebunt in majori satis-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="245,1414 245,1488 2195,1488 2195,1414"/>
+	<TextEquiv>
+	<Unicode>factione, que dicitur wedde, XXI solidos, in minori satisfactione,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="250,1483 250,1550 1104,1550 1104,1483"/>
+	<TextEquiv>
+	<Unicode>seilicet wedde, XXI denarios.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="395,1550 395,1635 2202,1635 2202,1550"/>
+	<TextEquiv>
+	<Unicode>ltem quicunque intraverit vinculum, quod dicitur vroynslos,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="252,1626 252,1697 2202,1697 2202,1626"/>
+	<TextEquiv>
+	<Unicode>non exibit sine conquisita licentia, scilicet gemůde advocati et sca-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="252,1688 252,1754 523,1754 523,1688"/>
+	<TextEquiv>
+	<Unicode>binorum.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="788,1823 788,1911 1666,1911 1666,1823"/>
+	<TextEquiv>
+	<Unicode>WEISTHUM ZU DEUZ ¹).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="1140,1900 1140,1966 1321,1966 1321,1900"/>
+	<TextEquiv>
+	<Unicode>1386.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="390,1988 390,2069 2200,2069 2200,1988"/>
+	<TextEquiv>
+	<Unicode>In gotz namen amen. wir Herman von Keldenich, Cone</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="252,2054 252,2133 2200,2133 2200,2054"/>
+	<TextEquiv>
+	<Unicode>Swarz, Heinrich van den Bucke, Elger vermeister , Herman</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="252,2130 252,2204 2202,2204 2202,2130"/>
+	<TextEquiv>
+	<Unicode>cloesterman, Godart van der arffen, Johan van Huuffe, Otto</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="257,2195 257,2273 2195,2273 2195,2195"/>
+	<TextEquiv>
+	<Unicode>Boilzendaill und Heirich van Polle, scheffen zu Duitze, begeren</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="254,2271 254,2342 2200,2342 2200,2271"/>
+	<TextEquiv>
+	<Unicode>kunt zu sein allen luiden, dat in den jairen unns. hern, do man</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="252,2338 252,2411 2202,2411 2202,2338"/>
+	<TextEquiv>
+	<Unicode>schreif nae gotz gebuirde duisent drihundert seſsindechtzig des</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="252,2409 252,2483 2200,2483 2200,2409"/>
+	<TextEquiv>
+	<Unicode>vridages nae dem sondage, dat man sank invocavit, in der vasten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="254,2483 254,2550 2200,2550 2200,2483"/>
+	<TextEquiv>
+	<Unicode>zu mittage erschienen vur uns in vollen gerichte. dat in disen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="250,2547 250,2623 2200,2623 2200,2547"/>
+	<TextEquiv>
+	<Unicode>sachen gestalt ind geboidt was, uns. gn. hern vrunde, as uns hern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="250,2616 250,2690 2200,2690 2200,2616"/>
+	<TextEquiv>
+	<Unicode>heren Frederichs van der gnaiden gotz erzbuisschof zu Colne</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="250,2688 250,2754 2197,2754 2197,2688"/>
+	<TextEquiv>
+	<Unicode>vur in und van sinen weghen die eirbare frome luide mit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="254,2757 254,2833 2197,2833 2197,2757"/>
+	<TextEquiv>
+	<Unicode>namen die edele hern Heinrich van Fleckenstein here zo Dage-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="250,2828 250,2895 2200,2895 2200,2828"/>
+	<TextEquiv>
+	<Unicode>stoile, her Johan Hircelen zu senct Cunibertz in Colne, und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="247,2892 247,2971 2197,2971 2197,2892"/>
+	<TextEquiv>
+	<Unicode>herre Elger van Duitze zu Reefs proeste, her Engelbrecht van</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="252,2964 252,3040 2200,3040 2200,2964"/>
+	<TextEquiv>
+	<Unicode>Dyrsbeek und her Johan van Troyen rittere an die eine site;</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="254,3035 254,3100 2195,3100 2195,3035"/>
+	<TextEquiv>
+	<Unicode>und uns hern hern Wilhems van der selver gnaiden goitz her-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="254,3102 254,3176 2197,3176 2197,3102"/>
+	<TextEquiv>
+	<Unicode>zogen van dem Berghe u. graven zo Ravensberg, vur in und si-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="250,3173 250,3242 2200,3242 2200,3173"/>
+	<TextEquiv>
+	<Unicode>nen weigen die eirbare und frome luide her Wilhem Stail und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="250,3238 250,3316 2195,3316 2195,3238"/>
+	<TextEquiv>
+	<Unicode>her Dederich van dem forste rittere, Johan van der Dornenbergh</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="250,3314 250,3383 2195,3383 2195,3314"/>
+	<TextEquiv>
+	<Unicode>gnant Affenbroich, Johan vaigt van Mecheim, Gerhardus van</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="250,3380 250,3457 2197,3457 2197,3380"/>
+	<TextEquiv>
+	<Unicode>Weiſsbroich der rentmeistere, Bruin van Tzwivell ind Gise sin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="252,3452 252,3530 2195,3530 2195,3452"/>
+	<TextEquiv>
+	<Unicode>broder knapen an die ander site, van der vurfs. uns beider</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="371,3592 371,3666 2192,3666 2192,3592"/>
+	<TextEquiv>
+	<Unicode>1) aus Kindlinger 60, 201. drei andere abschriften daselbst s. 177 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="254,3652 254,3716 2192,3716 2192,3652"/>
+	<TextEquiv>
+	<Unicode>191 ff. 209 ff. Die zweite hälfte dieses weisth. stimmt mit der vorhergehen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="257,3711 257,3778 1042,3778 1042,3711"/>
+	<TextEquiv>
+	<Unicode>den lat. urkunde meistentheils.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="1616,3769 1616,3842 1711,3842 1711,3769"/>
+	<TextEquiv>
+	<Unicode>1 *</Unicode></TextEquiv></TextLine></TextRegion></Page></PcGts>

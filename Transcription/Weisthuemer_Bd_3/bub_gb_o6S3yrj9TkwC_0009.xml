@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-14T21:16:26</Created>
+	<LastChange>2020-03-20T15:59:06</LastChange></Metadata>
+	<Page imageFilename="bub_gb_o6S3yrj9TkwC_0009.png" imageWidth="2500" imageHeight="4019">
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="765,148 1612,148 1612,164 2158,164 2158,247 1658,247 1658,1156 2158,1156 2158,1660 2160,1660 2160,2080 2163,2080 2163,2151 2178,2151 2178,2224 2168,2224 2168,2292 2163,2292 2163,2436 2160,2436 2160,2712 2158,2712 2158,3409 2153,3409 2153,3739 1709,3739 1709,3848 1658,3848 1658,3739 634,3739 634,3795 475,3795 475,3860 265,3860 265,3795 209,3795 209,3682 207,3682 207,3409 202,3409 202,3341 200,3341 200,1309 192,1309 192,1243 324,1243 324,1156 687,1156 687,946 765,946"/>
+	<TextLine id="l0">
+	<Coords points="765,148 765,241 1612,241 1612,148"/>
+	<TextEquiv>
+	<Unicode>WESTFALEN ¹). DEUZ</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="687,946 687,1041 1658,1041 1658,946"/>
+	<TextEquiv>
+	<Unicode>JURA OPPIDI TUITIENSIS ²).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="204,1660 204,1731 2160,1731 2160,1660"/>
+	<TextEquiv>
+	<Unicode>scultetus vel officiatus domini coloniensis habet questionis, signi-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="202,1729 202,1800 2160,1800 2160,1729"/>
+	<TextEquiv>
+	<Unicode>ficabit advocato tanquam judici. Quicquid his diebus de judicio</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="204,1800 204,1870 2156,1870 2156,1800"/>
+	<TextEquiv>
+	<Unicode>emergit, habebit advocatus tertiam partem, scultetus duplam de</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="200,1868 200,1941 868,1941 868,1868"/>
+	<TextEquiv>
+	<Unicode>emergentiis in judicio.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="346,1941 346,2012 2160,2012 2160,1941"/>
+	<TextEquiv>
+	<Unicode>ltem si sunt pignora capienda, preco sive nuntius advocati</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="204,2004 204,2082 2156,2082 2156,2004"/>
+	<TextEquiv>
+	<Unicode>intrabit domum ad accipienda pignora, et preconi sive nuntio</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="200,2080 200,2153 2163,2153 2163,2080"/>
+	<TextEquiv>
+	<Unicode>sculteti assignabit. que pignora conservabit preco sive nuntius</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="202,2151 202,2224 2178,2224 2178,2151"/>
+	<TextEquiv>
+	<Unicode>predictus sculteti per tridunm sive tribus diebus, quarta die ven-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="207,2224 207,2292 2168,2292 2168,2224"/>
+	<TextEquiv>
+	<Unicode>det, et valorem debentibus restituet vallato suo juramento vel</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="202,2290 202,2363 619,2363 619,2290"/>
+	<TextEquiv>
+	<Unicode>prout juravit.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="809,1041 809,1143 1546,1143 1546,1041"/>
+	<TextEquiv>
+	<Unicode>aus dem 13 oder 14 jh.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="346,2358 346,2436 2163,2436 2163,2358"/>
+	<TextEquiv>
+	<Unicode>Item predicti precones sive nuntii nullius concivis pignus</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="209,2429 209,2504 1882,2504 1882,2429"/>
+	<TextEquiv>
+	<Unicode>capient, nisi sententia sit lata contra illum vel aliquem.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="346,2495 346,2568 2158,2568 2158,2495"/>
+	<TextEquiv>
+	<Unicode>Item quinque ville adjacentes, scilicet Westhoven, Polle, Ro-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="204,2565 204,2643 2156,2643 2156,2565"/>
+	<TextEquiv>
+	<Unicode>Ieshoven, Vintze, Kalke, quicquid in hiis villis actum fuerit que-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="202,2639 202,2712 2160,2712 2160,2639"/>
+	<TextEquiv>
+	<Unicode>rimonia dignum, coram judice vel judicio domini coloniensis ju-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="209,2707 209,2770 2158,2770 2158,2707"/>
+	<TextEquiv>
+	<Unicode>dicabitur in Tuytio. in testimonium veritatis singule ville tenen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="204,2768 204,2853 2156,2853 2156,2768"/>
+	<TextEquiv>
+	<Unicode>tur habere singulos scabinos, unaqueque villa unum, ut si quid</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="202,2848 202,2921 2158,2921 2158,2848"/>
+	<TextEquiv>
+	<Unicode>actum fuerit in hiis villis predictis, testificentur coram judicio, ut</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="200,2917 200,2985 482,2985 482,2917"/>
+	<TextEquiv>
+	<Unicode>tenentur.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="351,2985 351,3058 2156,3058 2156,2985"/>
+	<TextEquiv>
+	<Unicode>Item officiatus sive scultetus domini coloniensis per totum</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="324,1156 324,1246 2158,1246 2158,1156"/>
+	<TextEquiv>
+	<Unicode>Hec sunt jura, que nobis antecessores nostri scabini relique-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="200,3058 200,3131 2156,3131 2156,3058"/>
+	<TextEquiv>
+	<Unicode>annum presidebit judicio, exceptis tribus temporibus, ut supra</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="2070,164 2070,247 2158,247 2158,164"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="204,3129 204,3185 543,3185 543,3129"/>
+	<TextEquiv>
+	<Unicode>dictum est.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="343,3187 343,3265 2156,3265 2156,3187"/>
+	<TextEquiv>
+	<Unicode>Item si aliquid tale actum fuerit, quod dignum sit duello</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="200,3260 200,3341 2156,3341 2156,3260"/>
+	<TextEquiv>
+	<Unicode>sive pugna, scultetus judex erit, usque conveniant in locum, qui</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="202,3334 202,3409 2158,3409 2158,3334"/>
+	<TextEquiv>
+	<Unicode>dicitur werff. ultra scultetus et advocatus pariter pugnam vel</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="321,3490 321,3556 2151,3556 2151,3490"/>
+	<TextEquiv>
+	<Unicode>1) unter Westfalen verstehe ich hier das ganze landgebiet zwischen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="209,3551 209,3619 2153,3619 2153,3551"/>
+	<TextEquiv>
+	<Unicode>Rhein und Weser, zwischen Holland und Friesland (nordwärts), und der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="207,3617 207,3682 1097,3682 1097,3617"/>
+	<TextEquiv>
+	<Unicode>Sieg, Wetterau, Hessen (südwärts).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="192,1243 192,1309 2009,1309 2009,1243"/>
+	<TextEquiv>
+	<Unicode>runt, et hactenus duximus in bona consuetudine observanda.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="324,3670 324,3739 2153,3739 2153,3670"/>
+	<TextEquiv>
+	<Unicode>2) Deuz, Cöln gegenüber. aus Kindlingers saml. merkw. urk. I.p.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="209,3731 209,3795 634,3795 634,3731"/>
+	<TextEquiv>
+	<Unicode>1806 p. 133 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="265,3795 265,3860 475,3860 475,3795"/>
+	<TextEquiv>
+	<Unicode>Bd. III.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="1658,3782 1658,3848 1709,3848 1709,3782"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="343,1304 343,1385 2153,1385 2153,1304"/>
+	<TextEquiv>
+	<Unicode>Primo, quod infra parochiam et opidum tuitiense officiatus</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="202,1378 202,1456 2158,1456 2158,1378"/>
+	<TextEquiv>
+	<Unicode>domini nostri coloniensis, sive scultetus tuiliensis presidebit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="202,1446 202,1521 426,1521 426,1446"/>
+	<TextEquiv>
+	<Unicode>judicio.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="343,1514 343,1597 2156,1597 2156,1514"/>
+	<TextEquiv>
+	<Unicode>Item tria sunt judicia per annum, que dicuntur judicia non</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="204,1590 204,1663 2153,1663 2153,1590"/>
+	<TextEquiv>
+	<Unicode>iudicia, in quibus presidebit advocatus judex. Si quid his diebus</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>WESTFALEN ¹). DEUZ
+1
+JURA OPPIDI TUITIENSIS ²).
+aus dem 13 oder 14 jh.
+Hec sunt jura, que nobis antecessores nostri scabini relique-
+runt, et hactenus duximus in bona consuetudine observanda.
+Primo, quod infra parochiam et opidum tuitiense officiatus
+domini nostri coloniensis, sive scultetus tuiliensis presidebit
+judicio.
+Item tria sunt judicia per annum, que dicuntur judicia non
+iudicia, in quibus presidebit advocatus judex. Si quid his diebus
+scultetus vel officiatus domini coloniensis habet questionis, signi-
+ficabit advocato tanquam judici. Quicquid his diebus de judicio
+emergit, habebit advocatus tertiam partem, scultetus duplam de
+emergentiis in judicio.
+ltem si sunt pignora capienda, preco sive nuntius advocati
+intrabit domum ad accipienda pignora, et preconi sive nuntio
+sculteti assignabit. que pignora conservabit preco sive nuntius
+predictus sculteti per tridunm sive tribus diebus, quarta die ven-
+det, et valorem debentibus restituet vallato suo juramento vel
+prout juravit.
+Item predicti precones sive nuntii nullius concivis pignus
+capient, nisi sententia sit lata contra illum vel aliquem.
+Item quinque ville adjacentes, scilicet Westhoven, Polle, Ro-
+Ieshoven, Vintze, Kalke, quicquid in hiis villis actum fuerit que-
+rimonia dignum, coram judice vel judicio domini coloniensis ju-
+dicabitur in Tuytio. in testimonium veritatis singule ville tenen-
+tur habere singulos scabinos, unaqueque villa unum, ut si quid
+actum fuerit in hiis villis predictis, testificentur coram judicio, ut
+tenentur.
+Item officiatus sive scultetus domini coloniensis per totum
+annum presidebit judicio, exceptis tribus temporibus, ut supra
+dictum est.
+Item si aliquid tale actum fuerit, quod dignum sit duello
+sive pugna, scultetus judex erit, usque conveniant in locum, qui
+dicitur werff. ultra scultetus et advocatus pariter pugnam vel
+1) unter Westfalen verstehe ich hier das ganze landgebiet zwischen
+Rhein und Weser, zwischen Holland und Friesland (nordwärts), und der
+Sieg, Wetterau, Hessen (südwärts).
+2) Deuz, Cöln gegenüber. aus Kindlingers saml. merkw. urk. I.p.
+1806 p. 133 ff.
+1
+Bd. III.</Unicode></TextEquiv></TextRegion></Page></PcGts>

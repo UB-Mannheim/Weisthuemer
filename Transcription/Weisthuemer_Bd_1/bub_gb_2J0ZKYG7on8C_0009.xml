@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-11T22:34:10</Created>
+	<LastChange>2020-03-20T15:42:30</LastChange></Metadata>
+	<Page imageFilename="bub_gb_2J0ZKYG7on8C_0009.png" imageWidth="1516" imageHeight="2500">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="693,126 877,126 877,212 1363,212 1363,253 1369,253 1369,300 1365,300 1365,548 1363,548 1363,585 1361,585 1361,707 1364,707 1364,952 1365,952 1365,998 1363,998 1363,1123 1362,1123 1362,1245 1361,1245 1361,1328 1360,1328 1360,1492 1361,1492 1361,1530 1362,1530 1362,1654 1364,1654 1364,1702 1175,1702 1175,1915 1358,1915 1358,1961 1360,1961 1360,2042 1363,2042 1363,2088 1358,2088 1358,2128 1301,2128 1301,2247 834,2247 834,2282 280,2282 280,2247 212,2247 212,2042 214,2042 214,2002 217,2002 217,1961 296,1961 296,1915 392,1915 392,1742 214,1742 214,1572 211,1572 211,1530 214,1530 214,1411 212,1411 212,1241 215,1241 215,1123 212,1123 212,998 211,998 211,952 214,952 214,914 215,914 215,752 214,752 214,711 211,711 211,585 210,585 210,542 212,542 212,502 214,502 214,261 212,261 212,173 208,173 208,128 248,128 248,212 693,212"/>
+	<TextLine id="l0">
+	<Coords points="208,128 208,173 248,173 248,128"/>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="693,126 693,177 877,177 877,126"/>
+	<TextEquiv>
+	<Unicode>ZÜRICH</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="210,542 210,585 1363,585 1363,542"/>
+	<TextEquiv>
+	<Unicode>do er in daz tôtbette kam, vnd sin gûwant alles, als er zu kil-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="212,589 212,630 1361,630 1361,589"/>
+	<TextEquiv>
+	<Unicode>chon gieng von rechter eigenschefte. Wir han ovch an únsren</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="212,624 212,671 1359,671 1359,624"/>
+	<TextEquiv>
+	<Unicode>hantuestin vnd brîeuen, wer an lîperben stirbet, dc wir den er-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="211,667 211,711 1361,711 1361,667"/>
+	<TextEquiv>
+	<Unicode>ben sullen, vnd sun die gnôſzami lieplich mit úns dem vorgú-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="214,707 214,752 1364,752 1364,707"/>
+	<TextEquiv>
+	<Unicode>schribnem apte vnd gotzhus lan tegdingen. Ovch sol ein probst,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="216,748 216,794 1364,794 1364,748"/>
+	<TextEquiv>
+	<Unicode>den denn des e gúnanden gotzhus apt sezzet vff dc vor gúschri-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="215,790 215,832 1358,832 1358,790"/>
+	<TextEquiv>
+	<Unicode>ben ampt vnd die hoeue, dristunt vss varn in dem jare, ze sant</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="215,830 215,875 1364,875 1364,830"/>
+	<TextEquiv>
+	<Unicode>Martis dult, zú sant Hylarien dult vnd zú sant Walpurg dult,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="217,872 217,916 1364,916 1364,872"/>
+	<TextEquiv>
+	<Unicode>vnd darnach als dik als sin lúte oder gůt búdurfen, vnd sol</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="214,914 214,952 1364,952 1364,914"/>
+	<TextEquiv>
+	<Unicode>denne den selben dienst vinden als da vor gúschriben ist dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="212,212 212,261 1363,261 1363,212"/>
+	<TextEquiv>
+	<Unicode>des gotzhûs eigen Iúte dc recht, dc si dú lên, dû si von dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="211,952 211,998 1365,998 1365,952"/>
+	<TextEquiv>
+	<Unicode>apte, beide er vnd die fverer die daz korn fuerent. Da zů ist</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="212,996 212,1040 1363,1040 1363,996"/>
+	<TextEquiv>
+	<Unicode>im zúgeben in sinem ampte velle, erschetzze, vogtstúr vnd erb-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="212,1035 212,1080 1361,1080 1361,1035"/>
+	<TextEquiv>
+	<Unicode>zins, vnd da der val wirt gúrichtet, als vor gúschriben ist, da</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="212,1078 212,1123 1363,1123 1363,1078"/>
+	<TextEquiv>
+	<Unicode>mitte hant des gotzhus eigenlúte enpfangen lên vnd erbe. Vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="215,1121 215,1161 1361,1161 1361,1121"/>
+	<TextEquiv>
+	<Unicode>wan des vorgúſchribnen gotzhus lúte ander vogte nit hant noch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="216,1161 216,1200 1362,1200 1362,1161"/>
+	<TextEquiv>
+	<Unicode>sullen han dur recht wan ein apt von Engelberg, dar umb sun si</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="215,1202 215,1245 1362,1245 1362,1202"/>
+	<TextEquiv>
+	<Unicode>einem propste, den der apt sezzet, geben allen den hernesch,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="212,1241 212,1287 1361,1287 1361,1241"/>
+	<TextEquiv>
+	<Unicode>den ein man han sol zú sinem libe, vnd wan des vorgúnanden</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="215,1289 215,1328 1361,1328 1361,1289"/>
+	<TextEquiv>
+	<Unicode>gotzhus apt vnd herren geislich lúte vnd múnch sint vnd heiſzent,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="212,1325 212,1367 1358,1367 1358,1325"/>
+	<TextEquiv>
+	<Unicode>wer denne wider in tůt, der gotzhus eigen lúten, des lip vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="216,253 216,300 1369,300 1369,253"/>
+	<TextEquiv>
+	<Unicode>gotzhus hant, dc si da mit ir kint dû des gotzhus eigen sint,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="212,1363 212,1411 1358,1411 1358,1363"/>
+	<TextEquiv>
+	<Unicode>gůt ist alle tage dristont g (?) vervallon einem apte, vnz an sin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="214,1410 214,1452 1360,1452 1360,1410"/>
+	<TextEquiv>
+	<Unicode>gúnade. Swenne ovch ein apt von Engelberg dú vor gúzalten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="214,1451 214,1491 1360,1491 1360,1451"/>
+	<TextEquiv>
+	<Unicode>tegding selber hat, vnd die dienst nimet als da vor geschriben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="214,1492 214,1535 1361,1535 1361,1492"/>
+	<TextEquiv>
+	<Unicode>ist, so sol er vff ieklichen hof, da er den dienst nimet, vnd teg-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="211,1530 211,1572 1362,1572 1362,1530"/>
+	<TextEquiv>
+	<Unicode>ding het, einest in dem jare geben ein stier der zîtuang ist vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="214,1572 214,1610 1127,1610 1127,1572"/>
+	<TextEquiv>
+	<Unicode>einem zinſzigern. Diz het alles der stifter gúsezzet.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="298,1612 298,1655 1360,1655 1360,1612"/>
+	<TextEquiv>
+	<Unicode>Die vor gúschriben recht, dú dc gotzhus von Engelberg in</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="215,1654 215,1702 1364,1702 1364,1654"/>
+	<TextEquiv>
+	<Unicode>Zyrichgoe hat, dú selben hat es ovch in Argoe, [von späterer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="214,1696 214,1742 781,1742 781,1696"/>
+	<TextEquiv>
+	<Unicode>ANDRER ENGELBERGER HOFRODEL ¹).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="392,1790 392,1844 1175,1844 1175,1790"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="214,297 214,346 1363,346 1363,297"/>
+	<TextEquiv>
+	<Unicode>búraten sullen in die gnossami mit des aptes hant oder des prop-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="424,1848 424,1898 1154,1898 1154,1848"/>
+	<TextEquiv>
+	<Unicode>(wahrscheinlich aus der mitte des 14 jh.)</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="296,1915 296,1957 1358,1957 1358,1915"/>
+	<TextEquiv>
+	<Unicode>Eines abtz vnd des gotzhus friger hof ze Engelberg sol gan</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="217,1961 217,2002 1360,2002 1360,1961"/>
+	<TextEquiv>
+	<Unicode>von des kilchoues ort in das alt ochsentürli ²) ob dem brůderhus,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="214,2002 214,2038 1360,2038 1360,2002"/>
+	<TextEquiv>
+	<Unicode>vnd von dem ochsentürli an das ort der frowen chloster, vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="212,2042 212,2088 1363,2088 1363,2042"/>
+	<TextEquiv>
+	<Unicode>von der frowenchloster an den spital, vnd von dem spital bi dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="212,2083 212,2128 1358,2128 1358,2083"/>
+	<TextEquiv>
+	<Unicode>zun hin vnder den alten eschen, von den alten eschen den zun</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="212,2208 212,2247 1301,2247 1301,2208"/>
+	<TextEquiv>
+	<Unicode>geschrieben, damit auf ihn, wie auf das evangelium, geschworen werde.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="214,336 214,381 1365,381 1365,336"/>
+	<TextEquiv>
+	<Unicode>stes, den er an sin stat sezzet, vnd sol si des der egúnande apt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="280,2244 280,2282 834,2282 834,2244"/>
+	<TextEquiv>
+	<Unicode>2) es steht: in der alten ochsentürl.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="214,377 214,422 1363,422 1363,377"/>
+	<TextEquiv>
+	<Unicode>nit irren. ovch sol dú vorgúschriben lên ein gotzhusman von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="214,416 214,463 1363,463 1363,416"/>
+	<TextEquiv>
+	<Unicode>dem andern erben vnz an das núnde gúslechte, vnd wa ûnsers</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="214,461 214,506 1365,506 1365,461"/>
+	<TextEquiv>
+	<Unicode>gotzhus man stirbet, wer den dur recht erben sol, vnd des gotz-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="212,502 212,548 1365,548 1365,502"/>
+	<TextEquiv>
+	<Unicode>hus eigen ist, der sol geben das beste hôpt, dc der man hatte,</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ZÜRICH
+2
+des gotzhûs eigen Iúte dc recht, dc si dú lên, dû si von dem
+gotzhus hant, dc si da mit ir kint dû des gotzhus eigen sint,
+búraten sullen in die gnossami mit des aptes hant oder des prop-
+stes, den er an sin stat sezzet, vnd sol si des der egúnande apt
+nit irren. ovch sol dú vorgúschriben lên ein gotzhusman von
+dem andern erben vnz an das núnde gúslechte, vnd wa ûnsers
+gotzhus man stirbet, wer den dur recht erben sol, vnd des gotz-
+hus eigen ist, der sol geben das beste hôpt, dc der man hatte,
+do er in daz tôtbette kam, vnd sin gûwant alles, als er zu kil-
+chon gieng von rechter eigenschefte. Wir han ovch an únsren
+hantuestin vnd brîeuen, wer an lîperben stirbet, dc wir den er-
+ben sullen, vnd sun die gnôſzami lieplich mit úns dem vorgú-
+schribnem apte vnd gotzhus lan tegdingen. Ovch sol ein probst,
+den denn des e gúnanden gotzhus apt sezzet vff dc vor gúschri-
+ben ampt vnd die hoeue, dristunt vss varn in dem jare, ze sant
+Martis dult, zú sant Hylarien dult vnd zú sant Walpurg dult,
+vnd darnach als dik als sin lúte oder gůt búdurfen, vnd sol
+denne den selben dienst vinden als da vor gúschriben ist dem
+apte, beide er vnd die fverer die daz korn fuerent. Da zů ist
+im zúgeben in sinem ampte velle, erschetzze, vogtstúr vnd erb-
+zins, vnd da der val wirt gúrichtet, als vor gúschriben ist, da
+mitte hant des gotzhus eigenlúte enpfangen lên vnd erbe. Vnd
+wan des vorgúſchribnen gotzhus lúte ander vogte nit hant noch
+sullen han dur recht wan ein apt von Engelberg, dar umb sun si
+einem propste, den der apt sezzet, geben allen den hernesch,
+den ein man han sol zú sinem libe, vnd wan des vorgúnanden
+gotzhus apt vnd herren geislich lúte vnd múnch sint vnd heiſzent,
+wer denne wider in tůt, der gotzhus eigen lúten, des lip vnd
+gůt ist alle tage dristont g (?) vervallon einem apte, vnz an sin
+gúnade. Swenne ovch ein apt von Engelberg dú vor gúzalten
+tegding selber hat, vnd die dienst nimet als da vor geschriben
+ist, so sol er vff ieklichen hof, da er den dienst nimet, vnd teg-
+ding het, einest in dem jare geben ein stier der zîtuang ist vnd
+einem zinſzigern. Diz het alles der stifter gúsezzet.
+Die vor gúschriben recht, dú dc gotzhus von Engelberg in
+Zyrichgoe hat, dú selben hat es ovch in Argoe, [von späterer
+ANDRER ENGELBERGER HOFRODEL ¹).
+
+(wahrscheinlich aus der mitte des 14 jh.)
+Eines abtz vnd des gotzhus friger hof ze Engelberg sol gan
+von des kilchoues ort in das alt ochsentürli ²) ob dem brůderhus,
+vnd von dem ochsentürli an das ort der frowen chloster, vnd
+von der frowenchloster an den spital, vnd von dem spital bi dem
+zun hin vnder den alten eschen, von den alten eschen den zun
+geschrieben, damit auf ihn, wie auf das evangelium, geschworen werde.
+2) es steht: in der alten ochsentürl.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-14T12:24:46</Created>
+	<LastChange>2020-03-20T15:46:11</LastChange></Metadata>
+	<Page imageFilename="bub_gb_2J0ZKYG7on8C_0011.png" imageWidth="1509" imageHeight="2500">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="687,107 871,107 871,196 1358,196 1358,400 1360,400 1360,485 1358,485 1358,610 1360,610 1360,733 1358,733 1358,935 1360,935 1360,1019 1362,1019 1362,1180 1364,1180 1364,1264 1362,1264 1362,1307 1360,1307 1360,1466 1362,1466 1362,1553 1364,1553 1364,1591 1366,1591 1366,1835 1367,1835 1367,1880 1366,1880 1366,2042 910,2042 910,2083 814,2083 814,2216 1283,2216 1283,2257 292,2257 292,2083 223,2083 223,2042 221,2042 221,1917 216,1917 216,1878 219,1878 219,1719 217,1719 217,1591 216,1591 216,1553 219,1553 219,1430 217,1430 217,1392 216,1392 216,1307 214,1307 214,1021 212,1021 212,976 214,976 214,855 212,855 212,814 210,814 210,650 208,650 208,280 207,280 207,153 205,153 205,112 235,112 235,196 687,196"/>
+	<TextLine id="l0">
+	<Coords points="687,107 687,155 871,155 871,107"/>
+	<TextEquiv>
+	<Unicode>ZÜRICH</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="212,446 212,485 1360,485 1360,446"/>
+	<TextEquiv>
+	<Unicode>sen zilen hornschellen noch gewilt vellen noch wighaftigen buw</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="210,485 210,530 1358,530 1358,485"/>
+	<TextEquiv>
+	<Unicode>machen [..........] an des gotzhus willen noch ligendi</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="208,530 208,571 1357,571 1357,530"/>
+	<TextEquiv>
+	<Unicode>güter verkovfen noch hingeben vssern Jüten, vnd sol ovch nieman</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="210,569 210,612 1357,612 1357,569"/>
+	<TextEquiv>
+	<Unicode>gůt haben in disen zilen, wann der es enpfangen hett von einem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="208,610 208,650 1360,650 1360,610"/>
+	<TextEquiv>
+	<Unicode>abt oder von dem der ze gericht sizzet an eis abtz stat, vnd wer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="210,651 210,694 1358,694 1358,651"/>
+	<TextEquiv>
+	<Unicode>gůt het gekouft vnd es nüt in jares frist enphahet von einem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="212,691 212,733 1360,733 1360,691"/>
+	<TextEquiv>
+	<Unicode>abt oder von dem der an siner stat ze gericht sizt, oder der gots-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="210,730 210,775 1358,775 1358,730"/>
+	<TextEquiv>
+	<Unicode>hus gueter het uber jar vngezinset, die gueter sint dem gotzhus</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="210,773 210,814 1358,814 1358,773"/>
+	<TextEquiv>
+	<Unicode>lidklich vervallen vnz an des aptz gnade. Es sol ovch enhein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="205,112 205,153 235,153 235,112"/>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="212,814 212,855 1358,855 1358,814"/>
+	<TextEquiv>
+	<Unicode>gotzhusman lib noch ligent gůt hinnan ziehen an eis abtz willen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="214,855 214,896 400,896 400,855"/>
+	<TextEquiv>
+	<Unicode>vnd gunst.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="298,894 298,937 1357,937 1357,894"/>
+	<TextEquiv>
+	<Unicode>Es sollent ovch des gotzhus lüte ir zins richten, zigerkes,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="214,935 214,978 1360,978 1360,935"/>
+	<TextEquiv>
+	<Unicode>zinspfenning ze sant Gallun tag, die eiger ze ostran, die milchei-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="212,976 212,1021 1360,1021 1360,976"/>
+	<TextEquiv>
+	<Unicode>mer ze pfingsten, dir meienstür vf sant Johanstag. Es ist ovch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="217,1019 217,1062 1362,1062 1362,1019"/>
+	<TextEquiv>
+	<Unicode>gewonlich, so man die ziger vnd kes zinset, das ein abt fünf</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="216,1060 216,1103 1360,1103 1360,1060"/>
+	<TextEquiv>
+	<Unicode>erber man erwelt, die die ziger vnd kes schezent bi dem eide,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="214,1101 214,1141 1362,1141 1362,1101"/>
+	<TextEquiv>
+	<Unicode>den si dem gotzhus hent getan, vnd so die sprechent bi dem eid</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="216,1142 216,1182 1362,1182 1362,1142"/>
+	<TextEquiv>
+	<Unicode>das man die ziger nemen solle, so sol man si nemen, wölti aber</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="216,1180 216,1225 1364,1225 1364,1180"/>
+	<TextEquiv>
+	<Unicode>ein abt si nüt nemen, so sol der, des der ziger ist, VII sch. IIII d.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="208,196 208,239 1358,239 1358,196"/>
+	<TextEquiv>
+	<Unicode>ob Grůblen hin iemerme, vnz an Joch. vnd ab Joch vnz an</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="214,1223 214,1264 1364,1264 1364,1223"/>
+	<TextEquiv>
+	<Unicode>für ieklichen ziger geben, vnd ze den heilgen swerren, das er da-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="214,1262 214,1307 1362,1307 1362,1262"/>
+	<TextEquiv>
+	<Unicode>mit verzinset habe. die ziger söllent gemachet sin mit dem mul-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="217,1305 217,1350 1360,1350 1360,1305"/>
+	<TextEquiv>
+	<Unicode>chen, das des jares von mitten meijen vnz an sant Gallen tag</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="216,1344 216,1392 1360,1392 1360,1344"/>
+	<TextEquiv>
+	<Unicode>gemulchen ist, an alle geuerde, vnd in ieklichen ziger legen XVI</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="217,1389 217,1430 1360,1430 1360,1389"/>
+	<TextEquiv>
+	<Unicode>fund vnd zwen altbecher saltzes. so ovch die schezer sprechent,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="221,1430 221,1469 1360,1469 1360,1430"/>
+	<TextEquiv>
+	<Unicode>das die kes sigen ze nemenne, die sol man nemen, ald aber der,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="219,1466 219,1510 1362,1510 1362,1466"/>
+	<TextEquiv>
+	<Unicode>der die kes zinset, sol geben III sch. IIII d. vnd ze den heilgen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="219,1507 219,1553 1362,1553 1362,1507"/>
+	<TextEquiv>
+	<Unicode>swerren, das er gezinset habe damit an alle geverd. Vnd wer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="216,1553 216,1591 1364,1591 1364,1553"/>
+	<TextEquiv>
+	<Unicode>sin zins nüt richtet vf den vorgeschribnen tagen , der sol es bess-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="221,1591 221,1633 1366,1633 1366,1591"/>
+	<TextEquiv>
+	<Unicode>ren mit III sch. Ovch sol ein melcheimer gemachet sin mit der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="207,239 207,280 1357,280 1357,239"/>
+	<TextEquiv>
+	<Unicode>Stoerben vnd ab Stoerben dur Ritun vf vnz an den Elwen stein,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="221,1632 221,1675 1364,1675 1364,1632"/>
+	<TextEquiv>
+	<Unicode>mulchen, as sie von der ků gemulchen wirt, die sol man erwel-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="217,1673 217,1719 1366,1719 1366,1673"/>
+	<TextEquiv>
+	<Unicode>len vnd dik machen vnd nüt keslupen vnd nüt nidlun, vnd sol</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="219,1716 219,1755 1366,1755 1366,1716"/>
+	<TextEquiv>
+	<Unicode>ein VI altmessigen kübel füllen. Es sol ovch en ieklich hus, da</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="219,1755 219,1801 1366,1801 1366,1755"/>
+	<TextEquiv>
+	<Unicode>jar vnd tag husröiki ist gesin, ein vasnachthůn geben, wer ovch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="219,1800 219,1837 1366,1837 1366,1800"/>
+	<TextEquiv>
+	<Unicode>von dem gotzhus erblehen het, der sol ein tagwan tůn, ein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="219,1835 219,1880 1367,1880 1367,1835"/>
+	<TextEquiv>
+	<Unicode>man megen, vnd ein frow schniden, der des nüt tůt der sol es</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="216,1878 216,1917 1366,1917 1366,1878"/>
+	<TextEquiv>
+	<Unicode>bessren mit III sch. vnd aber den tagwan tůn. wer ovch ein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="221,1914 221,1962 1364,1962 1364,1914"/>
+	<TextEquiv>
+	<Unicode>Kanschilling sol, der sol ein vart tůn gen Kam ¹), der VI Kan-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="223,1962 223,2003 1364,2003 1364,1962"/>
+	<TextEquiv>
+	<Unicode>pfennig sol, der sol ein halb Kanuart tůn, wele aber minz sol,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="221,2000 221,2042 1366,2042 1366,2000"/>
+	<TextEquiv>
+	<Unicode>da mag ein abt die pfenning lan stân, vnz das er ein sch. schul-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="208,280 208,321 1357,321 1357,280"/>
+	<TextEquiv>
+	<Unicode>vnd ab dem Elwenstein hin, vnz in Sanden vf den grât, ab dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="223,2041 223,2083 910,2083 910,2041"/>
+	<TextEquiv>
+	<Unicode>dig wirt, vnd sol den ein Kanfart tůn.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="301,2082 301,2132 644,2132 644,2082"/>
+	<TextEquiv>
+	<Unicode>Es sol ovch enh ²).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="292,2178 292,2219 814,2219 814,2178"/>
+	<TextEquiv>
+	<Unicode>1) Cham, im canton Zug gelegen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="292,2216 292,2257 1283,2257 1283,2216"/>
+	<TextEquiv>
+	<Unicode>2) so ist im ms. ein neuer satz angefangen aber nicht fortgeführt.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="210,321 210,366 1358,366 1358,321"/>
+	<TextEquiv>
+	<Unicode>grât in Wallenegge, von Wallenegge vnz in den Elsbuel, von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="210,362 210,403 1358,403 1358,362"/>
+	<TextEquiv>
+	<Unicode>Elsbuel wider in Rotenhalden. In disen ziln sint elli gericht</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="208,400 208,446 1360,446 1360,400"/>
+	<TextEquiv>
+	<Unicode>des gotzhus über des gotzhus lüt vnd gůt, vnd sol nieman in di-</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ZÜRICH
+4
+ob Grůblen hin iemerme, vnz an Joch. vnd ab Joch vnz an
+Stoerben vnd ab Stoerben dur Ritun vf vnz an den Elwen stein,
+vnd ab dem Elwenstein hin, vnz in Sanden vf den grât, ab dem
+grât in Wallenegge, von Wallenegge vnz in den Elsbuel, von
+Elsbuel wider in Rotenhalden. In disen ziln sint elli gericht
+des gotzhus über des gotzhus lüt vnd gůt, vnd sol nieman in di-
+sen zilen hornschellen noch gewilt vellen noch wighaftigen buw
+machen [..........] an des gotzhus willen noch ligendi
+güter verkovfen noch hingeben vssern Jüten, vnd sol ovch nieman
+gůt haben in disen zilen, wann der es enpfangen hett von einem
+abt oder von dem der ze gericht sizzet an eis abtz stat, vnd wer
+gůt het gekouft vnd es nüt in jares frist enphahet von einem
+abt oder von dem der an siner stat ze gericht sizt, oder der gots-
+hus gueter het uber jar vngezinset, die gueter sint dem gotzhus
+lidklich vervallen vnz an des aptz gnade. Es sol ovch enhein
+gotzhusman lib noch ligent gůt hinnan ziehen an eis abtz willen
+vnd gunst.
+Es sollent ovch des gotzhus lüte ir zins richten, zigerkes,
+zinspfenning ze sant Gallun tag, die eiger ze ostran, die milchei-
+mer ze pfingsten, dir meienstür vf sant Johanstag. Es ist ovch
+gewonlich, so man die ziger vnd kes zinset, das ein abt fünf
+erber man erwelt, die die ziger vnd kes schezent bi dem eide,
+den si dem gotzhus hent getan, vnd so die sprechent bi dem eid
+das man die ziger nemen solle, so sol man si nemen, wölti aber
+ein abt si nüt nemen, so sol der, des der ziger ist, VII sch. IIII d.
+für ieklichen ziger geben, vnd ze den heilgen swerren, das er da-
+mit verzinset habe. die ziger söllent gemachet sin mit dem mul-
+chen, das des jares von mitten meijen vnz an sant Gallen tag
+gemulchen ist, an alle geuerde, vnd in ieklichen ziger legen XVI
+fund vnd zwen altbecher saltzes. so ovch die schezer sprechent,
+das die kes sigen ze nemenne, die sol man nemen, ald aber der,
+der die kes zinset, sol geben III sch. IIII d. vnd ze den heilgen
+swerren, das er gezinset habe damit an alle geverd. Vnd wer
+sin zins nüt richtet vf den vorgeschribnen tagen , der sol es bess-
+ren mit III sch. Ovch sol ein melcheimer gemachet sin mit der
+mulchen, as sie von der ků gemulchen wirt, die sol man erwel-
+len vnd dik machen vnd nüt keslupen vnd nüt nidlun, vnd sol
+ein VI altmessigen kübel füllen. Es sol ovch en ieklich hus, da
+jar vnd tag husröiki ist gesin, ein vasnachthůn geben, wer ovch
+von dem gotzhus erblehen het, der sol ein tagwan tůn, ein
+man megen, vnd ein frow schniden, der des nüt tůt der sol es
+bessren mit III sch. vnd aber den tagwan tůn. wer ovch ein
+Kanschilling sol, der sol ein vart tůn gen Kam ¹), der VI Kan-
+pfennig sol, der sol ein halb Kanuart tůn, wele aber minz sol,
+da mag ein abt die pfenning lan stân, vnz das er ein sch. schul-
+dig wirt, vnd sol den ein Kanfart tůn.
+Es sol ovch enh ²).
+1) Cham, im canton Zug gelegen.
+2) so ist im ms. ein neuer satz angefangen aber nicht fortgeführt.</Unicode></TextEquiv></TextRegion></Page></PcGts>
