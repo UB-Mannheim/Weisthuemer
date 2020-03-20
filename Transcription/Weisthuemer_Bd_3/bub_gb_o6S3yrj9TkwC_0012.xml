@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-14T23:20:12</Created>
+	<LastChange>2020-03-20T16:01:39</LastChange></Metadata>
+	<Page imageFilename="bub_gb_o6S3yrj9TkwC_0012.png" imageWidth="2500" imageHeight="4053">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1016,148 1509,148 1509,290 2280,290 2280,364 2283,364 2283,445 2274,445 2274,858 2270,858 2270,1274 2267,1274 2267,2103 2270,2103 2270,2180 2267,2180 2267,2245 2264,2245 2264,2383 2267,2383 2267,2519 2270,2519 2270,2596 2264,2596 2264,2803 2261,2803 2261,2938 2264,2938 2264,3012 2267,3012 2267,3087 2264,3087 2264,3225 2261,3225 2261,3287 2258,3287 2258,3500 2254,3500 2254,3774 329,3774 329,3712 325,3712 325,3496 329,3496 329,3354 319,3354 319,3283 322,3283 322,3087 319,3087 319,2941 312,2941 312,2590 316,2590 316,2387 312,2387 312,2241 316,2241 316,1693 319,1693 319,1558 316,1558 316,1270 319,1270 319,1132 316,1132 316,996 319,996 319,922 322,922 322,654 319,654 319,574 322,574 322,364 325,364 325,232 322,232 322,161 380,161 380,290 1016,290"/>
+	<TextLine id="l0">
+	<Coords points="1016,148 1016,225 1509,225 1509,148"/>
+	<TextEquiv>
+	<Unicode>WESTFALEN</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="322,161 322,232 380,232 380,161"/>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="322,712 322,790 2270,790 2270,712"/>
+	<TextEquiv>
+	<Unicode>an uns komen is, ind unse aldere vurvaren und wir dat aller</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="329,783 329,858 2274,858 2274,783"/>
+	<TextEquiv>
+	<Unicode>weige geweist ind herbracht hain; so weisten ind bekanten wir,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="322,858 322,932 2270,932 2270,858"/>
+	<TextEquiv>
+	<Unicode>wisen ind bekennen up unse eide iecklichen der vurſs. hern sin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="319,922 319,996 2264,996 2264,922"/>
+	<TextEquiv>
+	<Unicode>recht in allen der wisen ind voige, als hernae geschreven volgt.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="316,996 316,1067 2270,1067 2270,996"/>
+	<TextEquiv>
+	<Unicode>Dit is die kuntschaft ind recht, dat uns scheffen van Duitz</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="316,1061 316,1132 690,1132 690,1061"/>
+	<TextEquiv>
+	<Unicode>kundich ist.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="454,1125 454,1203 2270,1203 2270,1125"/>
+	<TextEquiv>
+	<Unicode>In dem eirsten si zu wiſsen, dat Duitz, dat vurmails ein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="319,1196 319,1274 2270,1274 2270,1196"/>
+	<TextEquiv>
+	<Unicode>slos ind stat is gewest, und noch huide des dachs eine friheit is</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="316,1270 316,1345 2267,1345 2267,1270"/>
+	<TextEquiv>
+	<Unicode>mit den vunf dorpern, die darzo ind darin gehuirent, doit und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="325,290 325,370 2280,370 2280,290"/>
+	<TextEquiv>
+	<Unicode>hern weighen dairgeschickt und geferdiget, as si sachten, ind</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="316,1338 316,1409 2264,1409 2264,1338"/>
+	<TextEquiv>
+	<Unicode>levendich, mit namen Westhoven, Polle, Railshoven, Vinze und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="319,1406 319,1487 2267,1487 2267,1406"/>
+	<TextEquiv>
+	<Unicode>Kalbe mit allen iren zobehuiren, und binnen den pilen und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="316,1480 316,1558 2267,1558 2267,1480"/>
+	<TextEquiv>
+	<Unicode>tyrmpten as hernae becleirt is, vri eigen alde erve ind guet is ind</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="319,1554 319,1629 2264,1629 2264,1554"/>
+	<TextEquiv>
+	<Unicode>gewest hait, van der zit dat niemans anders gedenken en mach,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="319,1625 319,1696 2267,1696 2267,1625"/>
+	<TextEquiv>
+	<Unicode>und van manchen hundert jairen gewest is uns hern des ersbi-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="316,1693 316,1764 2267,1764 2267,1693"/>
+	<TextEquiv>
+	<Unicode>schofs van Colne ind sins gestichts, also dat die herlicheit und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="316,1761 316,1832 2267,1832 2267,1761"/>
+	<TextEquiv>
+	<Unicode>dat hoichgerichte und alle gebott u. verbott, die volgen, der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="322,1829 322,1900 2267,1900 2267,1829"/>
+	<TextEquiv>
+	<Unicode>deinst und der klockenslach, die scheffincge ind dat vair, die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="316,1900 316,1970 2267,1970 2267,1900"/>
+	<TextEquiv>
+	<Unicode>tolle, vurworde ind geleide ind alle andere reichte uns. hern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="316,1967 316,2038 2267,2038 2267,1967"/>
+	<TextEquiv>
+	<Unicode>des erzbusschoffs van Colne und sins gestichts van der vurfs. zit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="322,364 322,445 2283,445 2283,364"/>
+	<TextEquiv>
+	<Unicode>gesonnen dair an uns van der vurſs. uns beider hern wegen, dat</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="319,2032 319,2112 2267,2112 2267,2032"/>
+	<TextEquiv>
+	<Unicode>und jairen gewest sint und noch sint; beheltnisse doch dem vaigt,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="316,2103 316,2180 2270,2180 2270,2103"/>
+	<TextEquiv>
+	<Unicode>der zor zit dar ist und der ein swigende vaigt ist, alsulchs rechts,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="316,2177 316,2245 2267,2245 2267,2177"/>
+	<TextEquiv>
+	<Unicode>as ime der scheffen zodeilt und wist, u. as in den puncten van</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="312,2241 312,2316 2264,2316 2264,2241"/>
+	<TextEquiv>
+	<Unicode>deme gerichte ercleret steit, ind neit mehe. Vort si zu wissen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="312,2309 312,2387 2258,2387 2258,2309"/>
+	<TextEquiv>
+	<Unicode>dat dit die pele ind die trympte sint der herlicheit und des ge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="316,2383 316,2458 2267,2458 2267,2383"/>
+	<TextEquiv>
+	<Unicode>richts zo Duitze, inn dem eirsten, einen an unsme Rhine langs</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="319,2454 319,2525 2261,2525 2261,2454"/>
+	<TextEquiv>
+	<Unicode>den stein, der dae steit buiſsen der hern hof van senct Gerion,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="316,2519 316,2596 2270,2596 2270,2519"/>
+	<TextEquiv>
+	<Unicode>die genant is Heine junckern hof an dem zunge ind boven West-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="312,2590 312,2664 2264,2664 2264,2590"/>
+	<TextEquiv>
+	<Unicode>hoven gelegen ist, van deme vurschreven steine vort up die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="312,2661 312,2735 2264,2735 2264,2661"/>
+	<TextEquiv>
+	<Unicode>andere peilsteine, die die herlicheit und dat gerichte van Duitze</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="312,2732 312,2803 2264,2803 2264,2732"/>
+	<TextEquiv>
+	<Unicode>zeichent, ind der noch seessczein is, ind nae ein andere stehent</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="312,2800 312,2874 2261,2874 2261,2800"/>
+	<TextEquiv>
+	<Unicode>in deme velde, as van dem vurfs. steine die achter Heine iunck-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="312,2874 312,2941 2261,2941 2261,2874"/>
+	<TextEquiv>
+	<Unicode>ren hoeffe vurfs. steit bis an den steine, die dair steit an der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="319,2938 319,3016 2264,3016 2264,2938"/>
+	<TextEquiv>
+	<Unicode>straiſsen ind an dem wege, die zu Oirbach wert geit, ind vort</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="319,3012 319,3087 2267,3087 2267,3012"/>
+	<TextEquiv>
+	<Unicode>van dem steine langs die ander peilstein bis up den stein, der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="325,3080 325,3154 2261,3154 2261,3080"/>
+	<TextEquiv>
+	<Unicode>darsteit up der wiskuilen, und van dem steine vort bis an den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="322,3145 322,3225 2264,3225 2264,3145"/>
+	<TextEquiv>
+	<Unicode>stein, die dae steit up der mar tuisschen Hanghenraidt und dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="329,3212 329,3287 2261,3287 2261,3212"/>
+	<TextEquiv>
+	<Unicode>Granenberg, und van dem steine vort bis an den stein, die dae</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="319,3283 319,3354 2258,3354 2258,3283"/>
+	<TextEquiv>
+	<Unicode>steit hinder Veiche upme holenwege tuisschen Vinze und Han-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="329,3351 329,3429 2258,3429 2258,3351"/>
+	<TextEquiv>
+	<Unicode>genraede, und van dem steine vort bis an den stein der dae steit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="329,3425 329,3500 2258,3500 2258,3425"/>
+	<TextEquiv>
+	<Unicode>upme hoeillen wege, die geit van Vinze bis zo Oesten. Ever</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="325,3496 325,3570 2251,3570 2251,3496"/>
+	<TextEquiv>
+	<Unicode>van dem steine vort langs die ander peilsteine, bis an den stein,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="329,3564 329,3635 2254,3635 2254,3564"/>
+	<TextEquiv>
+	<Unicode>der dan steit bi dem voispaide, die zu Merheim wert geit, bi</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="325,3632 325,3712 2254,3712 2254,3632"/>
+	<TextEquiv>
+	<Unicode>deme bivange, van danne vort hier neder under deme hoimberge</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="329,3700 329,3774 2254,3774 2254,3700"/>
+	<TextEquiv>
+	<Unicode>bis up die Bruegerstraiſs, vort van der Bruegerstraeſsen hinder-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="325,438 325,506 2270,506 2270,438"/>
+	<TextEquiv>
+	<Unicode>wir mallich van den vurſs. uns hern sin recht dae wisten und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="322,503 322,574 2274,574 2274,503"/>
+	<TextEquiv>
+	<Unicode>sechten up unse eide. Wairup wir scheffen uns wail und weis-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="319,574 319,654 2274,654 2274,574"/>
+	<TextEquiv>
+	<Unicode>lichen bereiden, und mit wail bedachten vurraede ind sinne und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="329,641 329,716 2274,716 2274,641"/>
+	<TextEquiv>
+	<Unicode>ouch nae aller herkomen, as dat van uns aldren ind vurvaren</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>WESTFALEN
+4
+hern weighen dairgeschickt und geferdiget, as si sachten, ind
+gesonnen dair an uns van der vurſs. uns beider hern wegen, dat
+wir mallich van den vurſs. uns hern sin recht dae wisten und
+sechten up unse eide. Wairup wir scheffen uns wail und weis-
+lichen bereiden, und mit wail bedachten vurraede ind sinne und
+ouch nae aller herkomen, as dat van uns aldren ind vurvaren
+an uns komen is, ind unse aldere vurvaren und wir dat aller
+weige geweist ind herbracht hain; so weisten ind bekanten wir,
+wisen ind bekennen up unse eide iecklichen der vurſs. hern sin
+recht in allen der wisen ind voige, als hernae geschreven volgt.
+Dit is die kuntschaft ind recht, dat uns scheffen van Duitz
+kundich ist.
+In dem eirsten si zu wiſsen, dat Duitz, dat vurmails ein
+slos ind stat is gewest, und noch huide des dachs eine friheit is
+mit den vunf dorpern, die darzo ind darin gehuirent, doit und
+levendich, mit namen Westhoven, Polle, Railshoven, Vinze und
+Kalbe mit allen iren zobehuiren, und binnen den pilen und
+tyrmpten as hernae becleirt is, vri eigen alde erve ind guet is ind
+gewest hait, van der zit dat niemans anders gedenken en mach,
+und van manchen hundert jairen gewest is uns hern des ersbi-
+schofs van Colne ind sins gestichts, also dat die herlicheit und
+dat hoichgerichte und alle gebott u. verbott, die volgen, der
+deinst und der klockenslach, die scheffincge ind dat vair, die
+tolle, vurworde ind geleide ind alle andere reichte uns. hern
+des erzbusschoffs van Colne und sins gestichts van der vurfs. zit
+und jairen gewest sint und noch sint; beheltnisse doch dem vaigt,
+der zor zit dar ist und der ein swigende vaigt ist, alsulchs rechts,
+as ime der scheffen zodeilt und wist, u. as in den puncten van
+deme gerichte ercleret steit, ind neit mehe. Vort si zu wissen,
+dat dit die pele ind die trympte sint der herlicheit und des ge-
+richts zo Duitze, inn dem eirsten, einen an unsme Rhine langs
+den stein, der dae steit buiſsen der hern hof van senct Gerion,
+die genant is Heine junckern hof an dem zunge ind boven West-
+hoven gelegen ist, van deme vurschreven steine vort up die
+andere peilsteine, die die herlicheit und dat gerichte van Duitze
+zeichent, ind der noch seessczein is, ind nae ein andere stehent
+in deme velde, as van dem vurfs. steine die achter Heine iunck-
+ren hoeffe vurfs. steit bis an den steine, die dair steit an der
+straiſsen ind an dem wege, die zu Oirbach wert geit, ind vort
+van dem steine langs die ander peilstein bis up den stein, der
+darsteit up der wiskuilen, und van dem steine vort bis an den
+stein, die dae steit up der mar tuisschen Hanghenraidt und dem
+Granenberg, und van dem steine vort bis an den stein, die dae
+steit hinder Veiche upme holenwege tuisschen Vinze und Han-
+genraede, und van dem steine vort bis an den stein der dae steit
+upme hoeillen wege, die geit van Vinze bis zo Oesten. Ever
+van dem steine vort langs die ander peilsteine, bis an den stein,
+der dan steit bi dem voispaide, die zu Merheim wert geit, bi
+deme bivange, van danne vort hier neder under deme hoimberge
+bis up die Bruegerstraiſs, vort van der Bruegerstraeſsen hinder-</Unicode></TextEquiv></TextRegion></Page></PcGts>

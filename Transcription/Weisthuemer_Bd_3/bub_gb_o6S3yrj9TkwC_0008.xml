@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-14T21:06:59</Created>
+	<LastChange>2020-03-20T15:57:10</LastChange></Metadata>
+	<Page imageFilename="bub_gb_o6S3yrj9TkwC_0008.png" imageWidth="2500" imageHeight="4025">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1090,121 1514,121 1514,268 2153,268 2153,343 2278,343 2278,753 2280,753 2280,970 2282,970 2282,1390 2287,1390 2287,1460 2078,1460 2078,1756 1531,1756 1531,1460 1158,1460 1158,1668 543,1668 543,1524 331,1524 331,1243 326,1243 326,756 324,756 324,626 320,626 320,540 321,540 321,209 317,209 317,148 400,148 400,268 1090,268"/>
+	<TextLine id="l0">
+	<Coords points="1090,121 1090,212 1514,212 1514,121"/>
+	<TextEquiv>
+	<Unicode>VORWORT</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="317,148 317,209 400,209 400,148"/>
+	<TextEquiv>
+	<Unicode>IV</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="331,831 331,902 2280,902 2280,831"/>
+	<TextEquiv>
+	<Unicode>überrheinischen ländern sind hinzugetreten. Ihre äuſsere unbe-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="326,902 326,975 2278,975 2278,902"/>
+	<TextEquiv>
+	<Unicode>quemlichkeit sollen register und ortsverzeichnisse schon gut machen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="473,970 473,1043 2282,1043 2282,970"/>
+	<TextEquiv>
+	<Unicode>Unterdessen ist auch noch die vorher ungehofte benutzung</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="329,1034 329,1112 2278,1112 2278,1034"/>
+	<TextEquiv>
+	<Unicode>des nassauischen archivs zu Idstein gestattet, mancher beitrag</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="331,1104 331,1178 2282,1178 2282,1104"/>
+	<TextEquiv>
+	<Unicode>aus andern theilen Deutschlands zugesagt worden. Es fällt auf,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="326,1175 326,1243 2280,1243 2280,1175"/>
+	<TextEquiv>
+	<Unicode>wie leer das innere Schwaben von der ostseite des Schwarzwal-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="331,1239 331,1317 2280,1317 2280,1239"/>
+	<TextEquiv>
+	<Unicode>des bis zu Donau und Lech hin bei mir ausgeht, auch im Vo-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="334,1314 334,1390 2282,1390 2282,1314"/>
+	<TextEquiv>
+	<Unicode>rarlberg sollte man nicht weniges erwarten. Alle förderer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="334,1390 334,1460 2287,1460 2287,1390"/>
+	<TextEquiv>
+	<Unicode>dieser samlung, sobald sie geschlossen ist, werde ich dankbar</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="331,1458 331,1524 573,1524 573,1458"/>
+	<TextEquiv>
+	<Unicode>nennen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="460,268 460,343 2153,343 2153,268"/>
+	<TextEquiv>
+	<Unicode>Aus Thüringen bloſs ein weisthum des Erfurter gebiets.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="543,1582 543,1668 1158,1668 1158,1582"/>
+	<TextEquiv>
+	<Unicode>Berlin 7. juni 1842.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="1531,1678 1531,1756 2078,1756 2078,1678"/>
+	<TextEquiv>
+	<Unicode>Jacob Grimm.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="320,540 320,626 2276,626 2276,540"/>
+	<TextEquiv>
+	<Unicode>als es mir gelingen konnte, wird sich aus Österreich bis in die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="463,343 463,412 2278,412 2278,343"/>
+	<TextEquiv>
+	<Unicode>Nieder und Oberbaiern haben verschiedne denkmäler dieser</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="324,412 324,487 2278,487 2278,412"/>
+	<TextEquiv>
+	<Unicode>art dargeboten, die merkwürdigsten aus dem Lechrain und dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="321,482 321,556 2278,556 2278,482"/>
+	<TextEquiv>
+	<Unicode>gebiet der abteien Seon, Chiemsee, Rot. Weit reichhaltiger,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="324,621 324,695 2278,695 2278,621"/>
+	<TextEquiv>
+	<Unicode>deutschredenden theile der Steiermark und Tirols sammeln</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="324,690 324,756 529,756 529,690"/>
+	<TextEquiv>
+	<Unicode>lassen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="475,753 475,834 2280,834 2280,753"/>
+	<TextEquiv>
+	<Unicode>Bedeutende nachträge vorzüglich zu dem zweiten band aus</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>VORWORT
+IV
+Aus Thüringen bloſs ein weisthum des Erfurter gebiets.
+Nieder und Oberbaiern haben verschiedne denkmäler dieser
+art dargeboten, die merkwürdigsten aus dem Lechrain und dem
+gebiet der abteien Seon, Chiemsee, Rot. Weit reichhaltiger,
+als es mir gelingen konnte, wird sich aus Österreich bis in die
+deutschredenden theile der Steiermark und Tirols sammeln
+lassen.
+Bedeutende nachträge vorzüglich zu dem zweiten band aus
+überrheinischen ländern sind hinzugetreten. Ihre äuſsere unbe-
+quemlichkeit sollen register und ortsverzeichnisse schon gut machen.
+Unterdessen ist auch noch die vorher ungehofte benutzung
+des nassauischen archivs zu Idstein gestattet, mancher beitrag
+aus andern theilen Deutschlands zugesagt worden. Es fällt auf,
+wie leer das innere Schwaben von der ostseite des Schwarzwal-
+des bis zu Donau und Lech hin bei mir ausgeht, auch im Vo-
+rarlberg sollte man nicht weniges erwarten. Alle förderer
+dieser samlung, sobald sie geschlossen ist, werde ich dankbar
+nennen.
+Berlin 7. juni 1842.
+Jacob Grimm.</Unicode></TextEquiv></TextRegion></Page></PcGts>

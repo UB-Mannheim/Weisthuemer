@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-12T22:33:48</Created>
+	<LastChange>2020-03-20T15:50:11</LastChange></Metadata>
+	<Page imageFilename="bub_gb_LFpLZSYYg34C_0009.png" imageWidth="1609" imageHeight="2500">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="543,427 961,427 961,536 1365,536 1365,870 1363,870 1363,1079 1365,1079 1365,1179 1368,1179 1368,1284 1370,1284 1370,1336 1368,1336 1368,1493 1370,1493 1370,1543 1372,1543 1372,1650 1375,1650 1375,1704 1372,1704 1372,2120 1375,2120 1375,2331 161,2331 161,2175 159,2175 159,2122 154,2122 154,1863 152,1863 152,1809 154,1809 154,1704 152,1704 152,1600 154,1600 154,1497 152,1497 152,1393 150,1393 150,1286 147,1286 147,1238 152,1238 152,1131 150,1131 150,818 145,818 145,661 143,661 143,611 252,611 252,536 543,536"/>
+	<TextLine id="l0">
+	<Coords points="543,427 543,484 961,484 961,427"/>
+	<TextEquiv>
+	<Unicode>ZUR NACHRICHT.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="252,536 252,609 1365,609 1365,536"/>
+	<TextEquiv>
+	<Unicode>Der zufall will es, daſs dieser zweite theil einer lange</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="152,1027 152,1081 1363,1081 1363,1027"/>
+	<TextEquiv>
+	<Unicode>zu, einer frisch sprudelnden quelle sich zu nahen, wenn auch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="150,1079 150,1131 1365,1131 1365,1079"/>
+	<TextEquiv>
+	<Unicode>die brunneneinfassung noch nicht vollführt und der schöpfeimer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="152,1127 152,1181 500,1181 500,1127"/>
+	<TextEquiv>
+	<Unicode>unaufgehangen ist.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="236,1179 236,1238 1368,1238 1368,1179"/>
+	<TextEquiv>
+	<Unicode>Was den umfang der gegenwärtigen abtheilung anlangt, so</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="147,1238 147,1286 1368,1286 1368,1238"/>
+	<TextEquiv>
+	<Unicode>erstreckt sie sich von Diedenhofen , Sarbrücken und Creuznach</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="150,1284 150,1336 1370,1336 1370,1284"/>
+	<TextEquiv>
+	<Unicode>nordwärts bis nach Achen und Crefeld, hält also ganz das gebiet</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="150,1336 150,1393 1365,1393 1365,1336"/>
+	<TextEquiv>
+	<Unicode>der Mosel, Saar, Nahe, Ahr und Ruhr ein, dazwischen laufen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="152,1393 152,1445 1368,1445 1368,1393"/>
+	<TextEquiv>
+	<Unicode>die kleineren flüsse Bliefs, Sure, Kill, Salm, Lieser, Simmer,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="152,1443 152,1497 1368,1497 1368,1443"/>
+	<TextEquiv>
+	<Unicode>Nette, Erft, Calle und Inde. Die gebirge des Hochwaldes, Idars,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="154,1493 154,1547 1370,1547 1370,1493"/>
+	<TextEquiv>
+	<Unicode>Hundsrückens und der Eifel fallen in diese abgrenzung. Theile</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="143,611 143,661 1361,661 1361,611"/>
+	<TextEquiv>
+	<Unicode>schon angekündigten samlung vor dem ersten erscheint und ohne</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="154,1543 154,1600 1372,1600 1372,1543"/>
+	<TextEquiv>
+	<Unicode>von Lothringen, Luxemburg und der Pfalz werden von ihr be-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="152,1600 152,1652 1370,1652 1370,1600"/>
+	<TextEquiv>
+	<Unicode>rührt, hauptsächlich aber sind ihr boden die länder von Trier,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="152,1650 152,1704 1375,1704 1375,1650"/>
+	<TextEquiv>
+	<Unicode>Cöln und Jülich, nur allenthalben von kleineren weltlichen oder</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="154,1700 154,1759 1372,1759 1372,1700"/>
+	<TextEquiv>
+	<Unicode>geistlichen besitzungen durchkreuzt. Jener kommen in betracht</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="154,1759 154,1809 1372,1809 1372,1759"/>
+	<TextEquiv>
+	<Unicode>die grafschaften Sarbrücken, Sponheim, Blankenheim, Mander-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="152,1809 152,1863 1372,1863 1372,1809"/>
+	<TextEquiv>
+	<Unicode>scheid und Virnenburg, die burggrafschaft Rieneck, die herschaften</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="156,1861 156,1915 1372,1915 1372,1861"/>
+	<TextEquiv>
+	<Unicode>Esch, Schleiden, Winnenburg, Geroltstein, Junkerad , Schöneck,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="154,1911 154,1965 1372,1965 1372,1911"/>
+	<TextEquiv>
+	<Unicode>Moncler, Monjoie, Kerpen, Stein, Sötern, welche oft als</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="156,1963 156,2015 1372,2015 1372,1963"/>
+	<TextEquiv>
+	<Unicode>vogteien dem geistlichen grundeigenthum zur seite stehn. In die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="154,2013 154,2072 1372,2072 1372,2013"/>
+	<TextEquiv>
+	<Unicode>obergewalt der erzstifte Trier und Cöln, zum theil auch des</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="145,665 145,713 1365,713 1365,665"/>
+	<TextEquiv>
+	<Unicode>das ihnen beiden zugedachte geleit. ein glossar sollte den un-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="154,2068 154,2122 1372,2122 1372,2068"/>
+	<TextEquiv>
+	<Unicode>Metzer bisthums und Mainzer erzstifts greifen sodann auf das</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="159,2120 159,2175 1375,2175 1375,2120"/>
+	<TextEquiv>
+	<Unicode>manigfaltigste die güter und rechte einzelner meist reicher und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="163,2175 163,2229 1372,2229 1372,2175"/>
+	<TextEquiv>
+	<Unicode>angesehner abteien und klöster, namentlich von Prüm, Echternach,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="161,2227 161,2279 1372,2279 1372,2227"/>
+	<TextEquiv>
+	<Unicode>Wadgassen, Tholey, Hornbach, Herbizheim, Metloch; s. Maximin,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="161,2275 161,2331 1375,2331 1375,2275"/>
+	<TextEquiv>
+	<Unicode>s. Mattheiſs, s. Paulin, s. Simeon, s. Irmin (zu Trier), s. Florin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="147,713 147,765 1363,765 1363,713"/>
+	<TextEquiv>
+	<Unicode>mittelbarsten schwierigkeiten des verständnisses abhelfen, die aus-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="145,763 145,818 1365,818 1365,763"/>
+	<TextEquiv>
+	<Unicode>führliche vorrede aber von der natur der hier mitgetheilten denk-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="150,815 150,870 1365,870 1365,815"/>
+	<TextEquiv>
+	<Unicode>male, ihrem alter, ihrer vielfachen bedeutsamkeit, endlich von der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="150,870 150,920 1363,920 1363,870"/>
+	<TextEquiv>
+	<Unicode>dem unternehmen widerfahrnen unterstützung rechenschaft geben.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="150,922 150,972 1363,972 1363,922"/>
+	<TextEquiv>
+	<Unicode>Doch ehe das alles bequem geschehn kann, müssen die texte</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="150,977 150,1029 1363,1029 1363,977"/>
+	<TextEquiv>
+	<Unicode>gedruckt vor augen liegen. Ich traue dem publicum lust genug</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ZUR NACHRICHT.
+Der zufall will es, daſs dieser zweite theil einer lange
+schon angekündigten samlung vor dem ersten erscheint und ohne
+das ihnen beiden zugedachte geleit. ein glossar sollte den un-
+mittelbarsten schwierigkeiten des verständnisses abhelfen, die aus-
+führliche vorrede aber von der natur der hier mitgetheilten denk-
+male, ihrem alter, ihrer vielfachen bedeutsamkeit, endlich von der
+dem unternehmen widerfahrnen unterstützung rechenschaft geben.
+Doch ehe das alles bequem geschehn kann, müssen die texte
+gedruckt vor augen liegen. Ich traue dem publicum lust genug
+zu, einer frisch sprudelnden quelle sich zu nahen, wenn auch
+die brunneneinfassung noch nicht vollführt und der schöpfeimer
+unaufgehangen ist.
+Was den umfang der gegenwärtigen abtheilung anlangt, so
+erstreckt sie sich von Diedenhofen , Sarbrücken und Creuznach
+nordwärts bis nach Achen und Crefeld, hält also ganz das gebiet
+der Mosel, Saar, Nahe, Ahr und Ruhr ein, dazwischen laufen
+die kleineren flüsse Bliefs, Sure, Kill, Salm, Lieser, Simmer,
+Nette, Erft, Calle und Inde. Die gebirge des Hochwaldes, Idars,
+Hundsrückens und der Eifel fallen in diese abgrenzung. Theile
+von Lothringen, Luxemburg und der Pfalz werden von ihr be-
+rührt, hauptsächlich aber sind ihr boden die länder von Trier,
+Cöln und Jülich, nur allenthalben von kleineren weltlichen oder
+geistlichen besitzungen durchkreuzt. Jener kommen in betracht
+die grafschaften Sarbrücken, Sponheim, Blankenheim, Mander-
+scheid und Virnenburg, die burggrafschaft Rieneck, die herschaften
+Esch, Schleiden, Winnenburg, Geroltstein, Junkerad , Schöneck,
+Moncler, Monjoie, Kerpen, Stein, Sötern, welche oft als
+vogteien dem geistlichen grundeigenthum zur seite stehn. In die
+obergewalt der erzstifte Trier und Cöln, zum theil auch des
+Metzer bisthums und Mainzer erzstifts greifen sodann auf das
+manigfaltigste die güter und rechte einzelner meist reicher und
+angesehner abteien und klöster, namentlich von Prüm, Echternach,
+Wadgassen, Tholey, Hornbach, Herbizheim, Metloch; s. Maximin,
+s. Mattheiſs, s. Paulin, s. Simeon, s. Irmin (zu Trier), s. Florin</Unicode></TextEquiv></TextRegion></Page></PcGts>

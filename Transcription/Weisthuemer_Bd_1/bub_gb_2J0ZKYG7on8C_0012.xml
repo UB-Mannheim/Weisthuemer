@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-16T14:22:58</Created>
+	<LastChange>2020-03-20T15:47:36</LastChange></Metadata>
+	<Page imageFilename="bub_gb_2J0ZKYG7on8C_0012.png" imageWidth="1521" imageHeight="2500">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="492,110 994,110 994,197 1288,197 1288,113 1324,113 1324,406 1325,406 1325,492 1326,492 1326,532 1325,532 1325,696 1326,696 1326,904 1325,904 1325,988 1321,988 1321,1028 1320,1028 1320,1068 1317,1068 1317,1113 849,1113 849,1248 1328,1248 1328,1300 1326,1300 1326,1381 1324,1381 1324,1584 1325,1584 1325,1713 1324,1713 1324,1833 1325,1833 1325,2040 1326,2040 1326,2088 577,2088 577,2221 916,2221 916,2261 233,2261 233,2221 234,2221 234,2088 166,2088 166,2001 165,2001 165,1958 166,1958 166,1920 168,1920 168,1630 166,1630 166,1546 165,1546 165,1380 168,1380 168,1293 248,1293 248,1248 642,1248 642,1113 165,1113 165,737 166,737 166,242 245,242 245,197 492,197"/>
+	<TextLine id="l0">
+	<Coords points="492,110 492,161 994,161 994,110"/>
+	<TextEquiv>
+	<Unicode>ENGELBERG. HÖNGG</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="1288,113 1288,156 1324,156 1324,113"/>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="166,448 166,492 1325,492 1325,448"/>
+	<TextEquiv>
+	<Unicode>wegen oder von andren redlichen sachen der tallüten bedarf, so</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="168,492 168,532 1326,532 1326,492"/>
+	<TextEquiv>
+	<Unicode>sol er inen enbieten, vnd söllent ovch si zů im komen vnd mit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="168,530 168,576 1324,576 1324,530"/>
+	<TextEquiv>
+	<Unicode>güten trüwen beholfen sin zů dien sachen, as er ire denne not-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="168,1748 168,1793 1324,1793 1324,1748"/>
+	<TextEquiv>
+	<Unicode>stat. Es süllent wissen die ietz gegenwürtig sint vnd die her-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="170,614 170,656 1324,656 1324,614"/>
+	<TextEquiv>
+	<Unicode>ein ingesessen gotzhusman. Wene ovch ein vrteil stössig wirt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="166,654 166,700 1325,700 1325,654"/>
+	<TextEquiv>
+	<Unicode>vor vnsren gericht vmb erb vnd lehen, die sol man zihen vnder</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="169,696 169,737 1326,737 1326,696"/>
+	<TextEquiv>
+	<Unicode>die Esche vnd dannan gen Bůchs vnder dis gotzhus lüt in des</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="165,737 165,780 1326,780 1326,737"/>
+	<TextEquiv>
+	<Unicode>gotzhus hof, vnd dannan gen Urdorf ovch vnder dis gotzhus lüt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="165,778 165,820 1324,820 1324,778"/>
+	<TextEquiv>
+	<Unicode>ovch in dis gotzhus hof, vnd dannan herwider vf die grossen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="165,817 165,864 1326,864 1326,817"/>
+	<TextEquiv>
+	<Unicode>kemnaten ), vnd sol da vsgerichtet werden. Es sol ovch nie-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="245,197 245,245 1324,245 1324,197"/>
+	<TextEquiv>
+	<Unicode>Des gotzhus lüt söllent ovch nüt uſsezen noch ablassen ân</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="165,862 165,904 1326,904 1326,862"/>
+	<TextEquiv>
+	<Unicode>man erteillen über gotzhuslüten erb vnd des gotzhus eigen wan</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="165,900 165,946 666,946 666,900"/>
+	<TextEquiv>
+	<Unicode>die, die vnsers gotzhus sint.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="233,942 233,988 1325,988 1325,942"/>
+	<TextEquiv>
+	<Unicode>Die zehenden der schafen, sol der, der zehen lenber het scher-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="165,985 165,1028 1321,1028 1321,985"/>
+	<TextEquiv>
+	<Unicode>beri, das best im selben haben vnd darnach das best ze zehen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="165,1024 165,1068 1320,1068 1320,1024"/>
+	<TextEquiv>
+	<Unicode>den geben. der fünfi het, der sol ein halbs geben. der aber vnder</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="165,1065 165,1113 1317,1113 1317,1065"/>
+	<TextEquiv>
+	<Unicode>fünfen het, der git für ein scherbers II den., vnd für ein spech ²) 1 den.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="642,1141 642,1196 849,1196 849,1141"/>
+	<TextEquiv>
+	<Unicode>HÖNGG ³).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="690,1190 690,1228 793,1228 793,1190"/>
+	<TextEquiv>
+	<Unicode>1338.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="248,1248 248,1300 1328,1300 1328,1248"/>
+	<TextEquiv>
+	<Unicode>Von rechten twingen vnd bännen des dorfes ze Hoengg, die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="166,569 166,613 1325,613 1325,569"/>
+	<TextEquiv>
+	<Unicode>durftig ist. Des gotzhus gůt sol nieman buwen noch haben wan</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="168,1293 168,1341 986,1341 986,1293"/>
+	<TextEquiv>
+	<Unicode>der probstye der kilchen ze Zürich zůhoerent.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="249,1340 249,1381 1326,1381 1326,1340"/>
+	<TextEquiv>
+	<Unicode>In gottes namen amen. in dem jar, do man zalt von gottes</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="165,1380 165,1424 1324,1424 1324,1380"/>
+	<TextEquiv>
+	<Unicode>gebürt drüzehenhundert acht vnd drissig jar, ze ingendem meigen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="166,1422 166,1464 1324,1464 1324,1422"/>
+	<TextEquiv>
+	<Unicode>do man meigen täding hatt der höuen vnd der rechten der prob-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="165,1462 165,1508 1321,1508 1321,1462"/>
+	<TextEquiv>
+	<Unicode>stye Zürich, do wurdent funden vnd ernüwret dü reht, swaerung,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="165,1505 165,1546 1322,1546 1322,1505"/>
+	<TextEquiv>
+	<Unicode>burdenen vnd tragnüst der höfe vnd der lüte ze Hoengg, von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="166,1545 166,1586 1324,1586 1324,1545"/>
+	<TextEquiv>
+	<Unicode>fürlegung der korherren vnd ouch der dorflüten, die do ze mal</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="166,1584 166,1630 1325,1630 1325,1584"/>
+	<TextEquiv>
+	<Unicode>ze Hoengg warent, von gebott der erwirdigen herren hern Krafto</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="168,1629 168,1672 1325,1672 1325,1629"/>
+	<TextEquiv>
+	<Unicode>von Toggenburg probstes vnd des capittels gemeinlich derselben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="166,242 166,281 1324,281 1324,242"/>
+	<TextEquiv>
+	<Unicode>eis herren willen vnd wissend redlicher sachen. Es sol ovch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="168,1712 168,1754 1324,1754 1324,1712"/>
+	<TextEquiv>
+	<Unicode>ster Johans capplan des vorgen. probsts, als hie nach geschriben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="169,1792 169,1836 1324,1836 1324,1792"/>
+	<TextEquiv>
+	<Unicode>nach koment, den es zů hoert ze wissent, das der meigerhof ze</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="169,1833 169,1877 1325,1877 1325,1833"/>
+	<TextEquiv>
+	<Unicode>Hoengg von rechter eigenschaft zů gehoeret der kilchen vnd der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="168,1877 168,1921 1324,1921 1324,1877"/>
+	<TextEquiv>
+	<Unicode>probstye Zürich, vnd das ein probst, der probst ist derselben kil-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="166,1920 166,1960 1325,1960 1325,1920"/>
+	<TextEquiv>
+	<Unicode>chen in dem dorf vnd in dem bannn ze Hoengg, hat alle gerichte</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="165,1958 165,2001 1324,2001 1324,1958"/>
+	<TextEquiv>
+	<Unicode>vnd zwing vnd benn von des keisers gewalt aller sachen vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="166,2001 166,2042 1325,2042 1325,2001"/>
+	<TextEquiv>
+	<Unicode>twingnüst aller lüte, âne dieb vnd fräuelinan, die einem vogt des</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="166,2040 166,2088 1326,2088 1326,2040"/>
+	<TextEquiv>
+	<Unicode>selben dorfs zů gehoernd, doch mit sölicher bescheidenheit als</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="236,2150 236,2189 577,2189 577,2150"/>
+	<TextEquiv>
+	<Unicode>1) soll bei Cham sein,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="169,1665 169,1713 1325,1713 1325,1665"/>
+	<TextEquiv>
+	<Unicode>probstye ze Zürich, vnd wurdent ouch also verschriben von mei-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="234,2189 234,2224 386,2224 386,2189"/>
+	<TextEquiv>
+	<Unicode>2) spetti?</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="233,2221 233,2261 916,2261 916,2221"/>
+	<TextEquiv>
+	<Unicode>3) an der Limmat, nordwestlich von Zürich.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="168,281 168,324 1324,324 1324,281"/>
+	<TextEquiv>
+	<Unicode>nieman vogt sin über vnser lüte in dem tal, wan ein ingesessen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="166,322 166,368 1324,368 1324,322"/>
+	<TextEquiv>
+	<Unicode>talman. weri aber, das ein kint ein erbornen vogt hetti, der in</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="166,366 166,408 1324,408 1324,366"/>
+	<TextEquiv>
+	<Unicode>dem tal nit sessi, so bevogtet es ein abt mit vrteil des gerichtz</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="166,406 166,450 1325,450 1325,406"/>
+	<TextEquiv>
+	<Unicode>mit einen ingesessen talman. Wenne ovch ein abt von gerichtz</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ENGELBERG. HÖNGG
+5
+Des gotzhus lüt söllent ovch nüt uſsezen noch ablassen ân
+eis herren willen vnd wissend redlicher sachen. Es sol ovch
+nieman vogt sin über vnser lüte in dem tal, wan ein ingesessen
+talman. weri aber, das ein kint ein erbornen vogt hetti, der in
+dem tal nit sessi, so bevogtet es ein abt mit vrteil des gerichtz
+mit einen ingesessen talman. Wenne ovch ein abt von gerichtz
+wegen oder von andren redlichen sachen der tallüten bedarf, so
+sol er inen enbieten, vnd söllent ovch si zů im komen vnd mit
+güten trüwen beholfen sin zů dien sachen, as er ire denne not-
+durftig ist. Des gotzhus gůt sol nieman buwen noch haben wan
+ein ingesessen gotzhusman. Wene ovch ein vrteil stössig wirt
+vor vnsren gericht vmb erb vnd lehen, die sol man zihen vnder
+die Esche vnd dannan gen Bůchs vnder dis gotzhus lüt in des
+gotzhus hof, vnd dannan gen Urdorf ovch vnder dis gotzhus lüt
+ovch in dis gotzhus hof, vnd dannan herwider vf die grossen
+kemnaten ), vnd sol da vsgerichtet werden. Es sol ovch nie-
+man erteillen über gotzhuslüten erb vnd des gotzhus eigen wan
+die, die vnsers gotzhus sint.
+Die zehenden der schafen, sol der, der zehen lenber het scher-
+beri, das best im selben haben vnd darnach das best ze zehen-
+den geben. der fünfi het, der sol ein halbs geben. der aber vnder
+fünfen het, der git für ein scherbers II den., vnd für ein spech ²) 1 den.
+HÖNGG ³).
+1338.
+Von rechten twingen vnd bännen des dorfes ze Hoengg, die
+der probstye der kilchen ze Zürich zůhoerent.
+In gottes namen amen. in dem jar, do man zalt von gottes
+gebürt drüzehenhundert acht vnd drissig jar, ze ingendem meigen,
+do man meigen täding hatt der höuen vnd der rechten der prob-
+stye Zürich, do wurdent funden vnd ernüwret dü reht, swaerung,
+burdenen vnd tragnüst der höfe vnd der lüte ze Hoengg, von
+fürlegung der korherren vnd ouch der dorflüten, die do ze mal
+ze Hoengg warent, von gebott der erwirdigen herren hern Krafto
+von Toggenburg probstes vnd des capittels gemeinlich derselben
+probstye ze Zürich, vnd wurdent ouch also verschriben von mei-
+ster Johans capplan des vorgen. probsts, als hie nach geschriben
+stat. Es süllent wissen die ietz gegenwürtig sint vnd die her-
+nach koment, den es zů hoert ze wissent, das der meigerhof ze
+Hoengg von rechter eigenschaft zů gehoeret der kilchen vnd der
+probstye Zürich, vnd das ein probst, der probst ist derselben kil-
+chen in dem dorf vnd in dem bannn ze Hoengg, hat alle gerichte
+vnd zwing vnd benn von des keisers gewalt aller sachen vnd
+twingnüst aller lüte, âne dieb vnd fräuelinan, die einem vogt des
+selben dorfs zů gehoernd, doch mit sölicher bescheidenheit als
+1) soll bei Cham sein,
+2) spetti?
+3) an der Limmat, nordwestlich von Zürich.</Unicode></TextEquiv></TextRegion></Page></PcGts>

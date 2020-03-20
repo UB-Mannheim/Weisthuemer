@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-14T16:31:14</Created>
+	<LastChange>2020-03-20T15:51:19</LastChange></Metadata>
+	<Page imageFilename="bub_gb_LFpLZSYYg34C_0010.png" imageWidth="1596" imageHeight="2500">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="255,82 314,82 314,167 1460,167 1460,219 1462,219 1462,891 1464,891 1464,998 1466,998 1466,1203 1080,1203 1080,1342 1383,1342 1383,1435 1467,1435 1467,1616 1462,1616 1462,1723 1464,1723 1464,1762 660,1762 660,1800 253,1800 253,1546 251,1546 251,1471 326,1471 326,1435 358,1435 358,1253 253,1253 253,1051 251,1051 251,941 253,941 253,891 255,891 255,737 253,737 253,632 251,632 251,476 253,476 253,376 255,376"/>
+	<TextLine id="l0">
+	<Coords points="255,82 255,128 314,128 314,82"/>
+	<TextEquiv>
+	<Unicode>IV</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="255,167 255,221 1460,221 1460,167"/>
+	<TextEquiv>
+	<Unicode>und s. Castor (zu Coblenz); Himmerode, Springersbach, Laach,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="342,632 342,685 1458,685 1458,632"/>
+	<TextEquiv>
+	<Unicode>Doch ist lange nicht alles zu sammeln möglich gewesen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="253,685 253,737 1462,737 1462,685"/>
+	<TextEquiv>
+	<Unicode>manches in der fahrlässigkeit oder barbarei selbst der jüngsten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="255,737 255,791 762,791 762,737"/>
+	<TextEquiv>
+	<Unicode>zeit zu grunde gegangen *).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="341,789 341,841 1462,841 1462,789"/>
+	<TextEquiv>
+	<Unicode>Der erste theil soll unverzüglich unter die presse kommen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="255,839 255,894 1462,894 1462,839"/>
+	<TextEquiv>
+	<Unicode>Teuscht mich nicht meine vorliebe, so wird diese samlung unsre</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="253,891 253,944 1464,944 1464,891"/>
+	<TextEquiv>
+	<Unicode>rechtsalterthümer unglaublich bereichern und beinahe umgestal-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="251,941 251,998 1464,998 1464,941"/>
+	<TextEquiv>
+	<Unicode>ten, wichtige beiträge zur kunde der deutschen sprache, mytho-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="251,998 251,1051 1466,1051 1466,998"/>
+	<TextEquiv>
+	<Unicode>logie und sitte liefern, überhaupt aber gewissen partien der frü-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="255,1050 255,1103 1462,1103 1462,1050"/>
+	<TextEquiv>
+	<Unicode>heren geschichte farbe und wärme verleihen; denn es braucht</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="253,1100 253,1153 1464,1153 1464,1100"/>
+	<TextEquiv>
+	<Unicode>nicht erst gesagt zu werden, daſs der ursprung vieler in den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="255,219 255,273 1462,273 1462,219"/>
+	<TextEquiv>
+	<Unicode>Brauweiler, Marienrode, Essen, Cornelismünster und Ravengirsburg.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="255,1151 255,1203 1466,1203 1466,1151"/>
+	<TextEquiv>
+	<Unicode>überlieferungen der weisthümer enthaltnen gebräuche weit über</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="253,1200 253,1253 1080,1253 1080,1200"/>
+	<TextEquiv>
+	<Unicode>das datum ihrer aufzeichnung hinaus reicht.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="358,1301 358,1350 776,1350 776,1301"/>
+	<TextEquiv>
+	<Unicode>Cassel 7. dec. 1839.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="1064,1342 1064,1396 1383,1396 1383,1342"/>
+	<TextEquiv>
+	<Unicode>Jacob Grimm.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="326,1435 326,1478 1467,1478 1467,1435"/>
+	<TextEquiv>
+	<Unicode>°) vor nicht lange berühmte sich in einer gesellschaft am Rhein jemand</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="251,1471 251,1510 1466,1510 1466,1471"/>
+	<TextEquiv>
+	<Unicode>ein altes weisthum verbrannt zu haben, um diesen überrest des mittelalters</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="251,1507 251,1546 1457,1546 1457,1507"/>
+	<TextEquiv>
+	<Unicode>zu vertilgen, worin unter anderm die formel vorgekommen sei: den schöf-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="253,1546 253,1585 1462,1585 1462,1546"/>
+	<TextEquiv>
+	<Unicode>zen solle an ihrem gerichtstage ein eimer meth vorgesetzt werden so voll,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="255,1578 255,1616 1467,1616 1467,1578"/>
+	<TextEquiv>
+	<Unicode>daſs eine fliege am äuſsersten rande trinken könne (der gebrauch des meths</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="346,273 346,323 1462,323 1462,273"/>
+	<TextEquiv>
+	<Unicode>Alle diesen zweiten band bildenden rechtsdenkmale sind er-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="253,1614 253,1658 1462,1658 1462,1614"/>
+	<TextEquiv>
+	<Unicode>in diesen gegenden erhellt auch aus s. 779. 781.) Wer dies denkmal etwa</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="255,1653 255,1687 1460,1687 1460,1653"/>
+	<TextEquiv>
+	<Unicode>noch in einer niederschrift besäſse, und gleich andern unbekannten weisthü-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="255,1687 255,1728 1460,1728 1460,1687"/>
+	<TextEquiv>
+	<Unicode>mern, namentlich dem alten von Haaren (dicht bei Achen), das ich mir nicht</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="257,1723 257,1762 1464,1762 1464,1723"/>
+	<TextEquiv>
+	<Unicode>zu verschaffen im stande war, milttheilen wollte, würde sie in künftigen nach-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="253,1758 253,1800 660,1800 660,1758"/>
+	<TextEquiv>
+	<Unicode>trägen abgedruckt finden.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="255,321 255,376 1462,376 1462,321"/>
+	<TextEquiv>
+	<Unicode>wachsen auf der linken seite des Rheins, in einem durch schmach-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="253,376 253,426 1462,426 1462,376"/>
+	<TextEquiv>
+	<Unicode>volle friedensschlüsse von dem deutschen reich ehmals abgerissenen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="253,425 253,480 1462,480 1462,425"/>
+	<TextEquiv>
+	<Unicode>und ihm noch nicht wieder ganz eroberten lande. Welcher kern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="251,476 251,532 1462,532 1462,476"/>
+	<TextEquiv>
+	<Unicode>deutscher sitte in ihm gelegen war, verbürgt am sichersten eine</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="253,532 253,585 1462,585 1462,532"/>
+	<TextEquiv>
+	<Unicode>samlung echt volksmäfsiger rechtsgewohnheiten, die nirgendwo</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="251,582 251,632 964,632 964,582"/>
+	<TextEquiv>
+	<Unicode>sonst reicher und fruchtbarer ausfällt.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>IV
+und s. Castor (zu Coblenz); Himmerode, Springersbach, Laach,
+Brauweiler, Marienrode, Essen, Cornelismünster und Ravengirsburg.
+Alle diesen zweiten band bildenden rechtsdenkmale sind er-
+wachsen auf der linken seite des Rheins, in einem durch schmach-
+volle friedensschlüsse von dem deutschen reich ehmals abgerissenen
+und ihm noch nicht wieder ganz eroberten lande. Welcher kern
+deutscher sitte in ihm gelegen war, verbürgt am sichersten eine
+samlung echt volksmäfsiger rechtsgewohnheiten, die nirgendwo
+sonst reicher und fruchtbarer ausfällt.
+Doch ist lange nicht alles zu sammeln möglich gewesen,
+manches in der fahrlässigkeit oder barbarei selbst der jüngsten
+zeit zu grunde gegangen *).
+Der erste theil soll unverzüglich unter die presse kommen.
+Teuscht mich nicht meine vorliebe, so wird diese samlung unsre
+rechtsalterthümer unglaublich bereichern und beinahe umgestal-
+ten, wichtige beiträge zur kunde der deutschen sprache, mytho-
+logie und sitte liefern, überhaupt aber gewissen partien der frü-
+heren geschichte farbe und wärme verleihen; denn es braucht
+nicht erst gesagt zu werden, daſs der ursprung vieler in den
+überlieferungen der weisthümer enthaltnen gebräuche weit über
+das datum ihrer aufzeichnung hinaus reicht.
+Cassel 7. dec. 1839.
+Jacob Grimm.
+°) vor nicht lange berühmte sich in einer gesellschaft am Rhein jemand
+ein altes weisthum verbrannt zu haben, um diesen überrest des mittelalters
+zu vertilgen, worin unter anderm die formel vorgekommen sei: den schöf-
+zen solle an ihrem gerichtstage ein eimer meth vorgesetzt werden so voll,
+daſs eine fliege am äuſsersten rande trinken könne (der gebrauch des meths
+in diesen gegenden erhellt auch aus s. 779. 781.) Wer dies denkmal etwa
+noch in einer niederschrift besäſse, und gleich andern unbekannten weisthü-
+mern, namentlich dem alten von Haaren (dicht bei Achen), das ich mir nicht
+zu verschaffen im stande war, milttheilen wollte, würde sie in künftigen nach-
+trägen abgedruckt finden.</Unicode></TextEquiv></TextRegion></Page></PcGts>

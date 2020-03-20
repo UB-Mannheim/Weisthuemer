@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-14T18:38:06</Created>
+	<LastChange>2020-03-20T15:53:28</LastChange></Metadata>
+	<Page imageFilename="bub_gb_LFpLZSYYg34C_0012.png" imageWidth="1535" imageHeight="2500">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="776,117 898,117 898,197 1416,197 1416,291 1417,291 1417,333 1410,333 1410,460 1408,460 1408,621 1410,621 1410,669 1405,669 1405,871 1401,871 1401,1116 1403,1116 1403,1164 1401,1164 1401,1283 1403,1283 1403,1410 1401,1410 1401,1453 1400,1453 1400,1701 1398,1701 1398,1780 1396,1780 1396,1908 1398,1908 1398,2071 1396,2071 1396,2155 1392,2155 1392,2251 917,2251 917,2287 242,2287 242,2246 246,2246 246,2112 244,2112 244,2067 246,2067 246,1910 244,1910 244,1862 246,1862 246,1780 248,1780 248,1698 250,1698 250,1408 251,1408 251,1246 250,1246 250,1200 253,1200 253,1162 257,1162 257,994 255,994 255,662 257,662 257,580 258,580 258,496 260,496 260,291 264,291 264,164 257,164 257,119 294,119 294,197 776,197"/>
+	<TextLine id="l0">
+	<Coords points="776,117 776,164 898,164 898,117"/>
+	<TextEquiv>
+	<Unicode>SAAR</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="264,197 264,250 1416,250 1416,197"/>
+	<TextEquiv>
+	<Unicode>an vns zu Sarbrücken, vnd nit vfs baſs, weren wir nit zu</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="260,412 260,460 1410,460 1410,412"/>
+	<TextEquiv>
+	<Unicode>fet, vnd sie sollen siechern ¹), das sie liden, was vns oder den-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="260,455 260,496 1408,496 1408,455"/>
+	<TextEquiv>
+	<Unicode>jhenen, der in vnsern wegen ist, vnd vnser manne zu Sarbrucken</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="258,496 258,537 642,537 642,496"/>
+	<TextEquiv>
+	<Unicode>duncket das recht sy.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="342,535 342,585 1408,585 1408,535"/>
+	<TextEquiv>
+	<Unicode>Meyger noch scheffen ensollent keyne dedinge halden, wan</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="257,580 257,626 1408,626 1408,580"/>
+	<TextEquiv>
+	<Unicode>eyns dags in der wuchen; es wer dan, das eſs sich also geburt,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="258,621 258,669 1410,669 1410,621"/>
+	<TextEquiv>
+	<Unicode>das sie sollichs halten musten. Sie sollent keyns werckedags hal-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="255,662 255,705 1405,705 1405,662"/>
+	<TextEquiv>
+	<Unicode>ten, so man hauwe machen vnd korne snyden mag, cs were dan</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="258,701 258,744 500,744 500,701"/>
+	<TextEquiv>
+	<Unicode>von aneschin.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="339,742 339,792 1405,792 1405,742"/>
+	<TextEquiv>
+	<Unicode>Alle ire orteill sollen sie geben kurtzelich ane geuerde, vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="264,245 264,292 1413,292 1413,245"/>
+	<TextEquiv>
+	<Unicode>Sarbrücken, sie sollent sich beraiden mit dem, der da in vnsern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="255,787 255,833 1405,833 1405,787"/>
+	<TextEquiv>
+	<Unicode>sollent keyne vrteill lenger by in haben, dan vierzehen nacht.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="257,828 257,871 1405,871 1405,828"/>
+	<TextEquiv>
+	<Unicode>Muste man kosten han vmb recht keyns orteils, den sollent die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="255,869 255,916 1401,916 1401,869"/>
+	<TextEquiv>
+	<Unicode>gelten, wieder die .das vrteill leuffet, vnd die busse sol man setzen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="257,910 257,955 1400,955 1400,910"/>
+	<TextEquiv>
+	<Unicode>also hie in dieser frieheit geschrieben ist. Meiger vnd scheffen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="255,955 255,994 1401,994 1401,955"/>
+	<TextEquiv>
+	<Unicode>sollent ir dedinge halten, als man von alter biſs her hait gehalten.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="337,991 337,1037 1398,1037 1398,991"/>
+	<TextEquiv>
+	<Unicode>So wo wir busse oder besseronge von yemant mit vrteil ne-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="258,1035 258,1080 1401,1080 1401,1035"/>
+	<TextEquiv>
+	<Unicode>men, der ist auch dem meiger ii D vnd den scheffen iiij D, die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="257,1076 257,1121 733,1121 733,1076"/>
+	<TextEquiv>
+	<Unicode>das gericht helffent halten.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="257,119 257,164 294,164 294,119"/>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="341,1116 341,1164 1403,1164 1403,1116"/>
+	<TextEquiv>
+	<Unicode>Wie sich yemans an vns berieffe dheynes orteills, wurde er</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="253,1162 253,1203 1400,1203 1400,1162"/>
+	<TextEquiv>
+	<Unicode>an vnrecht funden, er sol vns geben zu besseronge iii N D.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="250,1200 250,1246 1401,1246 1401,1200"/>
+	<TextEquiv>
+	<Unicode>meiger ii β vnd den scheffen zehen; hette er recht, so sol vns</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="253,1242 253,1285 1339,1285 1339,1242"/>
+	<TextEquiv>
+	<Unicode>der meiger vnd iglicher scheffen zu besseronge geben iii N D.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="333,1283 333,1323 1403,1323 1403,1283"/>
+	<TextEquiv>
+	<Unicode>So wer sich vmb bresten rechts von dem meiger an vns be-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="251,1323 251,1369 1401,1369 1401,1323"/>
+	<TextEquiv>
+	<Unicode>rieffe, das er nit zubringen mocht, der ist vns besseronge nach</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="251,1367 251,1410 1403,1410 1403,1367"/>
+	<TextEquiv>
+	<Unicode>vnserm willen; so was wir zu besseronge da nemen, das ist das</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="250,1408 250,1453 1401,1453 1401,1408"/>
+	<TextEquiv>
+	<Unicode>dritteil des meigers vnd der scheffen. Brechte yemant bresten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="250,1450 250,1494 1400,1494 1400,1450"/>
+	<TextEquiv>
+	<Unicode>rechts zu mit funff bidermannen vnuersprochen, meiger vnd schef-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="251,1492 251,1530 1400,1530 1400,1492"/>
+	<TextEquiv>
+	<Unicode>fen sind vns entfallen x U Metzer D zu bussen, vnd sollent uff den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="250,1530 250,1576 1396,1576 1396,1530"/>
+	<TextEquiv>
+	<Unicode>beruffer des jares keyne verrichtonge nit han. Muste man de-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="250,1573 250,1616 1398,1616 1398,1573"/>
+	<TextEquiv>
+	<Unicode>dinge halten von hals vnd von halsbeyne, vnd so was hogericht</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="250,1614 250,1660 1400,1660 1400,1614"/>
+	<TextEquiv>
+	<Unicode>ruret in dieser frieheide, wir wollent, das die gescheen vor</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="250,1658 250,1701 1400,1701 1400,1658"/>
+	<TextEquiv>
+	<Unicode>vnsrem scholtessen von Sarbrucken, vnd er die berechte mit eyn</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="248,1698 248,1741 1132,1741 1132,1698"/>
+	<TextEquiv>
+	<Unicode>vnd zwentzig scheffen, also eſs biſsher ist komen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="310,1739 310,1780 1398,1780 1398,1739"/>
+	<TextEquiv>
+	<Unicode>Nun ist zu wissen, das alle die, die yne dieser frieheit sint</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="246,1780 246,1823 1396,1823 1396,1780"/>
+	<TextEquiv>
+	<Unicode>vnd wonnen sollent, die haiſs rauchent oder werdent ruchen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="246,1821 246,1862 1396,1862 1396,1821"/>
+	<TextEquiv>
+	<Unicode>sollent gelden vns vnd allen grauen von Sarbrucken alle jare</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="244,1862 244,1910 1396,1910 1396,1862"/>
+	<TextEquiv>
+	<Unicode>iiii β D ; ii β D zu S. Remeys dage vnd zwene des mandags nach</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="246,1908 246,1951 1398,1951 1398,1908"/>
+	<TextEquiv>
+	<Unicode>dem oisterdage zu rantten; so wer das suemede zu eyme ziele,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="246,1946 246,1994 1398,1994 1398,1946"/>
+	<TextEquiv>
+	<Unicode>der ist vns schuldig zu besseronge xxx D; die jhenen, die ge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="250,1987 250,2030 1276,2030 1276,1987"/>
+	<TextEquiv>
+	<Unicode>richtes sint, sollent auch ire rante geben also die andern.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="332,2026 332,2071 1398,2071 1398,2026"/>
+	<TextEquiv>
+	<Unicode>Wir gebietten vnd wollen, das alle die in dieser frieheit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="244,2067 244,2112 1394,2112 1394,2067"/>
+	<TextEquiv>
+	<Unicode>sint oder sin sollent, sint schuldig zu behuden vnd zu bewaren</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="246,2112 246,2155 1396,2155 1396,2112"/>
+	<TextEquiv>
+	<Unicode>vnser burg vnd stat zu Sarbrucken; so wan vnser heymberge</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="312,2210 312,2251 1392,2251 1392,2210"/>
+	<TextEquiv>
+	<Unicode>1) auch bei Kremer mangelhaft: wurdent die schoffenen widerworfen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l56">
+	<Coords points="242,2246 242,2287 917,2287 917,2246"/>
+	<TextEquiv>
+	<Unicode>der sie widerwirfet, von sie solent zicheren.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="260,291 260,333 1417,333 1417,291"/>
+	<TextEquiv>
+	<Unicode>wegen ist; was in der radet mit raide vnser manne, das sollen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="260,332 260,375 1194,375 1194,332"/>
+	<TextEquiv>
+	<Unicode>sie vor orteil geben, vnd wollent, das das stede sie.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="351,369 351,414 1410,414 1410,369"/>
+	<TextEquiv>
+	<Unicode>Wurdent die scheffen widder wurffen, der sie wider wirf-</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>SAAR
+2
+an vns zu Sarbrücken, vnd nit vfs baſs, weren wir nit zu
+Sarbrücken, sie sollent sich beraiden mit dem, der da in vnsern
+wegen ist; was in der radet mit raide vnser manne, das sollen
+sie vor orteil geben, vnd wollent, das das stede sie.
+Wurdent die scheffen widder wurffen, der sie wider wirf-
+fet, vnd sie sollen siechern ¹), das sie liden, was vns oder den-
+jhenen, der in vnsern wegen ist, vnd vnser manne zu Sarbrucken
+duncket das recht sy.
+Meyger noch scheffen ensollent keyne dedinge halden, wan
+eyns dags in der wuchen; es wer dan, das eſs sich also geburt,
+das sie sollichs halten musten. Sie sollent keyns werckedags hal-
+ten, so man hauwe machen vnd korne snyden mag, cs were dan
+von aneschin.
+Alle ire orteill sollen sie geben kurtzelich ane geuerde, vnd
+sollent keyne vrteill lenger by in haben, dan vierzehen nacht.
+Muste man kosten han vmb recht keyns orteils, den sollent die
+gelten, wieder die .das vrteill leuffet, vnd die busse sol man setzen.
+also hie in dieser frieheit geschrieben ist. Meiger vnd scheffen
+sollent ir dedinge halten, als man von alter biſs her hait gehalten.
+So wo wir busse oder besseronge von yemant mit vrteil ne-
+men, der ist auch dem meiger ii D vnd den scheffen iiij D, die
+das gericht helffent halten.
+Wie sich yemans an vns berieffe dheynes orteills, wurde er
+an vnrecht funden, er sol vns geben zu besseronge iii N D.
+meiger ii β vnd den scheffen zehen; hette er recht, so sol vns
+der meiger vnd iglicher scheffen zu besseronge geben iii N D.
+So wer sich vmb bresten rechts von dem meiger an vns be-
+rieffe, das er nit zubringen mocht, der ist vns besseronge nach
+vnserm willen; so was wir zu besseronge da nemen, das ist das
+dritteil des meigers vnd der scheffen. Brechte yemant bresten
+rechts zu mit funff bidermannen vnuersprochen, meiger vnd schef-
+fen sind vns entfallen x U Metzer D zu bussen, vnd sollent uff den
+beruffer des jares keyne verrichtonge nit han. Muste man de-
+dinge halten von hals vnd von halsbeyne, vnd so was hogericht
+ruret in dieser frieheide, wir wollent, das die gescheen vor
+vnsrem scholtessen von Sarbrucken, vnd er die berechte mit eyn
+vnd zwentzig scheffen, also eſs biſsher ist komen.
+Nun ist zu wissen, das alle die, die yne dieser frieheit sint
+vnd wonnen sollent, die haiſs rauchent oder werdent ruchen,
+sollent gelden vns vnd allen grauen von Sarbrucken alle jare
+iiii β D ; ii β D zu S. Remeys dage vnd zwene des mandags nach
+dem oisterdage zu rantten; so wer das suemede zu eyme ziele,
+der ist vns schuldig zu besseronge xxx D; die jhenen, die ge-
+richtes sint, sollent auch ire rante geben also die andern.
+Wir gebietten vnd wollen, das alle die in dieser frieheit
+sint oder sin sollent, sint schuldig zu behuden vnd zu bewaren
+vnser burg vnd stat zu Sarbrucken; so wan vnser heymberge
+1) auch bei Kremer mangelhaft: wurdent die schoffenen widerworfen,
+der sie widerwirfet, von sie solent zicheren.</Unicode></TextEquiv></TextRegion></Page></PcGts>

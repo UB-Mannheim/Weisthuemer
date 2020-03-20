@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-14T17:53:17</Created>
+	<LastChange>2020-03-20T15:52:13</LastChange></Metadata>
+	<Page imageFilename="bub_gb_LFpLZSYYg34C_0011.png" imageWidth="1577" imageHeight="2500">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="451,380 942,380 942,489 1076,489 1076,589 1301,589 1301,635 1292,635 1292,787 1294,787 1294,1050 1298,1050 1298,1089 1294,1089 1294,1346 1296,1346 1296,1853 1298,1853 1298,1982 1300,1982 1300,2067 1301,2067 1301,2200 1303,2200 1303,2242 1300,2242 1300,2330 942,2330 942,2367 914,2367 914,2330 260,2330 260,2367 146,2367 146,2282 114,2282 114,2241 116,2241 116,2114 112,2114 112,1982 114,1982 114,1858 112,1858 112,1519 110,1519 110,1476 108,1476 108,1428 110,1428 110,1262 107,1262 107,1216 108,1216 108,1010 107,1010 107,966 105,966 105,919 107,919 107,880 108,880 108,733 103,733 103,685 105,685 105,589 326,589 326,489 451,489"/>
+	<TextLine id="l10">
+	<Coords points="108,832 108,880 1291,880 1291,832"/>
+	<TextEquiv>
+	<Unicode>vnd Mechtilt graffynne vnd frauwe von den stetten vorgenanten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="107,880 107,921 1294,921 1294,880"/>
+	<TextEquiv>
+	<Unicode>vnd Johan vnser sone künden allen jhenen, die diesen breue se-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="105,919 105,966 1294,966 1294,919"/>
+	<TextEquiv>
+	<Unicode>hen sollent oder horent lesen, das vnser wille ist vnd wesen sol</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="107,964 107,1010 1294,1010 1294,964"/>
+	<TextEquiv>
+	<Unicode>ymerme vor vns vnd vor alle vnser erben vnd vnser nachkomen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="108,1005 108,1053 1294,1053 1294,1005"/>
+	<TextEquiv>
+	<Unicode>grauen von Sarbrucken, das die statt Sarbrucken vnd Sant Johan</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="110,1050 110,1089 1298,1089 1298,1050"/>
+	<TextEquiv>
+	<Unicode>das dorffe vnd alle manne vnd frauwen vnd ire erben sint ge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="108,1087 108,1135 1291,1135 1291,1087"/>
+	<TextEquiv>
+	<Unicode>friet, die wir mit diesem brieffe imerme friehen durch vnsern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="110,1133 110,1176 1294,1176 1294,1133"/>
+	<TextEquiv>
+	<Unicode>nutze vnd besseronge, das wir in den zweyen stetten hoger vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="108,1175 108,1219 1294,1219 1294,1175"/>
+	<TextEquiv>
+	<Unicode>nyderrer nit nemen wollent noch ensollent, also vnser forfaren</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="107,1216 107,1262 1294,1262 1294,1216"/>
+	<TextEquiv>
+	<Unicode>grauen von Sarbrucken getan hant. Die frieheit globen wir in</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="451,380 451,437 942,437 942,380"/>
+	<TextEquiv>
+	<Unicode>SARBRÜCKEN.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="110,1260 110,1305 1294,1305 1294,1260"/>
+	<TextEquiv>
+	<Unicode>vnsern vnd in aller vnser erben vnd nachkomen wegen stete zu</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="114,1298 114,1346 1153,1346 1153,1298"/>
+	<TextEquiv>
+	<Unicode>halten, als sie ist besigelt vnd hie nach geschrieben stat.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="198,1346 198,1387 1296,1387 1296,1346"/>
+	<TextEquiv>
+	<Unicode>Angande machen wir, das die burger von Sarbrucken vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="110,1387 110,1430 1296,1430 1296,1387"/>
+	<TextEquiv>
+	<Unicode>von s. Johan sollent alle jar wellen acht manne, vier zu Sar-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="108,1428 108,1476 1296,1476 1296,1428"/>
+	<TextEquiv>
+	<Unicode>brucken, vier zu S. Johan, des sondags vor pfingesten, die ine</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="110,1471 110,1519 1296,1519 1296,1471"/>
+	<TextEquiv>
+	<Unicode>den zweyen steden gerichte sin. Die soll man vns, oder dem,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="112,1517 112,1558 1296,1558 1296,1517"/>
+	<TextEquiv>
+	<Unicode>der in vnsern wegen ist zu Sarbrucken, des pfingestdages in</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="112,1560 112,1603 1296,1603 1296,1560"/>
+	<TextEquiv>
+	<Unicode>vnser burg antwurten, der achter sollen wir eynen meiger machen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="112,1601 112,1644 1296,1644 1296,1601"/>
+	<TextEquiv>
+	<Unicode>sesse scheffen, den andern hemburgen, die sollen sweren uff den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="112,1641 112,1685 1296,1685 1296,1641"/>
+	<TextEquiv>
+	<Unicode>heiligen, das sie vnser vnd vnser erben vnd der burger recht in</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="326,489 326,535 1076,535 1076,489"/>
+	<TextEquiv>
+	<Unicode>GRAFEN JOHANS FREIHEITSBRIEF.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="112,1685 112,1728 1296,1728 1296,1685"/>
+	<TextEquiv>
+	<Unicode>guten truwen behuden vnd bewaren sollent. Also sollen sie</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="114,1726 114,1773 1296,1773 1296,1726"/>
+	<TextEquiv>
+	<Unicode>ymerme alle jare dun vnd welen; so wie sie nit welten, noch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="112,1769 112,1816 1296,1816 1296,1769"/>
+	<TextEquiv>
+	<Unicode>antwurten die echte oder der keynen, also es hie vorgeschrieben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="112,1812 112,1858 1296,1858 1296,1812"/>
+	<TextEquiv>
+	<Unicode>ist, wir, vnser erben oder der an vnser wegen ist, sollent das</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="116,1853 116,1903 1298,1903 1298,1853"/>
+	<TextEquiv>
+	<Unicode>gericht bestellen; wie der echter eyner zu eyme anderen jare</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="114,1901 114,1941 908,1941 908,1901"/>
+	<TextEquiv>
+	<Unicode>wurde erwelet, er sol sinen eydt ernuwen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="200,1939 200,1985 1296,1985 1296,1939"/>
+	<TextEquiv>
+	<Unicode>Die scheffen sollent helffen dem meiger alle dedinge halten.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="112,1982 112,2030 1300,2030 1300,1982"/>
+	<TextEquiv>
+	<Unicode>Der hemburge sol den burgern vnd burgerynnen verdragen, vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="114,2025 114,2073 1300,2073 1300,2025"/>
+	<TextEquiv>
+	<Unicode>dun, was yne anhoret. Mochte der meyger keyne dedinge nit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="112,2067 112,2114 1301,2114 1301,2067"/>
+	<TextEquiv>
+	<Unicode>halten vmb dheyne gewissene sache, zwene scheffen mogen die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="644,535 644,578 751,578 751,535"/>
+	<TextEquiv>
+	<Unicode>1321.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="117,2112 117,2157 1301,2157 1301,2112"/>
+	<TextEquiv>
+	<Unicode>halten in sinen wegen; der meiger sol noch enmag ane zwen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="116,2153 116,2203 1300,2203 1300,2153"/>
+	<TextEquiv>
+	<Unicode>scheffen zu dem mynsten keyne orteill geben, sie sollent han</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="116,2200 116,2242 1303,2242 1303,2200"/>
+	<TextEquiv>
+	<Unicode>verrichtunge manne vnd frauwen vnd ire erbeschefft in diesen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="114,2241 114,2282 808,2282 808,2241"/>
+	<TextEquiv>
+	<Unicode>zweyen steden, vnd was darzu horet.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="201,2280 201,2330 1300,2330 1300,2280"/>
+	<TextEquiv>
+	<Unicode>Hetten sie zwiffel dheins orteils, der sollen sie sich beraiden</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="146,2328 146,2367 260,2367 260,2328"/>
+	<TextEquiv>
+	<Unicode>Bd. II.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="914,2326 914,2367 942,2367 942,2326"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="105,589 105,635 1301,635 1301,589"/>
+	<TextEquiv>
+	<Unicode>Dis ist die karte vnd die frieheit der bürger zu Sarbrucken vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="144,635 144,683 1251,683 1251,635"/>
+	<TextEquiv>
+	<Unicode>zu sant Johan, die geschrieuen ist vs der versigelten karten.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="103,685 103,733 1292,733 1292,685"/>
+	<TextEquiv>
+	<Unicode>(aus einer älteren handschrift, doch nachlässig abgedruckt in Kremers gesch,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="342,726 342,769 1060,769 1060,726"/>
+	<TextEquiv>
+	<Unicode>des ardennischen geschl. cod. dipl. p. 421 ff.)</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="191,787 191,839 1294,839 1294,787"/>
+	<TextEquiv>
+	<Unicode>Wir Johan graue von Sarbrucken vnd here von Comerczy</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>SARBRÜCKEN.
+GRAFEN JOHANS FREIHEITSBRIEF.
+1321.
+Dis ist die karte vnd die frieheit der bürger zu Sarbrucken vnd
+zu sant Johan, die geschrieuen ist vs der versigelten karten.
+(aus einer älteren handschrift, doch nachlässig abgedruckt in Kremers gesch,
+des ardennischen geschl. cod. dipl. p. 421 ff.)
+Wir Johan graue von Sarbrucken vnd here von Comerczy
+vnd Mechtilt graffynne vnd frauwe von den stetten vorgenanten
+vnd Johan vnser sone künden allen jhenen, die diesen breue se-
+hen sollent oder horent lesen, das vnser wille ist vnd wesen sol
+ymerme vor vns vnd vor alle vnser erben vnd vnser nachkomen
+grauen von Sarbrucken, das die statt Sarbrucken vnd Sant Johan
+das dorffe vnd alle manne vnd frauwen vnd ire erben sint ge-
+friet, die wir mit diesem brieffe imerme friehen durch vnsern
+nutze vnd besseronge, das wir in den zweyen stetten hoger vnd
+nyderrer nit nemen wollent noch ensollent, also vnser forfaren
+grauen von Sarbrucken getan hant. Die frieheit globen wir in
+vnsern vnd in aller vnser erben vnd nachkomen wegen stete zu
+halten, als sie ist besigelt vnd hie nach geschrieben stat.
+Angande machen wir, das die burger von Sarbrucken vnd
+von s. Johan sollent alle jar wellen acht manne, vier zu Sar-
+brucken, vier zu S. Johan, des sondags vor pfingesten, die ine
+den zweyen steden gerichte sin. Die soll man vns, oder dem,
+der in vnsern wegen ist zu Sarbrucken, des pfingestdages in
+vnser burg antwurten, der achter sollen wir eynen meiger machen,
+sesse scheffen, den andern hemburgen, die sollen sweren uff den
+heiligen, das sie vnser vnd vnser erben vnd der burger recht in
+guten truwen behuden vnd bewaren sollent. Also sollen sie
+ymerme alle jare dun vnd welen; so wie sie nit welten, noch
+antwurten die echte oder der keynen, also es hie vorgeschrieben
+ist, wir, vnser erben oder der an vnser wegen ist, sollent das
+gericht bestellen; wie der echter eyner zu eyme anderen jare
+wurde erwelet, er sol sinen eydt ernuwen.
+Die scheffen sollent helffen dem meiger alle dedinge halten.
+Der hemburge sol den burgern vnd burgerynnen verdragen, vnd
+dun, was yne anhoret. Mochte der meyger keyne dedinge nit
+halten vmb dheyne gewissene sache, zwene scheffen mogen die
+halten in sinen wegen; der meiger sol noch enmag ane zwen
+scheffen zu dem mynsten keyne orteill geben, sie sollent han
+verrichtunge manne vnd frauwen vnd ire erbeschefft in diesen
+zweyen steden, vnd was darzu horet.
+Hetten sie zwiffel dheins orteils, der sollen sie sich beraiden
+1
+Bd. II.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-12T18:15:32</Created>
+	<LastChange>2020-03-20T15:45:17</LastChange></Metadata>
+	<Page imageFilename="bub_gb_2J0ZKYG7on8C_0010.png" imageWidth="1528" imageHeight="2500">
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="572,118 861,118 861,208 1262,208 1262,118 1300,118 1300,160 1293,160 1293,290 1296,290 1296,541 1298,541 1298,666 1297,666 1297,786 1298,786 1298,828 1300,828 1300,872 1301,872 1301,913 1300,913 1300,1121 1302,1121 1302,1164 1301,1164 1301,1282 1302,1282 1302,1329 1301,1329 1301,1533 1302,1533 1302,1824 1301,1824 1301,1990 1300,1990 1300,2030 1298,2030 1298,2201 1082,2201 1082,2324 1028,2324 1028,2201 453,2201 453,2280 213,2280 213,2201 142,2201 142,2030 140,2030 140,1948 138,1948 138,1534 137,1534 137,1493 138,1493 138,1288 137,1288 137,828 138,828 138,582 137,582 137,418 136,418 136,250 134,250 134,208 572,208"/>
+	<TextLine id="l0">
+	<Coords points="572,118 572,166 861,166 861,118"/>
+	<TextEquiv>
+	<Unicode>ENGELBERG</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="1262,118 1262,160 1300,160 1300,118"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="137,541 137,582 1298,582 1298,541"/>
+	<TextEquiv>
+	<Unicode>zwendenne, sin gericht ze schirmenne, sin recht ze sprechenne</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="138,580 138,622 1298,622 1298,580"/>
+	<TextEquiv>
+	<Unicode>vnd ze behaltenne, dem selben herren gehorsam ze sinne an alle</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="138,620 138,666 1298,666 1298,620"/>
+	<TextEquiv>
+	<Unicode>geferde, as gotzhus lüte von recht tůn sollent vnz an ir ende,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="138,665 138,704 833,704 833,665"/>
+	<TextEquiv>
+	<Unicode>oder an das ende des herren herschaft.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="221,702 221,748 1296,748 1296,702"/>
+	<TextEquiv>
+	<Unicode>Es ist ovch ze wissenne, wennne ein gotzhusman sinen her-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="138,745 138,789 1297,789 1297,745"/>
+	<TextEquiv>
+	<Unicode>ren verratet an lib oder an sinen eren, oder sin vngenössen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="141,786 141,833 1298,833 1298,786"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="137,828 137,874 1300,874 1300,828"/>
+	<TextEquiv>
+	<Unicode>lib vnd gůt ist dem gotzhus vervallen vnd nit dem ammann, vntz</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="137,872 137,913 1301,913 1301,872"/>
+	<TextEquiv>
+	<Unicode>an eines abtz gnade. Es sol ovch ein ieklich man, der vf vier-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="134,208 134,250 1293,250 1293,208"/>
+	<TextEquiv>
+	<Unicode>hin in den mülibrunnen an die brugga, von der brugga zu dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="137,912 137,954 1298,954 1298,912"/>
+	<TextEquiv>
+	<Unicode>zehen jar komen ist, swerren trüwe vnd hulde einen abt tůn</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="137,952 137,1000 1300,1000 1300,952"/>
+	<TextEquiv>
+	<Unicode>wenne er es an inn vordret , das selb sol ovch ein man tůn, der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="138,996 138,1038 1297,1038 1297,996"/>
+	<TextEquiv>
+	<Unicode>von andren landen kunt, vnd hie seſshaft wil sin über jar.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="138,1036 138,1077 1298,1077 1298,1036"/>
+	<TextEquiv>
+	<Unicode>Wenne ovch ein man stirbet, der nüt geteilt het von sinen kin-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="137,1078 137,1121 1300,1121 1300,1078"/>
+	<TextEquiv>
+	<Unicode>den, vnd kindt lat dü elich sint, so sal das gotzhus ze valle ne-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="137,1121 137,1164 1302,1164 1302,1121"/>
+	<TextEquiv>
+	<Unicode>men das best hovbt das er lat, vnd söllent sinü kindt damit ir</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="137,1164 137,1205 1301,1205 1301,1164"/>
+	<TextEquiv>
+	<Unicode>erb enpfangen han. Wenne och me sün denne eine bi enander</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="137,1202 137,1245 1301,1245 1301,1202"/>
+	<TextEquiv>
+	<Unicode>sint, vnd da der eltest stirbet, so sol aber dem gotzhus das best</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="137,1242 137,1288 1301,1288 1301,1242"/>
+	<TextEquiv>
+	<Unicode>houbt ze valle werden. sturbi aber der junger, so wirt dem gotz-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="138,1282 138,1329 1302,1329 1302,1282"/>
+	<TextEquiv>
+	<Unicode>hus enhein ¹) val, ist das si nüt von enander geteilt hant. Das</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="137,250 137,290 1293,290 1293,250"/>
+	<TextEquiv>
+	<Unicode>mülitürli bi der Rübi. die Rübi vf in den wasserkenel, den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="138,1325 138,1370 1300,1370 1300,1325"/>
+	<TextEquiv>
+	<Unicode>gotzhus erbet ovch alle die an liberben sterbent, es sigen frowen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="138,1370 138,1410 1301,1410 1301,1370"/>
+	<TextEquiv>
+	<Unicode>oder man, vnd teilt der vatter von dem sun, vnd stirbt der vater</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="138,1410 138,1450 1300,1450 1300,1410"/>
+	<TextEquiv>
+	<Unicode>so erbt inn das gotzhus, stirbt ovch der sun, so erbt inn ovch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="140,1449 140,1493 1300,1493 1300,1449"/>
+	<TextEquiv>
+	<Unicode>daz gotshus. Wenne ovch ein man stirbet, der ein elich frowen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="137,1493 137,1534 1301,1534 1301,1493"/>
+	<TextEquiv>
+	<Unicode>lat vnd nit kinden, da erbt das gotzhus den halb teil alles des</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="138,1533 138,1577 1302,1577 1302,1533"/>
+	<TextEquiv>
+	<Unicode>gůtes so si mit enander hatten vntz an sinen tod, vnd sol ovch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="140,1577 140,1618 1301,1618 1301,1577"/>
+	<TextEquiv>
+	<Unicode>die frowe den andren halb teil erben, vnd sollent das gotzhus</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="141,1618 141,1660 1301,1660 1301,1618"/>
+	<TextEquiv>
+	<Unicode>vnd die frow ovch gelten, was er gelten solt gelichlich des tags</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="138,1660 138,1700 1302,1700 1302,1660"/>
+	<TextEquiv>
+	<Unicode>da er erstarb. dü frow sol ovch ir vorus behaben das best bette,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="136,290 136,336 1296,336 1296,290"/>
+	<TextEquiv>
+	<Unicode>wasserkenel hin an des kilchoff ort bi dem obren gasthus, vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="140,1698 140,1742 1300,1742 1300,1698"/>
+	<TextEquiv>
+	<Unicode>vnd alles versnitens gwand das er lat. stirbt ovch ein man an</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="138,1738 138,1784 1302,1784 1302,1738"/>
+	<TextEquiv>
+	<Unicode>liberben vnd ein frowen lat, vnd nüt enander gemachet hant</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="138,1782 138,1824 1302,1824 1302,1782"/>
+	<TextEquiv>
+	<Unicode>nach des gotzhus recht, so erbt das gotzhus den man, vnd die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="140,1822 140,1866 1301,1866 1301,1822"/>
+	<TextEquiv>
+	<Unicode>frowe nüt, also erbt och das gotzhus die frowen, die ein man</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="138,1864 138,1906 1301,1906 1301,1864"/>
+	<TextEquiv>
+	<Unicode>lat, vnd och enander nüt gemachet hatten, vnd der man nüt.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="138,1906 138,1948 1300,1948 1300,1906"/>
+	<TextEquiv>
+	<Unicode>ovch stirbt ein man, vnd sin frow inn zwiuel ist, ob si trag, so</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="140,1948 140,1990 1301,1990 1301,1948"/>
+	<TextEquiv>
+	<Unicode>sollent des kindes fründe vertrösten, das das gůt bi enander belibe,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="140,1990 140,2030 1300,2030 1300,1990"/>
+	<TextEquiv>
+	<Unicode>vnd die frow ir notdurft bruchi, vns vf die stunde das man an</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="142,2032 142,2072 438,2072 438,2032"/>
+	<TextEquiv>
+	<Unicode>zwifel muge sin.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="205,2068 205,2113 1298,2113 1298,2068"/>
+	<TextEquiv>
+	<Unicode>Es sol ovch enhein vsser vnser gotzhus lüt in disem tal erben.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="136,330 136,374 1296,374 1296,330"/>
+	<TextEquiv>
+	<Unicode>was innrent dien muren vnd dien vorgenanten zilen lit, das ist</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="205,2108 205,2156 1297,2156 1297,2108"/>
+	<TextEquiv>
+	<Unicode>Des gotzhus zwing vnd ban vahet an Rotenhalden vnd denne</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="142,2153 142,2201 1298,2201 1298,2153"/>
+	<TextEquiv>
+	<Unicode>die roten bachtalen vf vnz an den grat, vnd den grât obnan hin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="213,2244 213,2280 453,2280 453,2244"/>
+	<TextEquiv>
+	<Unicode>1) es steht: ein.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="1028,2281 1028,2324 1082,2324 1082,2281"/>
+	<TextEquiv>
+	<Unicode>1*</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="136,374 136,418 852,418 852,374"/>
+	<TextEquiv>
+	<Unicode>ein friger hof des gotzhus ze Engelberg.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="220,417 220,456 1294,456 1294,417"/>
+	<TextEquiv>
+	<Unicode>Dis sint och des gotzhus recht. Wenne ein abt erwelt wirt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="137,457 137,500 1296,500 1296,457"/>
+	<TextEquiv>
+	<Unicode>vnd bestetget, so sollent im alle tallüte, die ob vierzehen iaren</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="137,498 137,544 1296,544 1296,498"/>
+	<TextEquiv>
+	<Unicode>sint, sweren sinen nutz sin eren ze fürdrenne, sin laster schaden</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ENGELBERG
+3
+hin in den mülibrunnen an die brugga, von der brugga zu dem
+mülitürli bi der Rübi. die Rübi vf in den wasserkenel, den
+wasserkenel hin an des kilchoff ort bi dem obren gasthus, vnd
+was innrent dien muren vnd dien vorgenanten zilen lit, das ist
+ein friger hof des gotzhus ze Engelberg.
+Dis sint och des gotzhus recht. Wenne ein abt erwelt wirt
+vnd bestetget, so sollent im alle tallüte, die ob vierzehen iaren
+sint, sweren sinen nutz sin eren ze fürdrenne, sin laster schaden
+zwendenne, sin gericht ze schirmenne, sin recht ze sprechenne
+vnd ze behaltenne, dem selben herren gehorsam ze sinne an alle
+geferde, as gotzhus lüte von recht tůn sollent vnz an ir ende,
+oder an das ende des herren herschaft.
+Es ist ovch ze wissenne, wennne ein gotzhusman sinen her-
+ren verratet an lib oder an sinen eren, oder sin vngenössen
+
+lib vnd gůt ist dem gotzhus vervallen vnd nit dem ammann, vntz
+an eines abtz gnade. Es sol ovch ein ieklich man, der vf vier-
+zehen jar komen ist, swerren trüwe vnd hulde einen abt tůn
+wenne er es an inn vordret , das selb sol ovch ein man tůn, der
+von andren landen kunt, vnd hie seſshaft wil sin über jar.
+Wenne ovch ein man stirbet, der nüt geteilt het von sinen kin-
+den, vnd kindt lat dü elich sint, so sal das gotzhus ze valle ne-
+men das best hovbt das er lat, vnd söllent sinü kindt damit ir
+erb enpfangen han. Wenne och me sün denne eine bi enander
+sint, vnd da der eltest stirbet, so sol aber dem gotzhus das best
+houbt ze valle werden. sturbi aber der junger, so wirt dem gotz-
+hus enhein ¹) val, ist das si nüt von enander geteilt hant. Das
+gotzhus erbet ovch alle die an liberben sterbent, es sigen frowen
+oder man, vnd teilt der vatter von dem sun, vnd stirbt der vater
+so erbt inn das gotzhus, stirbt ovch der sun, so erbt inn ovch
+daz gotshus. Wenne ovch ein man stirbet, der ein elich frowen
+lat vnd nit kinden, da erbt das gotzhus den halb teil alles des
+gůtes so si mit enander hatten vntz an sinen tod, vnd sol ovch
+die frowe den andren halb teil erben, vnd sollent das gotzhus
+vnd die frow ovch gelten, was er gelten solt gelichlich des tags
+da er erstarb. dü frow sol ovch ir vorus behaben das best bette,
+vnd alles versnitens gwand das er lat. stirbt ovch ein man an
+liberben vnd ein frowen lat, vnd nüt enander gemachet hant
+nach des gotzhus recht, so erbt das gotzhus den man, vnd die
+frowe nüt, also erbt och das gotzhus die frowen, die ein man
+lat, vnd och enander nüt gemachet hatten, vnd der man nüt.
+ovch stirbt ein man, vnd sin frow inn zwiuel ist, ob si trag, so
+sollent des kindes fründe vertrösten, das das gůt bi enander belibe,
+vnd die frow ir notdurft bruchi, vns vf die stunde das man an
+zwifel muge sin.
+Es sol ovch enhein vsser vnser gotzhus lüt in disem tal erben.
+Des gotzhus zwing vnd ban vahet an Rotenhalden vnd denne
+die roten bachtalen vf vnz an den grat, vnd den grât obnan hin
+1) es steht: ein.
+1*</Unicode></TextEquiv></TextRegion></Page></PcGts>
