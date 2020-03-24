@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-22T15:35:27</Created>
+	<LastChange>2020-03-23T12:28:13</LastChange></Metadata>
+	<Page imageFilename="bub_gb_MMcFAAAAQAAJ_0076.png" imageWidth="2500" imageHeight="4100">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1222,170 1609,170 1609,332 2425,332 2425,754 2429,754 2429,822 2432,822 2432,1038 2435,1038 2435,1109 2432,1109 2432,1441 2438,1441 2438,1532 2435,1532 2435,1732 2441,1732 2441,1806 2435,1806 2435,1935 2438,1935 2438,2087 2435,2087 2435,2229 2432,2229 2432,2632 2435,2632 2435,2854 2432,2854 2432,3051 2435,3051 2435,3196 2432,3196 2432,3332 2429,3332 2429,3687 2425,3687 2425,3758 2174,3758 2174,3832 432,3832 432,3758 429,3758 429,3616 425,3616 425,3541 432,3541 432,3400 429,3400 429,3264 432,3264 432,3058 429,3058 429,2716 425,2716 425,2354 429,2354 429,2009 432,2009 432,1883 429,1883 429,1741 422,1741 422,1519 432,1519 432,1390 425,1390 425,1312 429,1312 429,1045 425,1045 425,896 429,896 429,703 425,703 425,616 429,616 429,477 432,477 432,261 419,261 419,180 525,180 525,332 1222,332"/>
+	<TextLine id="l0">
+	<Coords points="419,180 419,261 525,261 525,180"/>
+	<TextEquiv>
+	<Unicode>64</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="1222,170 1222,264 1609,264 1609,170"/>
+	<TextEquiv>
+	<Unicode>AARGAU.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="429,822 429,909 2432,909 2432,822"/>
+	<TextEquiv>
+	<Unicode>lichs zins und recht gan und usgericht werden bi dem mes</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="425,896 425,974 2429,974 2429,896"/>
+	<TextEquiv>
+	<Unicode>als von alter har sit und gewonlich ist. §. 20. Man sol einem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="425,967 425,1045 2432,1045 2432,967"/>
+	<TextEquiv>
+	<Unicode>probst zinsen mit den pfennigen und bi der münze, die man</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="429,1038 429,1109 2435,1109 2435,1038"/>
+	<TextEquiv>
+	<Unicode>denn da in dem land schlat, und gat und löjfig ist. §. 21. Es</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="429,1106 429,1187 2432,1187 2432,1106"/>
+	<TextEquiv>
+	<Unicode>mag ouch ein probst oder sin bot um sin nüzze und zins die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="432,1174 432,1258 2432,1258 2432,1174"/>
+	<TextEquiv>
+	<Unicode>lüt angrifen und pfenden, mit gericht oder ône gericht, und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="429,1245 429,1325 2429,1325 2429,1245"/>
+	<TextEquiv>
+	<Unicode>mag die pfender mit gericht oder ône gericht verkoufen oder</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="425,1312 425,1390 2432,1390 2432,1312"/>
+	<TextEquiv>
+	<Unicode>mit im füeren, war im füeglich ist, und sol im ein meier darzu</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="432,1380 432,1454 858,1454 858,1380"/>
+	<TextEquiv>
+	<Unicode>beholfen sin.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="432,332 432,425 2425,425 2425,332"/>
+	<TextEquiv>
+	<Unicode>wîben noch mannen uszer der gnoszschaft. §. 18. Wer, daz</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="567,1441 567,1532 2438,1532 2438,1441"/>
+	<TextEquiv>
+	<Unicode>§. 22. Wer, daz ieman sin erblehen oder des gotshuses güeter</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="422,1519 422,1600 2435,1600 2435,1519"/>
+	<TextEquiv>
+	<Unicode>selber nit buwen wellte oder enmöcht, und der dann dieselben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="422,1590 422,1674 2429,1674 2429,1590"/>
+	<TextEquiv>
+	<Unicode>güeter verschlahen und gen andren lüten versperren und ver-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="422,1664 422,1741 2435,1741 2435,1664"/>
+	<TextEquiv>
+	<Unicode>sprechen welte, daz si nieman buwen sölte, und daz daran</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="429,1732 429,1806 2441,1806 2441,1732"/>
+	<TextEquiv>
+	<Unicode>einem probst sin zins nit werde, und damit die güter wüest</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="429,1803 429,1883 2435,1883 2435,1803"/>
+	<TextEquiv>
+	<Unicode>lägent, der soll einem probst fünf pfund pfennige verfallen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="435,1870 435,1945 2429,1945 2429,1870"/>
+	<TextEquiv>
+	<Unicode>sin, und sond daran dieselben güter einem probst genzlich</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="432,1935 432,2019 2438,2019 2438,1935"/>
+	<TextEquiv>
+	<Unicode>lidig sin. §. 23. Were, daz ieman des gotshuses erbgüeter oder</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="429,2009 429,2087 2438,2087 2438,2009"/>
+	<TextEquiv>
+	<Unicode>andre güeter inhett und die niesze oder genuzzet het, es were</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="429,2074 429,2158 2432,2158 2432,2074"/>
+	<TextEquiv>
+	<Unicode>vil oder wenig, derselb sol einem probst sinen vollen zins</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="429,2145 429,2229 2435,2229 2435,2145"/>
+	<TextEquiv>
+	<Unicode>usrichten und dem darumb genuog tuon und des alweg ge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="429,2216 429,2300 2432,2300 2432,2216"/>
+	<TextEquiv>
+	<Unicode>horsam sin. §. 24, Were ouch, daz von des gotshuses güetren</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="429,2283 429,2364 2432,2364 2432,2283"/>
+	<TextEquiv>
+	<Unicode>iemand kain stugk, es were acker, matten, holz oder veld, es</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="425,2354 425,2435 2432,2435 2432,2354"/>
+	<TextEquiv>
+	<Unicode>were vil oder wenig, verkouft, versetzt oder verstolen hette,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="425,2425 425,2503 2432,2503 2432,2425"/>
+	<TextEquiv>
+	<Unicode>oder daz hienach tät, der sol dem probst 10 Π ϑ verfallen sin,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="432,2496 432,2570 2432,2570 2432,2496"/>
+	<TextEquiv>
+	<Unicode>wer der ist, und sol dazuo alli sini recht, die er zuo demselben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="425,2558 425,2645 2429,2645 2429,2558"/>
+	<TextEquiv>
+	<Unicode>guot hat, genzlich verloren han. §. 25. Wer, daz ieman uszer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="425,2632 425,2716 2435,2716 2435,2632"/>
+	<TextEquiv>
+	<Unicode>des gotshuses güeter und darab dheinen zins oder järlich gült</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="432,412 432,490 2419,490 2419,412"/>
+	<TextEquiv>
+	<Unicode>ein gotshusmann oder wib ze der ê käm mit einem andren,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="429,2703 429,2783 2435,2783 2435,2703"/>
+	<TextEquiv>
+	<Unicode>verkouft oder darab etswaz geordnet und gesetzzet hett, oder</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="429,2770 429,2854 2435,2854 2435,2770"/>
+	<TextEquiv>
+	<Unicode>sölich ding hienach täte, und dazselb denn mit eines probstes</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="429,2841 429,2919 2432,2919 2432,2841"/>
+	<TextEquiv>
+	<Unicode>willen und wissen nit beschechen were, oder mit siner hand</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="429,2909 429,2987 2432,2987 2432,2909"/>
+	<TextEquiv>
+	<Unicode>nit erloubt und gevertiget were, oder von einem probst darum</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="429,2983 429,3058 2432,3058 2432,2983"/>
+	<TextEquiv>
+	<Unicode>nit urkund hett, dasselb verkofen, ordnung und gesezt sol kein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="432,3051 432,3129 2435,3129 2435,3051"/>
+	<TextEquiv>
+	<Unicode>kraft noch macht haben. und wer der ist, der daz tuot, es</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="432,3119 432,3196 2435,3196 2435,3119"/>
+	<TextEquiv>
+	<Unicode>were der, der also verkoufti, ordneti oder satzti, oder der, der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="432,3190 432,3267 2432,3267 2432,3190"/>
+	<TextEquiv>
+	<Unicode>den kouf, ordnung und satzung âne des probstes wissen, gunst</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="429,3264 429,3332 2432,3332 2432,3264"/>
+	<TextEquiv>
+	<Unicode>und willen in kein wise naeme, dieselben beid teil sol ieckli-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="429,3329 429,3400 2429,3400 2429,3329"/>
+	<TextEquiv>
+	<Unicode>cher einem probst 5 Π ϑ vervallen sin und darzuo alli sini</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="429,477 429,558 2425,558 2425,477"/>
+	<TextEquiv>
+	<Unicode>daz des gotshuses von St. Gallen nit were, desselben kind,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="432,3400 432,3477 1967,3477 1967,3400"/>
+	<TextEquiv>
+	<Unicode>recht an demselben guot genzlich verloren han.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="570,3467 570,3548 2429,3548 2429,3467"/>
+	<TextEquiv>
+	<Unicode>§. 26. Es sol ein probst halben teil nemen, waz nuzzes und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="425,3541 425,3616 2429,3616 2429,3541"/>
+	<TextEquiv>
+	<Unicode>genieszes von den hochwälden und von den hölzern und wäl-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="429,3612 429,3687 2429,3687 2429,3612"/>
+	<TextEquiv>
+	<Unicode>den, die gemeinewerk sint und heiszent, gevallet, des si vil</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="429,3680 429,3758 2425,3758 2425,3680"/>
+	<TextEquiv>
+	<Unicode>oder wenig; und wär, daz achram oder andres da von den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l56">
+	<Coords points="432,3745 432,3832 2174,3832 2174,3745"/>
+	<TextEquiv>
+	<Unicode>wälden viele, da ist der halb teil ouch eines probstes.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="429,545 429,629 2425,629 2425,545"/>
+	<TextEquiv>
+	<Unicode>die denn dem gotshus nit zuogehörent, die sond des gotshus</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="425,616 425,703 2425,703 2425,616"/>
+	<TextEquiv>
+	<Unicode>güter von St. Gallen nit erben und sint dem gotshus genzlich</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="429,690 429,770 2106,770 2106,690"/>
+	<TextEquiv>
+	<Unicode>lidig, er mag es denn an eines probstes gnade han.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="567,754 567,841 2429,841 2429,754"/>
+	<TextEquiv>
+	<Unicode>§. 19. Es soll eines probstes zins und rechtung vor meng-</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>AARGAU.
+64
+wîben noch mannen uszer der gnoszschaft. §. 18. Wer, daz
+ein gotshusmann oder wib ze der ê käm mit einem andren,
+daz des gotshuses von St. Gallen nit were, desselben kind,
+die denn dem gotshus nit zuogehörent, die sond des gotshus
+güter von St. Gallen nit erben und sint dem gotshus genzlich
+lidig, er mag es denn an eines probstes gnade han.
+§. 19. Es soll eines probstes zins und rechtung vor meng-
+lichs zins und recht gan und usgericht werden bi dem mes
+als von alter har sit und gewonlich ist. §. 20. Man sol einem
+probst zinsen mit den pfennigen und bi der münze, die man
+denn da in dem land schlat, und gat und löjfig ist. §. 21. Es
+mag ouch ein probst oder sin bot um sin nüzze und zins die
+lüt angrifen und pfenden, mit gericht oder ône gericht, und
+mag die pfender mit gericht oder ône gericht verkoufen oder
+mit im füeren, war im füeglich ist, und sol im ein meier darzu
+beholfen sin.
+§. 22. Wer, daz ieman sin erblehen oder des gotshuses güeter
+selber nit buwen wellte oder enmöcht, und der dann dieselben
+güeter verschlahen und gen andren lüten versperren und ver-
+sprechen welte, daz si nieman buwen sölte, und daz daran
+einem probst sin zins nit werde, und damit die güter wüest
+lägent, der soll einem probst fünf pfund pfennige verfallen
+sin, und sond daran dieselben güter einem probst genzlich
+lidig sin. §. 23. Were, daz ieman des gotshuses erbgüeter oder
+andre güeter inhett und die niesze oder genuzzet het, es were
+vil oder wenig, derselb sol einem probst sinen vollen zins
+usrichten und dem darumb genuog tuon und des alweg ge-
+horsam sin. §. 24, Were ouch, daz von des gotshuses güetren
+iemand kain stugk, es were acker, matten, holz oder veld, es
+were vil oder wenig, verkouft, versetzt oder verstolen hette,
+oder daz hienach tät, der sol dem probst 10 Π ϑ verfallen sin,
+wer der ist, und sol dazuo alli sini recht, die er zuo demselben
+guot hat, genzlich verloren han. §. 25. Wer, daz ieman uszer
+des gotshuses güeter und darab dheinen zins oder järlich gült
+verkouft oder darab etswaz geordnet und gesetzzet hett, oder
+sölich ding hienach täte, und dazselb denn mit eines probstes
+willen und wissen nit beschechen were, oder mit siner hand
+nit erloubt und gevertiget were, oder von einem probst darum
+nit urkund hett, dasselb verkofen, ordnung und gesezt sol kein
+kraft noch macht haben. und wer der ist, der daz tuot, es
+were der, der also verkoufti, ordneti oder satzti, oder der, der
+den kouf, ordnung und satzung âne des probstes wissen, gunst
+und willen in kein wise naeme, dieselben beid teil sol ieckli-
+cher einem probst 5 Π ϑ vervallen sin und darzuo alli sini
+recht an demselben guot genzlich verloren han.
+§. 26. Es sol ein probst halben teil nemen, waz nuzzes und
+genieszes von den hochwälden und von den hölzern und wäl-
+den, die gemeinewerk sint und heiszent, gevallet, des si vil
+oder wenig; und wär, daz achram oder andres da von den
+wälden viele, da ist der halb teil ouch eines probstes.</Unicode></TextEquiv></TextRegion></Page></PcGts>

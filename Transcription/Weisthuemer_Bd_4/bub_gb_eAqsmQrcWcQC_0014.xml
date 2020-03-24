@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-21T14:46:04</Created>
+	<LastChange>2020-03-21T15:51:00</LastChange></Metadata>
+	<Page imageFilename="bub_gb_eAqsmQrcWcQC_0014.png" imageWidth="2500" imageHeight="4091">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="583,107 1716,107 1716,259 2064,259 2064,121 2130,121 2130,259 2133,259 2133,611 2135,611 2135,892 2140,892 2140,976 2138,976 2138,1045 2135,1045 2135,1533 2138,1533 2138,1602 2135,1602 2135,1809 2138,1809 2138,1883 2135,1883 2135,2152 1657,2152 1657,2550 2140,2550 2140,2630 2142,2630 2142,2711 2138,2711 2138,2980 2140,2980 2140,3116 2147,3116 2147,3207 2142,3207 2142,3269 2138,3269 2138,3471 2140,3471 2140,3550 2138,3550 2138,3621 1807,3621 1807,3838 1704,3838 1704,3621 1304,3621 1304,3776 302,3776 302,3621 180,3621 180,3550 178,3550 178,3269 176,3269 176,3190 178,3190 178,2630 319,2630 319,2550 661,2550 661,2223 388,2223 388,2152 319,2152 319,2030 178,2030 178,1959 176,1959 176,1876 178,1876 178,1533 180,1533 180,1319 183,1319 183,1045 180,1045 180,976 178,976 178,892 185,892 185,561 183,561 183,471 190,471 190,335 311,335 311,259 583,259"/>
+	<TextLine id="l0">
+	<Coords points="583,107 583,202 1716,202 1716,107"/>
+	<TextEquiv>
+	<Unicode>WERENTZHAUSEN. RIESPACH</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="2064,121 2064,195 2130,195 2130,121"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="323,823 323,907 2135,907 2135,823"/>
+	<TextEquiv>
+	<Unicode>Wer ouch dz der Meyger einem huber gebute oder sust</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="178,892 178,976 2140,976 2140,892"/>
+	<TextEquiv>
+	<Unicode>jm Jore einem ruffte, so er sin nothdurfftig wer jn dem hoff</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="180,966 180,1045 2138,1045 2138,966"/>
+	<TextEquiv>
+	<Unicode>zůbesitzen, so sol der selbe gehorsam sin by sinem eyde. Wer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="185,1038 185,1119 2135,1119 2135,1038"/>
+	<TextEquiv>
+	<Unicode>ouch dz ein hůber dz nit tete oder hielte, so jm der hoffmeyger</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="185,1107 185,1188 2133,1188 2133,1107"/>
+	<TextEquiv>
+	<Unicode>gebotten hette, derselb huber wer einem probst verfallen x lib.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="183,1180 183,1259 428,1259 428,1180"/>
+	<TextEquiv>
+	<Unicode>pfennig.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="316,1245 316,1330 2133,1330 2133,1245"/>
+	<TextEquiv>
+	<Unicode>Ouch sol ein Probst einen Meyger vff den hoffgutern haben,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="180,1319 180,1397 2135,1397 2135,1319"/>
+	<TextEquiv>
+	<Unicode>wenn es sich gefugte dz die huber sin notdurfftig weren von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="180,1392 180,1464 1538,1464 1538,1392"/>
+	<TextEquiv>
+	<Unicode>der guter wegen, das er tete wz recht wer.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="319,1457 319,1533 2133,1533 2133,1457"/>
+	<TextEquiv>
+	<Unicode>Es sol ouch nyemand die hoffgůter vffgeben denn mit ver-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="311,259 311,350 2133,350 2133,259"/>
+	<TextEquiv>
+	<Unicode>Item ouch sol nyemand recht sprechen, er sige denn ein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="178,1533 178,1602 2138,1602 2138,1533"/>
+	<TextEquiv>
+	<Unicode>gangenem zinsz, vnd die gůten gůter mit den schwachen ver-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="178,1600 178,1676 2102,1676 2102,1600"/>
+	<TextEquiv>
+	<Unicode>kouffen, nut das er die guten behebe vnd die schwachen vffgebe.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="314,1666 314,1745 2135,1745 2135,1666"/>
+	<TextEquiv>
+	<Unicode>Ouch ist recht, wenn ein Probst hoffgeding hett, so soll</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="180,1735 180,1823 2133,1823 2133,1735"/>
+	<TextEquiv>
+	<Unicode>nyemand nutzit furnemen, der Probst hab denn sin clag vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="178,1809 178,1883 2138,1883 2138,1809"/>
+	<TextEquiv>
+	<Unicode>was er zuschaffen hett gerichtet. Vnd sol ouch nyemand dauon</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="176,1876 176,1959 2135,1959 2135,1876"/>
+	<TextEquiv>
+	<Unicode>wichen, Ein probst oder sin Meyger geb jm denn vor vrlob,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="178,1945 178,2030 2080,2030 2080,1945"/>
+	<TextEquiv>
+	<Unicode>Es sye dann sach, das es libs oder herren not darzů trunge.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="319,2069 319,2152 2135,2152 2135,2069"/>
+	<TextEquiv>
+	<Unicode>(archiv der praefectur des Ober-Rheins, fonds: Prieuré de St. Morand.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="388,2142 388,2223 1526,2223 1526,2142"/>
+	<TextEquiv>
+	<Unicode>ein band in papier, von 1420 bis 1541.)</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="190,335 190,414 780,414 780,335"/>
+	<TextEquiv>
+	<Unicode>geschworner huber.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="661,2340 661,2440 1657,2440 1657,2340"/>
+	<TextEquiv>
+	<Unicode>DINGHOF ZU RIESPACH ¹).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="854,2428 854,2523 1469,2523 1469,2428"/>
+	<TextEquiv>
+	<Unicode>ausgang des 14 jh.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="319,2550 319,2638 2140,2638 2140,2550"/>
+	<TextEquiv>
+	<Unicode>Als es ntdrfftig ist, was ewig zit bestn sol, das dz in</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="178,2630 178,2711 2142,2711 2142,2630"/>
+	<TextEquiv>
+	<Unicode>geschrifft begriffen soelle werden, darumb so sy zů wissent aller</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="180,2702 180,2783 2138,2783 2138,2702"/>
+	<TextEquiv>
+	<Unicode>mongelich mit vrkunde dis gegenwürtigen rdels die rechte ge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="178,2771 178,2850 2138,2850 2138,2771"/>
+	<TextEquiv>
+	<Unicode>wnheit, frieheit vnd geseczde als die von altter har kommen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="180,2840 180,2919 2138,2919 2138,2840"/>
+	<TextEquiv>
+	<Unicode>sind in dem hffe zů Růnspach, der do gehrt mit sunderheit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="178,2911 178,2995 2135,2995 2135,2911"/>
+	<TextEquiv>
+	<Unicode>gein Phfirt an den stein in aller der masse als hie nach ge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="180,2980 180,3052 2140,3052 2140,2980"/>
+	<TextEquiv>
+	<Unicode>schriben std vnd es och die wissenthafften hber erkennent</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="180,3047 180,3130 1235,3130 1235,3047"/>
+	<TextEquiv>
+	<Unicode>by iren eiden jn ffenem gedinge.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="314,402 314,485 2133,485 2133,402"/>
+	<TextEquiv>
+	<Unicode>Item ouch sol der Meyger keinen huber setzen, er hab</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="330,3116 330,3207 2147,3207 2147,3116"/>
+	<TextEquiv>
+	<Unicode>Des ersten so hat der hoff vier vnd zwenzig Leehen, do git</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="176,3190 176,3269 2142,3269 2142,3190"/>
+	<TextEquiv>
+	<Unicode>iedas leehen acht schilling vnd vier phfening vnd ein vierteil</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="178,3264 178,3338 2138,3338 2138,3264"/>
+	<TextEquiv>
+	<Unicode>habren, zehen eyger vnd zwy hunre, do bringt das gelt ein-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="180,3330 180,3407 2138,3407 2138,3330"/>
+	<TextEquiv>
+	<Unicode>lif phfunt zehen schilling, des gehrent siben phfunt an sant</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="180,3400 180,3480 2138,3480 2138,3400"/>
+	<TextEquiv>
+	<Unicode>Katherinen alttar zů Phfirt vff der vesten vnd das übrige ge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="178,3471 178,3550 2140,3550 2140,3471"/>
+	<TextEquiv>
+	<Unicode>hrt zů der vesten, denne allein acht schilling, die sllent dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="180,3547 180,3621 2138,3621 2138,3547"/>
+	<TextEquiv>
+	<Unicode>meiger belieben, do sol er den vogt, schaffner vnd schriber von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="302,3707 302,3776 1304,3776 1304,3707"/>
+	<TextEquiv>
+	<Unicode>1) zwischen Werentzhausen und Altkirch.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="1704,3764 1704,3838 1807,3838 1807,3764"/>
+	<TextEquiv>
+	<Unicode>1*</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="183,471 183,561 2133,561 2133,471"/>
+	<TextEquiv>
+	<Unicode>denn vor zu jm zwen huber zum mynsten. Vnd ist dem Meyger</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="185,547 185,621 1907,621 1907,547"/>
+	<TextEquiv>
+	<Unicode>verfallen III sg. IIII ϑ., vnd den hubern ein viertel wins.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="316,611 316,690 2135,690 2135,611"/>
+	<TextEquiv>
+	<Unicode>Item ouch ist recht, das der probst den hoff achttag vorhin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="185,685 185,764 2135,764 2135,685"/>
+	<TextEquiv>
+	<Unicode>den hubern verkunden sol, vnd so er die herberg essen wil,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="185,757 185,838 1166,838 1166,757"/>
+	<TextEquiv>
+	<Unicode>ouch achttag vorhin verkunden.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>WERENTZHAUSEN. RIESPACH
+3
+Item ouch sol nyemand recht sprechen, er sige denn ein
+geschworner huber.
+Item ouch sol der Meyger keinen huber setzen, er hab
+denn vor zu jm zwen huber zum mynsten. Vnd ist dem Meyger
+verfallen III sg. IIII ϑ., vnd den hubern ein viertel wins.
+Item ouch ist recht, das der probst den hoff achttag vorhin
+den hubern verkunden sol, vnd so er die herberg essen wil,
+ouch achttag vorhin verkunden.
+Wer ouch dz der Meyger einem huber gebute oder sust
+jm Jore einem ruffte, so er sin nothdurfftig wer jn dem hoff
+zůbesitzen, so sol der selbe gehorsam sin by sinem eyde. Wer
+ouch dz ein hůber dz nit tete oder hielte, so jm der hoffmeyger
+gebotten hette, derselb huber wer einem probst verfallen x lib.
+pfennig.
+Ouch sol ein Probst einen Meyger vff den hoffgutern haben,
+wenn es sich gefugte dz die huber sin notdurfftig weren von
+der guter wegen, das er tete wz recht wer.
+Es sol ouch nyemand die hoffgůter vffgeben denn mit ver-
+gangenem zinsz, vnd die gůten gůter mit den schwachen ver-
+kouffen, nut das er die guten behebe vnd die schwachen vffgebe.
+Ouch ist recht, wenn ein Probst hoffgeding hett, so soll
+nyemand nutzit furnemen, der Probst hab denn sin clag vnd
+was er zuschaffen hett gerichtet. Vnd sol ouch nyemand dauon
+wichen, Ein probst oder sin Meyger geb jm denn vor vrlob,
+Es sye dann sach, das es libs oder herren not darzů trunge.
+(archiv der praefectur des Ober-Rheins, fonds: Prieuré de St. Morand.
+ein band in papier, von 1420 bis 1541.)
+DINGHOF ZU RIESPACH ¹).
+ausgang des 14 jh.
+Als es ntdrfftig ist, was ewig zit bestn sol, das dz in
+geschrifft begriffen soelle werden, darumb so sy zů wissent aller
+mongelich mit vrkunde dis gegenwürtigen rdels die rechte ge-
+wnheit, frieheit vnd geseczde als die von altter har kommen
+sind in dem hffe zů Růnspach, der do gehrt mit sunderheit
+gein Phfirt an den stein in aller der masse als hie nach ge-
+schriben std vnd es och die wissenthafften hber erkennent
+by iren eiden jn ffenem gedinge.
+Des ersten so hat der hoff vier vnd zwenzig Leehen, do git
+iedas leehen acht schilling vnd vier phfening vnd ein vierteil
+habren, zehen eyger vnd zwy hunre, do bringt das gelt ein-
+lif phfunt zehen schilling, des gehrent siben phfunt an sant
+Katherinen alttar zů Phfirt vff der vesten vnd das übrige ge-
+hrt zů der vesten, denne allein acht schilling, die sllent dem
+meiger belieben, do sol er den vogt, schaffner vnd schriber von
+1) zwischen Werentzhausen und Altkirch.
+1*</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-22T21:37:49</Created>
+	<LastChange>2020-03-23T22:42:25</LastChange></Metadata>
+	<Page imageFilename="weisthmer09maurgoog_0013.tif" imageWidth="3102" imageHeight="5034">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="523,316 588,316 588,492 1097,492 1097,566 1766,566 1766,495 2390,495 2390,573 2930,573 2930,719 2933,719 2933,869 2878,869 2878,1007 2342,1007 2342,1147 2933,1147 2933,1226 2533,1226 2533,1292 2330,1292 2330,1495 2597,1495 2597,1569 2938,1569 2938,1652 2933,1652 2933,1857 2930,1857 2930,1997 2938,1997 2938,2078 2933,2078 2933,2223 2930,2223 2930,2354 2935,2354 2935,2502 2285,2502 2285,2638 2340,2638 2340,2704 2926,2704 2926,2790 2921,2790 2921,2859 2726,2859 2726,2928 2478,2928 2478,3071 2438,3071 2438,3214 2442,3214 2442,3290 2340,3290 2340,3423 2471,3423 2471,3492 2926,3492 2926,3571 2330,3571 2330,3711 2338,3711 2338,3785 2838,3785 2838,3850 2611,3850 2611,3930 2480,3930 2480,4069 2485,4069 2485,4209 2935,4209 2935,4283 2933,4283 2933,4428 2452,4428 2452,4569 2414,4569 2414,4638 1757,4638 1757,4566 1761,4566 1761,4430 938,4430 938,4561 1038,4561 1038,4650 516,4650 516,4283 511,4283 511,4207 516,4207 516,4138 519,4138 519,3933 516,3933 516,3857 514,3857 514,3711 516,3711 516,3502 511,3502 511,3352 521,3352 521,3276 573,3276 573,3140 576,3140 576,3069 580,3069 580,2997 583,2997 583,2926 585,2926 585,2857 588,2857 588,2221 519,2221 519,2076 514,2076 514,2000 519,2000 519,1497 585,1497 585,1364 521,1364 521,1288 516,1288 516,1214 519,1214 519,1140 521,1140 521,1000 588,1000 588,795 526,795 526,652 523,652 523,576 519,576 519,492 523,492"/>
+	<TextLine id="l0">
+	<Coords points="523,316 523,400 588,400 588,316"/>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="519,492 519,576 1097,576 1097,492"/>
+	<TextEquiv>
+	<Unicode>Adelbach I, 79 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="519,1140 519,1219 1254,1219 1254,1140"/>
+	<TextEquiv>
+	<Unicode>Adelsbach, der V, 361.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l100">
+	<Coords points="1764,3285 1764,3352 2340,3352 2340,3285"/>
+	<TextEquiv>
+	<Unicode>Aider, die IV, 77.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l101">
+	<Coords points="1764,3350 1764,3426 2338,3426 2338,3350"/>
+	<TextEquiv>
+	<Unicode>Aidincourt V, 39.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l102">
+	<Coords points="1766,3423 1766,3497 2471,3497 2471,3423"/>
+	<TextEquiv>
+	<Unicode>Aidtberg s. Eichberg.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l103">
+	<Coords points="1761,3492 1761,3571 2926,3571 2926,3492"/>
+	<TextEquiv>
+	<Unicode>Aierwiese (Ainerwiese?), die IV, 582.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l104">
+	<Coords points="1759,3566 1759,3640 2319,3640 2319,3566"/>
+	<TextEquiv>
+	<Unicode>Aige, I' IV, 259.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l105">
+	<Coords points="1764,3635 1764,3714 2330,3714 2330,3635"/>
+	<TextEquiv>
+	<Unicode>Aigmont IV, 680.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l106">
+	<Coords points="1764,3711 1764,3788 2338,3788 2338,3711"/>
+	<TextEquiv>
+	<Unicode>Ailf, graf III, 11.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l107">
+	<Coords points="1764,3785 1764,3850 2838,3850 2838,3785"/>
+	<TextEquiv>
+	<Unicode>Aymo bischof von Genf V, 15 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l108">
+	<Coords points="1766,3850 1766,3930 2611,3930 2611,3850"/>
+	<TextEquiv>
+	<Unicode>Ainer, Einer, die IV, 582.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l109">
+	<Coords points="1764,3928 1764,3992 2480,3992 2480,3928"/>
+	<TextEquiv>
+	<Unicode>Ainkürn: Konrad der.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="516,1214 516,1288 1088,1288 1088,1214"/>
+	<TextEquiv>
+	<Unicode>Adelswil IV, 388.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l110">
+	<Coords points="1766,3990 1766,4069 2407,4069 2407,3990"/>
+	<TextEquiv>
+	<Unicode>Aintenloch III, 678.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l111">
+	<Coords points="1764,4069 1764,4140 2485,4140 2485,4069"/>
+	<TextEquiv>
+	<Unicode>Ainwille: Konrad von.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l112">
+	<Coords points="1764,4138 1764,4211 2376,4211 2376,4138"/>
+	<TextEquiv>
+	<Unicode>Airſsburg III, 777.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l113">
+	<Coords points="1764,4209 1764,4283 2935,4283 2935,4209"/>
+	<TextEquiv>
+	<Unicode>Airwichtrich II, 706. vgl. Wichtrich.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l114">
+	<Coords points="1761,4280 1761,4357 2416,4357 2416,4280"/>
+	<TextEquiv>
+	<Unicode>Aitenpah VI, 115 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l115">
+	<Coords points="1759,4357 1759,4428 2933,4428 2933,4357"/>
+	<TextEquiv>
+	<Unicode>Akarben, Akerben III, 451. 457. vgl.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l116">
+	<Coords points="1828,4423 1828,4495 2090,4495 2090,4423"/>
+	<TextEquiv>
+	<Unicode>Karben.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l117">
+	<Coords points="1761,4492 1761,4569 2452,4569 2452,4492"/>
+	<TextEquiv>
+	<Unicode>Akela, witwe II, 651.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l118">
+	<Coords points="1757,4566 1757,4638 2414,4638 2414,4566"/>
+	<TextEquiv>
+	<Unicode>Akruffel s. Okröftel.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="521,1283 521,1364 1683,1364 1683,1283"/>
+	<TextEquiv>
+	<Unicode>Adenau II, 611. VI, 589 ff. Malthe-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="585,1361 585,1435 1683,1435 1683,1361"/>
+	<TextEquiv>
+	<Unicode>sercomthurei zu A. II, 613. Johann</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="585,1428 585,1500 1269,1500 1269,1428"/>
+	<TextEquiv>
+	<Unicode>und Nicolaus von A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="519,1497 519,1576 1159,1576 1159,1497"/>
+	<TextEquiv>
+	<Unicode>Adendorf II, 650 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="521,1571 521,1652 1683,1652 1683,1571"/>
+	<TextEquiv>
+	<Unicode>Adenstede, Adenstedt III, 252 n. 257.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="519,1645 519,1721 1183,1721 1183,1645"/>
+	<TextEquiv>
+	<Unicode>Aderde, der III, 88.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="519,1711 519,1792 1130,1792 1130,1711"/>
+	<TextEquiv>
+	<Unicode>Adlasprang I, 378.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="519,1788 519,1857 1073,1857 1073,1788"/>
+	<TextEquiv>
+	<Unicode>Adler: Sebastian.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="523,566 523,652 1688,652 1688,566"/>
+	<TextEquiv>
+	<Unicode>Adelberg, der hohe V, 557. der kleine</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="519,1852 519,1935 1683,1935 1683,1852"/>
+	<TextEquiv>
+	<Unicode>Adligenswil (Adelgeswile, Adelga-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="588,1930 588,2009 1407,2009 1407,1930"/>
+	<TextEquiv>
+	<Unicode>schile) I, 162 ff. IV, 370.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="514,2000 514,2076 1147,2076 1147,2000"/>
+	<TextEquiv>
+	<Unicode>Adlikon I, 81. 101.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="519,2069 519,2147 1335,2147 1335,2069"/>
+	<TextEquiv>
+	<Unicode>Adlisperg IV, 488 f. 494.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="519,2140 519,2221 1683,2221 1683,2140"/>
+	<TextEquiv>
+	<Unicode>Adolf herzog von Berg, markgraf zu</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="595,2214 595,2288 1678,2288 1678,2214"/>
+	<TextEquiv>
+	<Unicode>Pontamont und graf zu Rayens-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="588,2280 588,2361 1678,2361 1678,2280"/>
+	<TextEquiv>
+	<Unicode>berg III, 21. A. von Bidenfeld III,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="588,2359 588,2433 1678,2433 1678,2359"/>
+	<TextEquiv>
+	<Unicode>331. A. von Breithart III, 621. A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="590,2426 590,2502 1680,2502 1680,2426"/>
+	<TextEquiv>
+	<Unicode>Clofs III, 175. A. Grüter III, 44.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="588,2497 588,2576 1678,2576 1678,2497"/>
+	<TextEquiv>
+	<Unicode>A. dompropst zu Köln II, 743. A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="592,640 592,728 1457,728 1457,640"/>
+	<TextEquiv>
+	<Unicode>A. V, 557. vgl. Madilberg.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="588,2576 588,2645 1676,2645 1676,2576"/>
+	<TextEquiv>
+	<Unicode>erzbischof von Mainz III, 335. 353.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="588,2645 588,2719 1683,2719 1683,2645"/>
+	<TextEquiv>
+	<Unicode>A. von Nassau, könig IV, 506. A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="588,2719 588,2792 1688,2792 1688,2719"/>
+	<TextEquiv>
+	<Unicode>graf zu Nassau VI, 747. A. graf</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="588,2790 588,2859 1685,2859 1685,2790"/>
+	<TextEquiv>
+	<Unicode>zu Nassau, Weilburg und Saar-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="585,2857 585,2930 1683,2930 1683,2857"/>
+	<TextEquiv>
+	<Unicode>brücken V, 620 f. A. graf zu Nas-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="583,2926 583,3002 1683,3002 1683,2926"/>
+	<TextEquiv>
+	<Unicode>sau, propst zu St. Peter in Mainz</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="580,2997 580,3073 1683,3073 1683,2997"/>
+	<TextEquiv>
+	<Unicode>III, 621 ff. A. Wild- und Rhein-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="576,3069 576,3145 1685,3145 1685,3069"/>
+	<TextEquiv>
+	<Unicode>graf, graf zu Salm VI, 506. A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="573,3140 573,3216 1680,3216 1680,3140"/>
+	<TextEquiv>
+	<Unicode>Schilling III, 77. junker A. von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="588,3209 588,3283 1683,3283 1683,3209"/>
+	<TextEquiv>
+	<Unicode>Windhausen III, 351.— Johann A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="526,711 526,795 1676,795 1676,711"/>
+	<TextEquiv>
+	<Unicode>Adelheid von Schauenburg II, 102.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="521,3276 521,3359 978,3359 978,3276"/>
+	<TextEquiv>
+	<Unicode>Adorf V, 741.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="511,3352 511,3426 1240,3426 1240,3352"/>
+	<TextEquiv>
+	<Unicode>Adventica s. Aventica.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="511,3419 511,3502 1216,3502 1216,3419"/>
+	<TextEquiv>
+	<Unicode>Affeltrangen IV, 406.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="516,3492 516,3576 1688,3576 1688,3492"/>
+	<TextEquiv>
+	<Unicode>Affenbroich s. Johann von der Dor-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="583,3564 583,3650 869,3650 869,3564"/>
+	<TextEquiv>
+	<Unicode>nenberg.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="516,3638 516,3714 1085,3714 1085,3638"/>
+	<TextEquiv>
+	<Unicode>Afferden VI, 714.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="514,3711 514,3785 1342,3785 1342,3711"/>
+	<TextEquiv>
+	<Unicode>Affhalder, das III, 482 n.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="514,3780 514,3857 1285,3857 1285,3780"/>
+	<TextEquiv>
+	<Unicode>Affnighausen VI, 732 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="516,3854 516,3933 1680,3933 1680,3854"/>
+	<TextEquiv>
+	<Unicode>Affolderbach III, 527. Niedern-A, III,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="592,783 592,864 1680,864 1680,783"/>
+	<TextEquiv>
+	<Unicode>A. von Trostberg, äbtissin zu Schen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="595,3921 595,3992 733,3992 733,3921"/>
+	<TextEquiv>
+	<Unicode>527.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="519,3988 519,4073 1676,4073 1676,3988"/>
+	<TextEquiv>
+	<Unicode>Affoltern, Afholtern I, 49. 55. 81.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="588,4066 588,4145 1678,4145 1678,4066"/>
+	<TextEquiv>
+	<Unicode>83. IV, 392. grafschaft A. IV, 391 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="516,4138 516,4211 1673,4211 1673,4138"/>
+	<TextEquiv>
+	<Unicode>Afion Bentz I, 396. A. Nuter I, 389.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="511,4207 511,4283 1221,4283 1221,4207"/>
+	<TextEquiv>
+	<Unicode>St. Afra s. Augsburg.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="516,4269 516,4361 1164,4361 1164,4269"/>
+	<TextEquiv>
+	<Unicode>Ägelsee, der I, 132.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l56">
+	<Coords points="516,4352 516,4430 1683,4430 1683,4352"/>
+	<TextEquiv>
+	<Unicode>Agelsturbach, Agersterbach, der I,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l57">
+	<Coords points="583,4423 583,4497 885,4497 885,4423"/>
+	<TextEquiv>
+	<Unicode>240. 242.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l58">
+	<Coords points="516,4480 516,4569 938,4569 938,4480"/>
+	<TextEquiv>
+	<Unicode>Ägg III, 669</Unicode></TextEquiv></TextLine>
+	<TextLine id="l59">
+	<Coords points="516,4561 516,4650 1038,4650 1038,4561"/>
+	<TextEquiv>
+	<Unicode>Agger s. Acher.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="588,864 588,935 1680,935 1680,864"/>
+	<TextEquiv>
+	<Unicode>nis I, 52. frau A. IV, 128. frauen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l60">
+	<Coords points="1766,495 1766,580 2390,580 2390,495"/>
+	<TextEquiv>
+	<Unicode>Aglasperg VI, 188.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l61">
+	<Coords points="1764,573 1764,650 2930,650 2930,573"/>
+	<TextEquiv>
+	<Unicode>Agnes (Nese) kaiserin IV, 739 f. kö-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l62">
+	<Coords points="1835,647 1835,728 2930,728 2930,647"/>
+	<TextEquiv>
+	<Unicode>nigin von Ungarn III, 694. A. Grue-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l63">
+	<Coords points="1835,719 1835,797 2933,797 2933,719"/>
+	<TextEquiv>
+	<Unicode>berin VI, 179 f. A. mutter Alberts</Unicode></TextEquiv></TextLine>
+	<TextLine id="l64">
+	<Coords points="1838,788 1838,869 2933,869 2933,788"/>
+	<TextEquiv>
+	<Unicode>des Tegers III, 83. A. von der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l65">
+	<Coords points="1845,857 1845,935 2369,935 2369,857"/>
+	<TextEquiv>
+	<Unicode>Wieſsen V, 582.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l66">
+	<Coords points="1764,923 1764,1007 2878,1007 2878,923"/>
+	<TextEquiv>
+	<Unicode>St. Agnes s. Pfaffenschwabenheim.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l67">
+	<Coords points="1766,1004 1766,1078 2216,1078 2216,1004"/>
+	<TextEquiv>
+	<Unicode>Agren I, 813.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l68">
+	<Coords points="1766,1073 1766,1152 2342,1152 2342,1073"/>
+	<TextEquiv>
+	<Unicode>Agspang III, 712.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l69">
+	<Coords points="1766,1147 1766,1226 2933,1226 2933,1147"/>
+	<TextEquiv>
+	<Unicode>Ah, Ahe (vgl. Aa, Aach, Ach) V, 715.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="588,930 588,1007 1309,1007 1309,930"/>
+	<TextEquiv>
+	<Unicode>A. mühle I, 669. 671.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l70">
+	<Coords points="1764,1216 1764,1292 2533,1292 2533,1216"/>
+	<TextEquiv>
+	<Unicode>Ahenhorst, die III, 290.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l71">
+	<Coords points="1766,1283 1766,1361 2321,1361 2321,1283"/>
+	<TextEquiv>
+	<Unicode>Ahle, der I, 602.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l72">
+	<Coords points="1764,1357 1764,1433 2330,1433 2330,1357"/>
+	<TextEquiv>
+	<Unicode>Ahlraidt VI, 669.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l73">
+	<Coords points="1764,1428 1764,1497 2300,1497 2300,1428"/>
+	<TextEquiv>
+	<Unicode>Ahlten s. Alten.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l74">
+	<Coords points="1766,1495 1766,1583 2597,1583 2597,1495"/>
+	<TextEquiv>
+	<Unicode>Ahornsberg, der IV, 499.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l75">
+	<Coords points="1771,1569 1771,1652 2938,1652 2938,1569"/>
+	<TextEquiv>
+	<Unicode>Ahr (Ahre, Aer, Ar, Are), die III,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l76">
+	<Coords points="1840,1640 1840,1709 2933,1709 2933,1640"/>
+	<TextEquiv>
+	<Unicode>844. 846. VI, 655. 657. 767. Alten-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l77">
+	<Coords points="1838,1707 1838,1788 2933,1788 2933,1707"/>
+	<TextEquiv>
+	<Unicode>A. (Aldenare, Ar, Are) III, 844 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l78">
+	<Coords points="1835,1788 1835,1857 2933,1857 2933,1788"/>
+	<TextEquiv>
+	<Unicode>schloſs und amt Alten-A. II, 608.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l79">
+	<Coords points="1833,1854 1833,1930 2930,1930 2930,1854"/>
+	<TextEquiv>
+	<Unicode>637—42, 650 f. III, 844. VI, 656.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="521,1000 521,1073 1171,1073 1171,1000"/>
+	<TextEquiv>
+	<Unicode>St. Adelheid s. Selz.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l80">
+	<Coords points="1833,1926 1833,2004 2930,2004 2930,1926"/>
+	<TextEquiv>
+	<Unicode>659. kirchspiel Alten-A. III, 846.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l81">
+	<Coords points="1833,1997 1833,2078 2938,2078 2938,1997"/>
+	<TextEquiv>
+	<Unicode>Neuen-A., Nuwenare, grafschaft II,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l82">
+	<Coords points="1830,2069 1830,2145 2933,2145 2933,2069"/>
+	<TextEquiv>
+	<Unicode>650 ff. 658. vgl. Philipp, graf zu</Unicode></TextEquiv></TextLine>
+	<TextLine id="l83">
+	<Coords points="1828,2138 1828,2223 2933,2223 2933,2138"/>
+	<TextEquiv>
+	<Unicode>Virnenburg. Johann A. Johann</Unicode></TextEquiv></TextLine>
+	<TextLine id="l84">
+	<Coords points="1835,2219 1835,2283 2069,2283 2069,2219"/>
+	<TextEquiv>
+	<Unicode>von A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l85">
+	<Coords points="1766,2280 1766,2359 2930,2359 2930,2280"/>
+	<TextEquiv>
+	<Unicode>Ahrweiler (Arwilre, Arwiller) II, 638.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l86">
+	<Coords points="1835,2354 1835,2428 2935,2428 2935,2354"/>
+	<TextEquiv>
+	<Unicode>643—47. 650. 655. die Ahrgasse</Unicode></TextEquiv></TextLine>
+	<TextLine id="l87">
+	<Coords points="1830,2423 1830,2502 2935,2502 2935,2423"/>
+	<TextEquiv>
+	<Unicode>zu A. II, 646. der Hirsch (ein haus)</Unicode></TextEquiv></TextLine>
+	<TextLine id="l88">
+	<Coords points="1828,2500 1828,2569 2285,2569 2285,2500"/>
+	<TextEquiv>
+	<Unicode>zu A. II, 646.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l89">
+	<Coords points="1761,2569 1761,2645 2230,2645 2230,2569"/>
+	<TextEquiv>
+	<Unicode>Ahus IV, 359.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="521,1069 521,1147 1214,1147 1214,1069"/>
+	<TextEquiv>
+	<Unicode>Adelnhausen IV, 214.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l90">
+	<Coords points="1766,2638 1766,2709 2340,2709 2340,2638"/>
+	<TextEquiv>
+	<Unicode>Ahuser: Heinrich.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l91">
+	<Coords points="1759,2704 1759,2790 2926,2790 2926,2704"/>
+	<TextEquiv>
+	<Unicode>Ay, bischof von Genf und abt von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l92">
+	<Coords points="1835,2788 1835,2859 2921,2859 2921,2788"/>
+	<TextEquiv>
+	<Unicode>Lacus Jurensis IV, 458. A. prior</Unicode></TextEquiv></TextLine>
+	<TextLine id="l93">
+	<Coords points="1828,2852 1828,2928 2726,2928 2726,2852"/>
+	<TextEquiv>
+	<Unicode>von Romainmotier IV, 458.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l94">
+	<Coords points="1764,2928 1764,2997 2254,2997 2254,2928"/>
+	<TextEquiv>
+	<Unicode>Aich s. Achen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l96">
+	<Coords points="1761,2997 1761,3071 2478,3071 2478,2997"/>
+	<TextEquiv>
+	<Unicode>Aichäch VI, 167. 771.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l97">
+	<Coords points="1759,3066 1759,3142 2438,3142 2438,3066"/>
+	<TextEquiv>
+	<Unicode>Aichelperch VI, 188.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l98">
+	<Coords points="1757,3140 1757,3219 2421,3219 2421,3140"/>
+	<TextEquiv>
+	<Unicode>Aichpüchel VI, 167.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l99">
+	<Coords points="1761,3214 1761,3290 2442,3290 2442,3214"/>
+	<TextEquiv>
+	<Unicode>Aidberg s. Eichberg.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>2
+Adelbach I, 79 f.
+Aglasperg VI, 188.
+Adelberg, der hohe V, 557. der kleine
+Agnes (Nese) kaiserin IV, 739 f. kö-
+A. V, 557. vgl. Madilberg.
+nigin von Ungarn III, 694. A. Grue-
+Adelheid von Schauenburg II, 102.
+berin VI, 179 f. A. mutter Alberts
+A. von Trostberg, äbtissin zu Schen-
+des Tegers III, 83. A. von der
+Wieſsen V, 582.
+nis I, 52. frau A. IV, 128. frauen
+St. Agnes s. Pfaffenschwabenheim.
+A. mühle I, 669. 671.
+St. Adelheid s. Selz.
+Agren I, 813.
+Adelnhausen IV, 214.
+Agspang III, 712.
+Adelsbach, der V, 361.
+Ah, Ahe (vgl. Aa, Aach, Ach) V, 715.
+Adelswil IV, 388.
+Ahenhorst, die III, 290.
+Adenau II, 611. VI, 589 ff. Malthe-
+Ahle, der I, 602.
+Ahlraidt VI, 669.
+sercomthurei zu A. II, 613. Johann
+und Nicolaus von A.
+Ahlten s. Alten.
+Ahornsberg, der IV, 499.
+Adendorf II, 650 ff.
+Ahr (Ahre, Aer, Ar, Are), die III,
+Adenstede, Adenstedt III, 252 n. 257.
+844. 846. VI, 655. 657. 767. Alten-
+Aderde, der III, 88.
+A. (Aldenare, Ar, Are) III, 844 ff.
+Adlasprang I, 378.
+Adler: Sebastian.
+schloſs und amt Alten-A. II, 608.
+Adligenswil (Adelgeswile, Adelga-
+637—42, 650 f. III, 844. VI, 656.
+659. kirchspiel Alten-A. III, 846.
+schile) I, 162 ff. IV, 370.
+Neuen-A., Nuwenare, grafschaft II,
+Adlikon I, 81. 101.
+Adlisperg IV, 488 f. 494.
+650 ff. 658. vgl. Philipp, graf zu
+Virnenburg. Johann A. Johann
+Adolf herzog von Berg, markgraf zu
+Pontamont und graf zu Rayens-
+von A.
+berg III, 21. A. von Bidenfeld III,
+Ahrweiler (Arwilre, Arwiller) II, 638.
+643—47. 650. 655. die Ahrgasse
+331. A. von Breithart III, 621. A.
+zu A. II, 646. der Hirsch (ein haus)
+Clofs III, 175. A. Grüter III, 44.
+A. dompropst zu Köln II, 743. A.
+zu A. II, 646.
+Ahus IV, 359.
+erzbischof von Mainz III, 335. 353.
+Ahuser: Heinrich.
+A. von Nassau, könig IV, 506. A.
+Ay, bischof von Genf und abt von
+graf zu Nassau VI, 747. A. graf
+Lacus Jurensis IV, 458. A. prior
+zu Nassau, Weilburg und Saar-
+von Romainmotier IV, 458.
+brücken V, 620 f. A. graf zu Nas-
+sau, propst zu St. Peter in Mainz
+Aich s. Achen.
+III, 621 ff. A. Wild- und Rhein-
+Aichäch VI, 167. 771.
+Aichelperch VI, 188.
+graf, graf zu Salm VI, 506. A.
+Schilling III, 77. junker A. von
+Aichpüchel VI, 167.
+Windhausen III, 351.— Johann A.
+Aidberg s. Eichberg.
+Adorf V, 741.
+Aider, die IV, 77.
+Aidincourt V, 39.
+Adventica s. Aventica.
+Affeltrangen IV, 406.
+Aidtberg s. Eichberg.
+Affenbroich s. Johann von der Dor-
+Aierwiese (Ainerwiese?), die IV, 582.
+nenberg.
+Aige, I' IV, 259.
+Aigmont IV, 680.
+Afferden VI, 714.
+Affhalder, das III, 482 n.
+Ailf, graf III, 11.
+Affnighausen VI, 732 f.
+Aymo bischof von Genf V, 15 ff.
+Ainer, Einer, die IV, 582.
+Affolderbach III, 527. Niedern-A, III,
+527.
+Ainkürn: Konrad der.
+Affoltern, Afholtern I, 49. 55. 81.
+Aintenloch III, 678.
+83. IV, 392. grafschaft A. IV, 391 ff.
+Ainwille: Konrad von.
+Afion Bentz I, 396. A. Nuter I, 389.
+Airſsburg III, 777.
+St. Afra s. Augsburg.
+Airwichtrich II, 706. vgl. Wichtrich.
+Ägelsee, der I, 132.
+Aitenpah VI, 115 f.
+Agelsturbach, Agersterbach, der I,
+Akarben, Akerben III, 451. 457. vgl.
+240. 242.
+Karben.
+Ägg III, 669
+Akela, witwe II, 651.
+Agger s. Acher.
+Akruffel s. Okröftel.</Unicode></TextEquiv></TextRegion></Page></PcGts>

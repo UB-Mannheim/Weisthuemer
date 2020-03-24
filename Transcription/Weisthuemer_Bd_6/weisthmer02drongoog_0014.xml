@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-22T18:34:30</Created>
+	<LastChange>2020-03-23T20:29:22</LastChange></Metadata>
+	<Page imageFilename="weisthmer02drongoog_0014.tif" imageWidth="2984" imageHeight="4920">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="556,223 2406,223 2406,416 2683,416 2683,506 2690,506 2690,683 2686,683 2686,843 2690,843 2690,1013 2693,1013 2693,1360 2690,1360 2690,1520 2693,1520 2693,1606 2690,1606 2690,1853 2693,1853 2693,2190 2696,2190 2696,2283 2693,2283 2693,2696 2696,2696 2696,3366 2703,3366 2703,3540 2706,3540 2706,3630 2696,3630 2696,3716 2693,3716 2693,3803 2690,3803 2690,3883 800,3883 800,4050 2360,4050 2360,4196 2700,4196 2700,4483 2706,4483 2706,4576 2456,4576 2456,4643 286,4643 286,4553 433,4553 433,4390 290,4390 290,4283 453,4283 453,4196 650,4196 650,3973 283,3973 283,3716 280,3716 280,3626 286,3626 286,3370 280,3370 280,3290 283,3290 283,2783 280,2783 280,2613 283,2613 283,2370 280,2370 280,2200 276,2200 276,2106 280,2106 280,1780 276,1780 276,1600 280,1600 280,1443 276,1443 276,683 273,683 273,516 270,516 270,230 343,230 343,416 556,416"/>
+	<TextLine id="l0">
+	<Coords points="270,230 270,323 343,323 343,230"/>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="556,223 556,326 2406,326 2406,223"/>
+	<TextEquiv>
+	<Unicode>ZWISCHEN NECKAR, MAIN UND RHEIN.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="280,1013 280,1103 2693,1103 2693,1013"/>
+	<TextEquiv>
+	<Unicode>schwein nach nutzen des eckern und stelt den hindersten fuesz</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="276,1093 276,1193 2693,1193 2693,1093"/>
+	<TextEquiv>
+	<Unicode>do der vorderst gestanden hat, so hat sie den dehm vergangen;</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="283,1180 283,1273 2693,1273 2693,1180"/>
+	<TextEquiv>
+	<Unicode>und so manche jar das schwein alt ist, als manchen ϑ ist man</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="276,1266 276,1360 2693,1360 2693,1266"/>
+	<TextEquiv>
+	<Unicode>zudem von ir schuldig. ist sıe ein tag uber das jar, so ist</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="276,1350 276,1443 2690,1443 2690,1350"/>
+	<TextEquiv>
+	<Unicode>man 2 ϑ, und für und für, als alt sie ist, von einem ieden jar</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="280,1436 280,1530 2690,1530 2690,1436"/>
+	<TextEquiv>
+	<Unicode>1 ϑ. und wo einer oder mehr den ubrigen tag verschwigen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="280,1520 280,1606 2693,1606 2693,1520"/>
+	<TextEquiv>
+	<Unicode>so haben die dehmsherrn gut macht, mit recht zu demselben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="276,1600 276,1696 2690,1696 2690,1600"/>
+	<TextEquiv>
+	<Unicode>schwein zu greifen, und wan es schon ım solle (stalle ?) lege.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="276,1680 276,1780 2690,1780 2690,1680"/>
+	<TextEquiv>
+	<Unicode>§. 4. Zum vierten ein vaszel muck oder schwein 1 ϑ, und von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="280,1766 280,1863 2686,1863 2686,1766"/>
+	<TextEquiv>
+	<Unicode>einem hauen schwein gibt man nicht. §. 5. Zum fünften ha-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="270,416 270,516 2683,516 2683,416"/>
+	<TextEquiv>
+	<Unicode>barn dorfgericht unserem genedigsten churfürsten und herrn</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="280,1853 280,1950 2693,1950 2693,1853"/>
+	<TextEquiv>
+	<Unicode>ben meine gn. herren von Breuberg an diesem dhem 3 ϑ und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="280,1936 280,2033 2686,2033 2686,1936"/>
+	<TextEquiv>
+	<Unicode>mein gn. herr der commenthur zu Mosbach 2 ϑ. §. 6. Zum</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="280,2020 280,2116 2693,2116 2693,2020"/>
+	<TextEquiv>
+	<Unicode>sechsten, welche meine gn. herrn von Breuberg, man oder frau,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="276,2106 276,2200 2693,2200 2693,2106"/>
+	<TextEquiv>
+	<Unicode>mit dem leibs aigen angehören, das behält den dritten ϑ am</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="280,2190 280,2283 2696,2283 2696,2190"/>
+	<TextEquiv>
+	<Unicode>dehn innen; hören sie aber bede, man und frau, ihrer gn. mit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="280,2270 280,2370 2690,2370 2690,2270"/>
+	<TextEquiv>
+	<Unicode>dem leibs eigen an, sein sie des dehms frei; hört aber man</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="283,2360 283,2453 2693,2453 2693,2360"/>
+	<TextEquiv>
+	<Unicode>oder frau m. gn. h. dem commenthur zu Mosbach mit dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="283,2443 283,2540 2693,2540 2693,2443"/>
+	<TextEquiv>
+	<Unicode>leibs eigen an, so behalten sie 2 ϑ vorab innen; hören sie aber</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="273,506 273,606 2690,606 2690,506"/>
+	<TextEquiv>
+	<Unicode>von Meintz, oberster herr und faut dieses fleckens, der uns</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="283,2526 283,2623 2693,2623 2693,2526"/>
+	<TextEquiv>
+	<Unicode>bede ihrer gn. mit dem leib aigen an, sein sie dehms frei. hört</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="280,2613 280,2710 2693,2710 2693,2613"/>
+	<TextEquiv>
+	<Unicode>aber man und frau bede, eins m. gn. herren von Breuberg</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="280,2696 280,2783 2696,2783 2696,2696"/>
+	<TextEquiv>
+	<Unicode>und das ander m. gn. herrn dem commenthur zu Mosbach mit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="283,2776 283,2880 2693,2880 2693,2776"/>
+	<TextEquiv>
+	<Unicode>dem leibs aigen an, sein sie bede des ganzen dehms frei. §. 7.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="283,2866 283,2960 2696,2960 2696,2866"/>
+	<TextEquiv>
+	<Unicode>Zum siebenden, welcher uf sein frei aigenthumb sitzt, der ist</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="286,2943 286,3040 2693,3040 2693,2943"/>
+	<TextEquiv>
+	<Unicode>zehendfrei. §. 8. Zum achten sein mein gn. herren zu beden</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="283,3030 283,3133 2696,3133 2696,3030"/>
+	<TextEquiv>
+	<Unicode>theilen von diesem dehm der gemeinen nachbarschaft schuldig</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="283,3120 283,3210 2693,3210 2693,3120"/>
+	<TextEquiv>
+	<Unicode>zwei viertel wein, ein frankisch und eines hoenser, zu geben.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="283,3200 283,3296 2696,3296 2696,3200"/>
+	<TextEquiv>
+	<Unicode>§. 9. Zum neunten so weisen wir m. gn. hr. dem commenthur</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="280,3290 280,3370 2693,3370 2693,3290"/>
+	<TextEquiv>
+	<Unicode>zu Mosbach dritthalbhundert schaf in unser feld uber den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="286,3366 286,3466 2703,3466 2703,3366"/>
+	<TextEquiv>
+	<Unicode>dritten tag unserm vieh nach und mit fürzutreiben, und nicht</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="286,3456 286,3543 2700,3543 2700,3456"/>
+	<TextEquiv>
+	<Unicode>darüber uber den brunnen hin, und nicht darunter, und bei</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="286,3540 286,3630 2706,3630 2706,3540"/>
+	<TextEquiv>
+	<Unicode>warmer sonne in und auszufahren; und wo er intreibt, so ist</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="280,3626 280,3716 2696,3716 2696,3626"/>
+	<TextEquiv>
+	<Unicode>ers der gemein schuldig zu verbüszen, dargegen ist m. gn. h.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="283,3710 283,3803 2693,3803 2693,3710"/>
+	<TextEquiv>
+	<Unicode>der commenthur zu Mosbach der gemein alhie alle jar den fas-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="283,3800 283,3883 2690,3883 2690,3800"/>
+	<TextEquiv>
+	<Unicode>nachtsbraden und pfingstgeld 10 β samt der zugehör zue ge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="283,3883 283,3973 800,3973 800,3883"/>
+	<TextEquiv>
+	<Unicode>ben schuldig.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="650,4050 650,4163 2360,4163 2360,4050"/>
+	<TextEquiv>
+	<Unicode>II. Copia weisthums zu Wenigen-Umstadt.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="453,4196 453,4300 2700,4300 2700,4196"/>
+	<TextEquiv>
+	<Unicode>§. 1. Erstlich weisen sie mein gn. herrn von Wertheim</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="290,4283 290,4390 2700,4390 2700,4283"/>
+	<TextEquiv>
+	<Unicode>für ein obersten gerichtsherrn, die schöpfen desselbigen ge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="273,596 273,683 2690,683 2690,596"/>
+	<TextEquiv>
+	<Unicode>beschleust mit thür und nägel und hat uns vor andern herrn</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="433,4483 433,4576 2706,4576 2706,4483"/>
+	<TextEquiv>
+	<Unicode>1) bei Wenigen Umstadt, comthurei des Johanniterordens, in der cent</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="286,4553 286,4643 2456,4643 2456,4553"/>
+	<TextEquiv>
+	<Unicode>Ostheim. vgl. Aschbach, gesch. d. grafen v. Wertheim II. nr. 19.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="276,676 276,770 2686,770 2686,676"/>
+	<TextEquiv>
+	<Unicode>zue gebieten und verbieten, und niemand vorab. §. 2. Zum</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="276,760 276,853 2680,853 2680,760"/>
+	<TextEquiv>
+	<Unicode>andern meine gnedige herrn von Breuberg und mein gn. h.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="280,843 280,940 2690,940 2690,843"/>
+	<TextEquiv>
+	<Unicode>der commenthur zu Mosbach ¹) vor die dehmsherrn. §. 3. Zum</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="276,926 276,1023 2690,1023 2690,926"/>
+	<TextEquiv>
+	<Unicode>dritten, wann unsere wälde eckern haben, und gehet das</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ZWISCHEN NECKAR, MAIN UND RHEIN.
+2
+barn dorfgericht unserem genedigsten churfürsten und herrn
+von Meintz, oberster herr und faut dieses fleckens, der uns
+beschleust mit thür und nägel und hat uns vor andern herrn
+zue gebieten und verbieten, und niemand vorab. §. 2. Zum
+andern meine gnedige herrn von Breuberg und mein gn. h.
+der commenthur zu Mosbach ¹) vor die dehmsherrn. §. 3. Zum
+dritten, wann unsere wälde eckern haben, und gehet das
+schwein nach nutzen des eckern und stelt den hindersten fuesz
+do der vorderst gestanden hat, so hat sie den dehm vergangen;
+und so manche jar das schwein alt ist, als manchen ϑ ist man
+zudem von ir schuldig. ist sıe ein tag uber das jar, so ist
+man 2 ϑ, und für und für, als alt sie ist, von einem ieden jar
+1 ϑ. und wo einer oder mehr den ubrigen tag verschwigen,
+so haben die dehmsherrn gut macht, mit recht zu demselben
+schwein zu greifen, und wan es schon ım solle (stalle ?) lege.
+§. 4. Zum vierten ein vaszel muck oder schwein 1 ϑ, und von
+einem hauen schwein gibt man nicht. §. 5. Zum fünften ha-
+ben meine gn. herren von Breuberg an diesem dhem 3 ϑ und
+mein gn. herr der commenthur zu Mosbach 2 ϑ. §. 6. Zum
+sechsten, welche meine gn. herrn von Breuberg, man oder frau,
+mit dem leibs aigen angehören, das behält den dritten ϑ am
+dehn innen; hören sie aber bede, man und frau, ihrer gn. mit
+dem leibs eigen an, sein sie des dehms frei; hört aber man
+oder frau m. gn. h. dem commenthur zu Mosbach mit dem
+leibs eigen an, so behalten sie 2 ϑ vorab innen; hören sie aber
+bede ihrer gn. mit dem leib aigen an, sein sie dehms frei. hört
+aber man und frau bede, eins m. gn. herren von Breuberg
+und das ander m. gn. herrn dem commenthur zu Mosbach mit
+dem leibs aigen an, sein sie bede des ganzen dehms frei. §. 7.
+Zum siebenden, welcher uf sein frei aigenthumb sitzt, der ist
+zehendfrei. §. 8. Zum achten sein mein gn. herren zu beden
+theilen von diesem dehm der gemeinen nachbarschaft schuldig
+zwei viertel wein, ein frankisch und eines hoenser, zu geben.
+§. 9. Zum neunten so weisen wir m. gn. hr. dem commenthur
+zu Mosbach dritthalbhundert schaf in unser feld uber den
+dritten tag unserm vieh nach und mit fürzutreiben, und nicht
+darüber uber den brunnen hin, und nicht darunter, und bei
+warmer sonne in und auszufahren; und wo er intreibt, so ist
+ers der gemein schuldig zu verbüszen, dargegen ist m. gn. h.
+der commenthur zu Mosbach der gemein alhie alle jar den fas-
+nachtsbraden und pfingstgeld 10 β samt der zugehör zue ge-
+ben schuldig.
+II. Copia weisthums zu Wenigen-Umstadt.
+§. 1. Erstlich weisen sie mein gn. herrn von Wertheim
+für ein obersten gerichtsherrn, die schöpfen desselbigen ge-
+1) bei Wenigen Umstadt, comthurei des Johanniterordens, in der cent
+Ostheim. vgl. Aschbach, gesch. d. grafen v. Wertheim II. nr. 19.</Unicode></TextEquiv></TextRegion></Page></PcGts>

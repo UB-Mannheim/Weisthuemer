@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-22T19:49:49</Created>
+	<LastChange>2020-03-23T21:40:43</LastChange></Metadata>
+	<Page imageFilename="weisthmer02drongoog_0017.tif" imageWidth="2984" imageHeight="4920">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1196,264 1758,264 1758,454 2629,454 2629,267 2693,267 2693,632 2696,632 2696,1061 2693,1061 2693,1219 2696,1219 2696,1470 2700,1470 2700,1638 2703,1638 2703,1732 2700,1732 2700,1890 2703,1890 2703,1990 2700,1990 2700,2145 2703,2145 2703,2241 2700,2241 2700,2651 2703,2651 2703,2735 2706,2735 2706,2829 2703,2829 2703,2916 2700,2916 2700,3083 2696,3083 2696,3235 2700,3235 2700,3416 2696,3416 2696,3829 2700,3829 2700,4083 2706,4083 2706,4348 2703,4348 2703,4509 2700,4509 2700,4687 283,4687 283,4425 277,4425 277,4083 280,4083 280,3916 277,3916 277,3416 274,3416 274,3325 277,3325 277,2909 280,2909 280,2735 283,2735 283,2574 280,2574 280,2319 283,2319 283,2070 280,2070 280,1816 277,1816 277,1725 280,1725 280,887 274,887 274,800 277,800 277,554 274,554 274,454 1196,454"/>
+	<TextLine id="l0">
+	<Coords points="1196,264 1196,358 1758,358 1758,264"/>
+	<TextEquiv>
+	<Unicode>AMORBACH.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="2629,267 2629,354 2693,354 2693,267"/>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="280,1132 280,1222 2690,1222 2690,1132"/>
+	<TextEquiv>
+	<Unicode>mit im nemen, un die solten im helfen zihen das hertrecht oder</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="280,1219 280,1312 2696,1312 2696,1219"/>
+	<TextEquiv>
+	<Unicode>bestheupt ôn hindernisz aller mengklichs. §. 11. Were ez</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="280,1306 280,1396 2693,1396 2693,1306"/>
+	<TextEquiv>
+	<Unicode>aber sache, das ein frauwe auf des closters guten sturbe, so</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="280,1387 280,1483 2696,1483 2696,1387"/>
+	<TextEquiv>
+	<Unicode>sal eins apts schultesz uf die gut gen und sal mit ime nemen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="283,1470 283,1564 2700,1564 2700,1470"/>
+	<TextEquiv>
+	<Unicode>zwo frauwen, die nehsten nachbürin do bi gesessen, und die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="280,1554 280,1645 2700,1645 2700,1554"/>
+	<TextEquiv>
+	<Unicode>sollen ime helfen das best wotmole zihen, auch ôn hindernisz</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="280,1638 280,1732 2703,1732 2703,1638"/>
+	<TextEquiv>
+	<Unicode>aller mengklichs. §. 12. Item ein apte und das closter hat</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="277,1725 277,1816 2696,1816 2696,1725"/>
+	<TextEquiv>
+	<Unicode>auch die recht und frihet zu A., queme ein fremde mann und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="283,1806 283,1900 2700,1900 2700,1806"/>
+	<TextEquiv>
+	<Unicode>sturbe in der stad oder vorstad uf des closters guten, do das</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="274,454 274,554 2693,554 2693,454"/>
+	<TextEquiv>
+	<Unicode>heuwer, uszgenommen Kolhaszen hus, das geit nit mehr dann</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="280,1890 280,1990 2703,1990 2703,1890"/>
+	<TextEquiv>
+	<Unicode>closter vasznachtshuner uf hette, do von dann hertrecht ge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="280,1977 280,2070 2696,2070 2696,1977"/>
+	<TextEquiv>
+	<Unicode>fallen sollen, der sollte ein hertrecht oder bestheupt geben, er</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="287,2067 287,2154 2700,2154 2700,2067"/>
+	<TextEquiv>
+	<Unicode>queme here wo er wolde, hette er anders eigen vihe oder teile</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="283,2145 283,2241 2703,2241 2703,2145"/>
+	<TextEquiv>
+	<Unicode>an eim vihe. des selben gleichen ist auch mit einer frauwen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="283,2229 283,2319 2696,2319 2696,2229"/>
+	<TextEquiv>
+	<Unicode>die fremde were und sturbe uf den guten, als obgeschriben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="280,2319 280,2409 2700,2409 2700,2319"/>
+	<TextEquiv>
+	<Unicode>stet, dıe sal das best wotmole geben. §. 13. Item ein apte</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="283,2400 283,2487 2700,2487 2700,2400"/>
+	<TextEquiv>
+	<Unicode>und das closter hat die recht und frihet zu A., als manig hert-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="280,2487 280,2574 2700,2574 2700,2487"/>
+	<TextEquiv>
+	<Unicode>stad in der stad und vorstad ist, das igliche hertstad sal geben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="283,2567 283,2658 2700,2658 2700,2567"/>
+	<TextEquiv>
+	<Unicode>besunder 1 β, uszgenommen die Schenkengasse und der Ru-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="277,545 277,635 2693,635 2693,545"/>
+	<TextEquiv>
+	<Unicode>40 heller und ein vasznachthun. §. 9. Und were ez, das ein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="283,2651 283,2741 2703,2741 2703,2651"/>
+	<TextEquiv>
+	<Unicode>den hofe. §. 14. Item, wer do buwet zu A. uf die gemein, der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="280,2735 280,2829 2706,2829 2706,2735"/>
+	<TextEquiv>
+	<Unicode>sal eim apte und sim closter geben ein vasznachthun mit sim</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="283,2822 283,2916 2703,2916 2703,2822"/>
+	<TextEquiv>
+	<Unicode>falle, wann die eigenschaft des closters ist. §. 15. Und sal</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="277,2909 277,3000 2700,3000 2700,2909"/>
+	<TextEquiv>
+	<Unicode>auch niemants kein gemeinde zu A. hin leihen ôn laube eins</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="280,2990 280,3083 2700,3083 2700,2990"/>
+	<TextEquiv>
+	<Unicode>apts und sins closters. §. 16. Item aller zole, der do gefellet</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="277,3070 277,3167 2696,3167 2696,3070"/>
+	<TextEquiv>
+	<Unicode>zu A., den niemt ein apte, und sal auch sonst niemant keinn</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="280,3158 280,3248 2693,3248 2693,3158"/>
+	<TextEquiv>
+	<Unicode>zole do han, wann ez von alter here also kommen ist. §. 17.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="277,3235 277,3335 2700,3335 2700,3235"/>
+	<TextEquiv>
+	<Unicode>Item ein apte hat die recht und frihet, das sin schultesz pfen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="277,632 277,719 2696,719 2696,632"/>
+	<TextEquiv>
+	<Unicode>mann der selben gut eins innhette und sturbe, der müste eim</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="274,3325 274,3416 2700,3416 2700,3325"/>
+	<TextEquiv>
+	<Unicode>den mage umb des closters zins, gulte, busze, einung und auch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="280,3416 280,3503 2696,3503 2696,3416"/>
+	<TextEquiv>
+	<Unicode>umb ander des closters frihet und recht. §. 18. ltem ein apte</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="277,3496 277,3583 2696,3583 2696,3496"/>
+	<TextEquiv>
+	<Unicode>hat das recht und frihet, das er ein förster seczen sal mit rate</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="277,3577 277,3670 2696,3670 2696,3577"/>
+	<TextEquiv>
+	<Unicode>eins fauts über die welde, und der selbe forster sal eim apte</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="277,3661 277,3758 2693,3758 2693,3661"/>
+	<TextEquiv>
+	<Unicode>globen daruber und zu den heiligen sweren. §. 19. Item ein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="280,3751 280,3838 2696,3838 2696,3751"/>
+	<TextEquiv>
+	<Unicode>apte hat das dritteile an der busz also von des sübuchs wegen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="277,3829 277,3916 2700,3916 2700,3829"/>
+	<TextEquiv>
+	<Unicode>und sal auch dem förster lonen zum dritteil, auch von des sü-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="280,716 280,812 2696,812 2696,716"/>
+	<TextEquiv>
+	<Unicode>apte und sim closter das hertrecht , mit namen ein bestheupt,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="280,3912 280,4009 2700,4009 2700,3912"/>
+	<TextEquiv>
+	<Unicode>buchs wegen, und sal auch ein forster nit rugen, ein apte oder</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="280,4000 280,4090 2700,4090 2700,4000"/>
+	<TextEquiv>
+	<Unicode>sin schultesz sin dann auch do bi. §. 20. Auch sal man sonst</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="277,4083 277,4177 2706,4177 2706,4083"/>
+	<TextEquiv>
+	<Unicode>alle einung rugen vor eim apte oder sim schultessen und vor</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="283,4170 283,4258 2700,4258 2700,4170"/>
+	<TextEquiv>
+	<Unicode>eim faut, was der fellig sin also von der welde wegen. §. 21.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="277,4254 277,4348 2706,4348 2706,4254"/>
+	<TextEquiv>
+	<Unicode>Item, wann die burger schúczen wollen seczen, das sollen sie</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="277,4338 277,4425 2703,4425 2703,4338"/>
+	<TextEquiv>
+	<Unicode>thun mit rate eins apts oder sins schultessen, und die selben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l56">
+	<Coords points="287,4419 287,4509 2703,4509 2703,4419"/>
+	<TextEquiv>
+	<Unicode>schuczen sollen eim apte globen und zu den heiligen sweren,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l57">
+	<Coords points="283,4503 283,4596 2700,4596 2700,4503"/>
+	<TextEquiv>
+	<Unicode>des sin und sins closters und auch sonst idermann getrulich</Unicode></TextEquiv></TextLine>
+	<TextLine id="l58">
+	<Coords points="283,4587 283,4687 2700,4687 2700,4587"/>
+	<TextEquiv>
+	<Unicode>zu hüten. §. 22. Item ein apte hat auch das recht und die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="274,800 274,887 2696,887 2696,800"/>
+	<TextEquiv>
+	<Unicode>und ein frauwe sal geben das beste wotmole. §. 10. Und wann</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="280,890 280,974 2696,974 2696,890"/>
+	<TextEquiv>
+	<Unicode>ez note geschee, das ein hertrecht, ein bestheupt oder ein wot-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="283,974 283,1061 2696,1061 2696,974"/>
+	<TextEquiv>
+	<Unicode>mole fellig würde uf des closters guten, so solte eins apts</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="280,1054 280,1145 2693,1145 2693,1054"/>
+	<TextEquiv>
+	<Unicode>schultesz uf die gute gen und solte der nehsten nachbüre zwen</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>AMORBACH.
+5
+heuwer, uszgenommen Kolhaszen hus, das geit nit mehr dann
+40 heller und ein vasznachthun. §. 9. Und were ez, das ein
+mann der selben gut eins innhette und sturbe, der müste eim
+apte und sim closter das hertrecht , mit namen ein bestheupt,
+und ein frauwe sal geben das beste wotmole. §. 10. Und wann
+ez note geschee, das ein hertrecht, ein bestheupt oder ein wot-
+mole fellig würde uf des closters guten, so solte eins apts
+schultesz uf die gute gen und solte der nehsten nachbüre zwen
+mit im nemen, un die solten im helfen zihen das hertrecht oder
+bestheupt ôn hindernisz aller mengklichs. §. 11. Were ez
+aber sache, das ein frauwe auf des closters guten sturbe, so
+sal eins apts schultesz uf die gut gen und sal mit ime nemen
+zwo frauwen, die nehsten nachbürin do bi gesessen, und die
+sollen ime helfen das best wotmole zihen, auch ôn hindernisz
+aller mengklichs. §. 12. Item ein apte und das closter hat
+auch die recht und frihet zu A., queme ein fremde mann und
+sturbe in der stad oder vorstad uf des closters guten, do das
+closter vasznachtshuner uf hette, do von dann hertrecht ge-
+fallen sollen, der sollte ein hertrecht oder bestheupt geben, er
+queme here wo er wolde, hette er anders eigen vihe oder teile
+an eim vihe. des selben gleichen ist auch mit einer frauwen,
+die fremde were und sturbe uf den guten, als obgeschriben
+stet, dıe sal das best wotmole geben. §. 13. Item ein apte
+und das closter hat die recht und frihet zu A., als manig hert-
+stad in der stad und vorstad ist, das igliche hertstad sal geben
+besunder 1 β, uszgenommen die Schenkengasse und der Ru-
+den hofe. §. 14. Item, wer do buwet zu A. uf die gemein, der
+sal eim apte und sim closter geben ein vasznachthun mit sim
+falle, wann die eigenschaft des closters ist. §. 15. Und sal
+auch niemants kein gemeinde zu A. hin leihen ôn laube eins
+apts und sins closters. §. 16. Item aller zole, der do gefellet
+zu A., den niemt ein apte, und sal auch sonst niemant keinn
+zole do han, wann ez von alter here also kommen ist. §. 17.
+Item ein apte hat die recht und frihet, das sin schultesz pfen-
+den mage umb des closters zins, gulte, busze, einung und auch
+umb ander des closters frihet und recht. §. 18. ltem ein apte
+hat das recht und frihet, das er ein förster seczen sal mit rate
+eins fauts über die welde, und der selbe forster sal eim apte
+globen daruber und zu den heiligen sweren. §. 19. Item ein
+apte hat das dritteile an der busz also von des sübuchs wegen,
+und sal auch dem förster lonen zum dritteil, auch von des sü-
+buchs wegen, und sal auch ein forster nit rugen, ein apte oder
+sin schultesz sin dann auch do bi. §. 20. Auch sal man sonst
+alle einung rugen vor eim apte oder sim schultessen und vor
+eim faut, was der fellig sin also von der welde wegen. §. 21.
+Item, wann die burger schúczen wollen seczen, das sollen sie
+thun mit rate eins apts oder sins schultessen, und die selben
+schuczen sollen eim apte globen und zu den heiligen sweren,
+des sin und sins closters und auch sonst idermann getrulich
+zu hüten. §. 22. Item ein apte hat auch das recht und die</Unicode></TextEquiv></TextRegion></Page></PcGts>

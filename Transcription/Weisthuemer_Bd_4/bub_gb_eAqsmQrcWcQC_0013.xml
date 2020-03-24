@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-21T13:08:15</Created>
+	<LastChange>2020-03-21T21:33:23</LastChange></Metadata>
+	<Page imageFilename="bub_gb_eAqsmQrcWcQC_0013.png" imageWidth="2500" imageHeight="4091">
+	<TextRegion id="r52" type="paragraph">
+	<Coords points="1154,145 1461,145 1461,285 2278,285 2278,435 2283,435 2283,519 2278,519 2278,642 2280,642 2280,928 2283,928 2283,1145 2285,1145 2285,1290 2283,1290 2283,1492 2285,1492 2285,1569 2283,1569 2283,1697 2285,1697 2285,1830 2288,1830 2288,1921 2285,1921 2285,2057 2283,2057 2283,2188 2292,2188 2292,2269 2288,2269 2288,2400 2290,2400 2290,2476 2288,2476 2288,2814 2290,2814 2290,3030 2292,3030 2292,3166 2295,3166 2295,3233 2297,3233 2297,3319 2295,3319 2295,3450 2297,3450 2297,3669 2292,3669 2292,3740 1088,3740 1088,3814 352,3814 352,3461 350,3461 350,3385 347,3385 347,3319 345,3319 345,2969 342,2969 342,2614 340,2614 340,2476 335,2476 335,2254 338,2254 338,2130 333,2130 333,1500 330,1500 330,1359 328,1359 328,1290 326,1290 326,1209 328,1209 328,1076 326,1076 326,995 330,995 330,800 326,800 326,726 323,726 323,642 328,642 328,445 323,445 323,228 314,228 314,152 385,152 385,285 1154,285"/>
+	<TextLine id="l0">
+	<Coords points="314,152 314,228 385,228 385,152"/>
+	<TextEquiv>
+	<Unicode>2</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="1154,145 1154,226 1461,226 1461,145"/>
+	<TextEquiv>
+	<Unicode>ELSASZ</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="330,857 330,938 1950,938 1950,857"/>
+	<TextEquiv>
+	<Unicode>gůt ist einem probste verfallen mit der besserungen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="471,928 471,1007 2283,1007 2283,928"/>
+	<TextEquiv>
+	<Unicode>Ouch ist recht, wenn der Meyger ein gebott tůt, dasselb sol</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="326,995 326,1076 2280,1076 2280,995"/>
+	<TextEquiv>
+	<Unicode>beschen by zehen pfunden, Es sig dz einer nit vff gůter die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="328,1066 328,1147 2283,1147 2283,1066"/>
+	<TextEquiv>
+	<Unicode>jn den hoff gehorent zů faren, oder ander gebotte den hubern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="328,1145 328,1219 2285,1219 2285,1145"/>
+	<TextEquiv>
+	<Unicode>gepotten wurde. Welicher das gebott nit haltet vnd daruber</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="326,1209 326,1290 2285,1290 2285,1209"/>
+	<TextEquiv>
+	<Unicode>jm der Meyger gebotten hett, der ist dem probst, an alle</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="328,1280 328,1359 1152,1359 1152,1280"/>
+	<TextEquiv>
+	<Unicode>gnade, X lib. ϑ. verfallen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="473,1345 473,1421 2283,1421 2283,1345"/>
+	<TextEquiv>
+	<Unicode>Item ouch ist recht, dz die huber nach dem male sollent</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="330,1414 330,1500 2283,1500 2283,1414"/>
+	<TextEquiv>
+	<Unicode>recht sprechen vnd by den eiden rgen, zöigen vnd oigen, wz</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="333,1492 333,1569 2285,1569 2285,1492"/>
+	<TextEquiv>
+	<Unicode>sy wissen dz dem Gotzhus abgetragen wurd oder verschlagen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="323,285 323,373 2278,373 2278,285"/>
+	<TextEquiv>
+	<Unicode>singen mag man nemen fier hůber ze Specbach zů den hůber hin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="333,1561 333,1635 2283,1635 2283,1561"/>
+	<TextEquiv>
+	<Unicode>gůter fur eygen verkoufft wurden, oder was dem Gotzhus scha-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="333,1626 333,1704 2283,1704 2283,1626"/>
+	<TextEquiv>
+	<Unicode>den bringen mcht, es wer von rodelen oder bcher die ver-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="333,1697 333,1780 2285,1780 2285,1697"/>
+	<TextEquiv>
+	<Unicode>lorn weren worden, wie sich das fůgte, das sollent die huber</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="333,1766 333,1850 1345,1850 1345,1766"/>
+	<TextEquiv>
+	<Unicode>zöigen vnd oigen by jren eyden.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="473,1830 473,1921 2288,1921 2288,1830"/>
+	<TextEquiv>
+	<Unicode>Ouch ist ein Besserung in dem hoffe den hubern III sg.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="333,1904 333,1988 2285,1988 2285,1904"/>
+	<TextEquiv>
+	<Unicode>un ϑ. vnd dem Meyger als vil; von der kleinen besserungen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="335,1978 335,2057 2285,2057 2285,1978"/>
+	<TextEquiv>
+	<Unicode>hatt ein Probst nutzit an. Wer aber, dz sich ein huber über-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="333,2047 333,2130 2283,2130 2283,2047"/>
+	<TextEquiv>
+	<Unicode>sehe, das jm eyd vnd ere antreffe, das gehort einem probst zů,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="338,2119 338,2195 1288,2195 1288,2119"/>
+	<TextEquiv>
+	<Unicode>der mag jo stroffen vmb X Π.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="476,2188 476,2269 2292,2269 2292,2188"/>
+	<TextEquiv>
+	<Unicode>Item wer es das einer win schanckte vff dem hoffgůt, der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="323,364 323,445 854,445 854,364"/>
+	<TextEquiv>
+	<Unicode>gon Ensingen...</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="335,2254 335,2340 1511,2340 1511,2254"/>
+	<TextEquiv>
+	<Unicode>sol dem probst den boden win geben.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="480,2330 480,2407 2288,2407 2288,2330"/>
+	<TextEquiv>
+	<Unicode>Item ouch ist recht, das ein probst einem yegklichem huber</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="335,2400 335,2476 2290,2476 2290,2400"/>
+	<TextEquiv>
+	<Unicode>vnd zinszman beclagen mag jn dem hoff; vnd wellicher jm nit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="340,2473 340,2552 2288,2552 2288,2473"/>
+	<TextEquiv>
+	<Unicode>gnůg tete vor gerichte, der bessert dem Meyger III sg. IIII ϑ.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="340,2540 340,2614 1271,2614 1271,2540"/>
+	<TextEquiv>
+	<Unicode>vnd yegklichem huber als vil.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="480,2607 480,2692 2288,2692 2288,2607"/>
+	<TextEquiv>
+	<Unicode>Ouch ist recht, das der hoffher oder sin Meyger mag pfen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="342,2676 342,2759 2288,2759 2288,2676"/>
+	<TextEquiv>
+	<Unicode>den fur sinen zins vnd die pfender achttag gehalten. Darnach</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="342,2754 342,2823 1866,2823 1866,2754"/>
+	<TextEquiv>
+	<Unicode>mag er tůn mit den pfendern als mit sinem zins.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="480,2814 480,2895 2290,2895 2290,2814"/>
+	<TextEquiv>
+	<Unicode>Item ouch ist recht, welicher huber ubersitzet achttag nach-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="342,2888 342,2969 2290,2969 2290,2888"/>
+	<TextEquiv>
+	<Unicode>dem als man Jargeding hett gehept, vnd sinen zins nit rich-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="461,435 461,519 2283,519 2283,435"/>
+	<TextEquiv>
+	<Unicode>Och ist recht, so man einen hůber setzet, so ist dem Meiger</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="345,2961 345,3038 2290,3038 2290,2961"/>
+	<TextEquiv>
+	<Unicode>tet, so verfallet ein yegklicher hůber nach den achttagen einem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="347,3030 347,3114 2292,3114 2292,3030"/>
+	<TextEquiv>
+	<Unicode>probst alle tag III sg. IIII ϑ., das vff den hoffzins gat, als</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="345,3100 345,3180 1169,3180 1169,3100"/>
+	<TextEquiv>
+	<Unicode>lang vntz bis er jn bezalt.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="485,3166 485,3245 2295,3245 2295,3166"/>
+	<TextEquiv>
+	<Unicode>Item ouch ist recht, wer es das man stossig wurde in dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="345,3233 345,3319 2297,3319 2297,3233"/>
+	<TextEquiv>
+	<Unicode>hoff, Es wer wider den probst, Meyger oder ein hůber wider</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="347,3311 347,3385 2295,3385 2295,3311"/>
+	<TextEquiv>
+	<Unicode>den andern, die stosse vnd misshellung die mag man ziehen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="350,3380 350,3461 2014,3461 2014,3380"/>
+	<TextEquiv>
+	<Unicode>gen Spechbach in den hoff vnd nyendert anderschwo.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="488,3450 488,3526 2297,3526 2297,3450"/>
+	<TextEquiv>
+	<Unicode>Item ouch ist recht, wer einen zugk fassen will, der sol dz</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="352,3516 352,3597 2290,3597 2290,3516"/>
+	<TextEquiv>
+	<Unicode>dem Meyger vertrosten vnd verburgen, dem rechten also nach</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="352,3590 352,3669 2297,3669 2297,3590"/>
+	<TextEquiv>
+	<Unicode>zů gand gan Spechbach. Ouch welher huber des nothdurftig</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="328,504 328,580 2204,580 2204,504"/>
+	<TextEquiv>
+	<Unicode>des hofes verfallen ein vierteil wins vnd den hůbern als vil.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="352,3664 352,3740 2292,3740 2292,3664"/>
+	<TextEquiv>
+	<Unicode>ist, der sol geben dem Meyger zů bottgelt von ye dem huber</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="352,3738 352,3814 1088,3814 1088,3738"/>
+	<TextEquiv>
+	<Unicode>zůbietten, III sg. IIII ϑ.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="461,571 461,659 2278,659 2278,571"/>
+	<TextEquiv>
+	<Unicode>Item ouch ist recht jn dem hoff, das nyemand sin gůt ver-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="323,642 323,726 2280,726 2280,642"/>
+	<TextEquiv>
+	<Unicode>kouffen sol, er sol es dem Meyger vor bietten vnd sol es dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="326,716 326,800 2280,800 2280,716"/>
+	<TextEquiv>
+	<Unicode>meyger funff schilling necher geben, wan yemand anderm. Ouch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="330,790 330,869 2280,869 2280,790"/>
+	<TextEquiv>
+	<Unicode>wer das nit entete vnd dz gůt dor über verkouffte, dasselbe</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ELSASZ
+2
+singen mag man nemen fier hůber ze Specbach zů den hůber hin
+gon Ensingen...
+Och ist recht, so man einen hůber setzet, so ist dem Meiger
+des hofes verfallen ein vierteil wins vnd den hůbern als vil.
+Item ouch ist recht jn dem hoff, das nyemand sin gůt ver-
+kouffen sol, er sol es dem Meyger vor bietten vnd sol es dem
+meyger funff schilling necher geben, wan yemand anderm. Ouch
+wer das nit entete vnd dz gůt dor über verkouffte, dasselbe
+gůt ist einem probste verfallen mit der besserungen.
+Ouch ist recht, wenn der Meyger ein gebott tůt, dasselb sol
+beschen by zehen pfunden, Es sig dz einer nit vff gůter die
+jn den hoff gehorent zů faren, oder ander gebotte den hubern
+gepotten wurde. Welicher das gebott nit haltet vnd daruber
+jm der Meyger gebotten hett, der ist dem probst, an alle
+gnade, X lib. ϑ. verfallen.
+Item ouch ist recht, dz die huber nach dem male sollent
+recht sprechen vnd by den eiden rgen, zöigen vnd oigen, wz
+sy wissen dz dem Gotzhus abgetragen wurd oder verschlagen
+gůter fur eygen verkoufft wurden, oder was dem Gotzhus scha-
+den bringen mcht, es wer von rodelen oder bcher die ver-
+lorn weren worden, wie sich das fůgte, das sollent die huber
+zöigen vnd oigen by jren eyden.
+Ouch ist ein Besserung in dem hoffe den hubern III sg.
+un ϑ. vnd dem Meyger als vil; von der kleinen besserungen
+hatt ein Probst nutzit an. Wer aber, dz sich ein huber über-
+sehe, das jm eyd vnd ere antreffe, das gehort einem probst zů,
+der mag jo stroffen vmb X N.
+Item wer es das einer win schanckte vff dem hoffgůt, der
+sol dem probst den boden win geben.
+Item ouch ist recht, das ein probst einem yegklichem huber
+vnd zinszman beclagen mag jn dem hoff; vnd wellicher jm nit
+gnůg tete vor gerichte, der bessert dem Meyger III sg. IIII ϑ.
+vnd yegklichem huber als vil.
+Ouch ist recht, das der hoffher oder sin Meyger mag pfen-
+den fur sinen zins vnd die pfender achttag gehalten. Darnach
+mag er tůn mit den pfendern als mit sinem zins.
+Item ouch ist recht, welicher huber ubersitzet achttag nach-
+dem als man Jargeding hett gehept, vnd sinen zins nit rich-
+tet, so verfallet ein yegklicher hůber nach den achttagen einem
+probst alle tag III sg. IIII ϑ., das vff den hoffzins gat, als
+lang vntz bis er jn bezalt.
+Item ouch ist recht, wer es das man stossig wurde in dem
+hoff, Es wer wider den probst, Meyger oder ein hůber wider
+den andern, die stosse vnd misshellung die mag man ziehen
+gen Spechbach in den hoff vnd nyendert anderschwo.
+Item ouch ist recht, wer einen zugk fassen will, der sol dz
+dem Meyger vertrosten vnd verburgen, dem rechten also nach
+zů gand gan Spechbach. Ouch welher huber des nothdurftig
+ist, der sol geben dem Meyger zů bottgelt von ye dem huber
+zůbietten, III sg. IIII ϑ.</Unicode></TextEquiv></TextRegion></Page></PcGts>

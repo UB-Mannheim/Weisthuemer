@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-22T19:24:04</Created>
+	<LastChange>2020-03-23T21:42:06</LastChange></Metadata>
+	<Page imageFilename="weisthmer02drongoog_0016.tif" imageWidth="2984" imageHeight="4920">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1348,225 1838,225 1838,425 2816,425 2816,603 2819,603 2819,1025 2293,1025 2293,1112 1938,1112 1938,1377 1716,1377 1716,1596 2816,1596 2816,1693 2822,1693 2822,1783 2819,1783 2819,2112 2822,2112 2822,2200 2819,2200 2819,2458 2816,2458 2816,2703 2819,2703 2819,2796 2816,2796 2816,3041 2819,3041 2819,3129 2816,3129 2816,3377 2825,3377 2825,3467 2822,3467 2822,3716 2829,3716 2829,3803 2825,3803 2825,3974 2819,3974 2819,4219 2822,4219 2822,4493 2825,4493 2825,4570 977,4570 977,4641 406,4641 406,4567 545,4567 545,4319 403,4319 403,4229 400,4229 400,4138 403,4138 403,3887 406,3887 406,3548 400,3548 400,3290 409,3290 409,3048 396,3048 396,2961 400,2961 400,2703 403,2703 403,2458 400,2458 400,2374 396,2374 396,2283 393,2283 393,2196 396,2196 396,2035 400,2035 400,1858 403,1858 403,1777 406,1777 406,1693 567,1693 567,1596 1503,1596 1503,1377 1280,1377 1280,1112 393,1112 393,774 390,774 390,329 380,329 380,232 464,232 464,425 1348,425"/>
+	<TextLine id="l0">
+	<Coords points="1348,225 1348,335 1838,335 1838,225"/>
+	<TextEquiv>
+	<Unicode>FRANKEN.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="380,232 380,329 464,329 464,232"/>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="1280,1264 1280,1377 1938,1377 1938,1264"/>
+	<TextEquiv>
+	<Unicode>AMORBACH. ⁴)</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="1503,1435 1503,1529 1716,1529 1716,1435"/>
+	<TextEquiv>
+	<Unicode>1395.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="567,1596 567,1703 2816,1703 2816,1596"/>
+	<TextEquiv>
+	<Unicode>Item dise hernoch geschriben recht und frihet hat ein ig-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="406,1693 406,1783 2822,1783 2822,1693"/>
+	<TextEquiv>
+	<Unicode>licher apte zu A. und sin closter in der stadt und vorstadt zu</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="403,1777 403,1861 2819,1861 2819,1777"/>
+	<TextEquiv>
+	<Unicode>A. §. 1. Item zum ersten, wann ein nuwer apte wurt, so sal</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="400,1858 400,1948 2819,1948 2819,1858"/>
+	<TextEquiv>
+	<Unicode>ein schultes, ein zentgrof, die burgermeister, der rate und die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="400,1948 400,2035 2816,2035 2816,1948"/>
+	<TextEquiv>
+	<Unicode>ganz gemeinde der obgenanten stadt und vorstadt eim apte</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="396,2035 396,2125 2819,2125 2819,2035"/>
+	<TextEquiv>
+	<Unicode>globen und zu den heiligen sweren, getreuwe und holt zu sin.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="396,2112 396,2200 2822,2200 2822,2112"/>
+	<TextEquiv>
+	<Unicode>sin schaden zu warnen, sin gefure zu werben und gewarten zu</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="393,2196 393,2283 2819,2283 2819,2196"/>
+	<TextEquiv>
+	<Unicode>sin und sins closters rechten, wann das alwegen bisz hero also</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="390,425 390,522 2816,522 2816,425"/>
+	<TextEquiv>
+	<Unicode>von m. g. h. wegen darumb strafen. §. 15. Zum 15. weisen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="396,2280 396,2374 2819,2374 2819,2280"/>
+	<TextEquiv>
+	<Unicode>kommen ist. §. 2. Und wann ez dornoch were, das ein arme</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="400,2367 400,2458 2819,2458 2819,2367"/>
+	<TextEquiv>
+	<Unicode>mann burger wurde oder an das gerichte do selbst swúre, der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="403,2451 403,2541 2816,2541 2816,2451"/>
+	<TextEquiv>
+	<Unicode>solte eim apte und sinem closter auch sweren in der forme,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="403,2532 403,2619 2816,2619 2816,2532"/>
+	<TextEquiv>
+	<Unicode>als obgeschriben stet. §. 3. Item ein apte und das closter</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="403,2616 403,2712 2816,2712 2816,2616"/>
+	<TextEquiv>
+	<Unicode>hat auch das gericht halp zu A. und hat auch alle busz halp</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="400,2703 400,2796 2819,2796 2819,2703"/>
+	<TextEquiv>
+	<Unicode>do selbst, ez kumme fúr gericht ader nit; und quem ez, das</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="400,2787 400,2877 2812,2877 2812,2787"/>
+	<TextEquiv>
+	<Unicode>einer buszfellig uf der gemein würde oder an der stroszen an</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="400,2867 400,2961 2812,2961 2812,2867"/>
+	<TextEquiv>
+	<Unicode>einer lanscheidung, oder wo von die busz quemen, die weren</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="396,2961 396,3048 2816,3048 2816,2961"/>
+	<TextEquiv>
+	<Unicode>auch halp eins apts und sins closters. §. 4. ltem unsers gn. h.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="393,512 393,603 2816,603 2816,512"/>
+	<TextEquiv>
+	<Unicode>sie meim herrn den wildpann zu Wenigen Umbstadt. es soll</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="412,3041 412,3129 2819,3129 2819,3041"/>
+	<TextEquiv>
+	<Unicode>von Mencz amptmann ist des selben gerichts ein beseczer und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="409,3129 409,3216 2816,3216 2816,3129"/>
+	<TextEquiv>
+	<Unicode>entseczer und hat auch den stab in der hant und ist gebieter</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="409,3209 409,3296 2816,3296 2816,3209"/>
+	<TextEquiv>
+	<Unicode>und verbieter an dem gericht. §. 5. Und wann ez were, das</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="400,3290 400,3387 2816,3387 2816,3290"/>
+	<TextEquiv>
+	<Unicode>u. h. von Mencz schultesz nit an dem gericht were, oder von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="403,3377 403,3467 2825,3467 2825,3377"/>
+	<TextEquiv>
+	<Unicode>gericht gen wolte, so solte er eins apts schultessen den stab</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="400,3464 400,3548 2822,3548 2822,3464"/>
+	<TextEquiv>
+	<Unicode>ın die hant geben, der sal dann freger und gebieter sin die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="406,3548 406,3635 2819,3635 2819,3548"/>
+	<TextEquiv>
+	<Unicode>weil. §. 6. Item ein apte ıst aller gute ein lehenherre zu A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="406,3632 406,3722 2819,3722 2819,3632"/>
+	<TextEquiv>
+	<Unicode>und ein beseczer und entseczer. und wer ein gut do uf geben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="406,3716 406,3803 2829,3803 2829,3716"/>
+	<TextEquiv>
+	<Unicode>will oder enpfahen, der sal ez eim apte oder sinem schultessen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="390,603 390,693 2819,693 2819,603"/>
+	<TextEquiv>
+	<Unicode>m. g. h. anfahen zu stellen mit den garnen zu Poden ¹) bei</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="406,3796 406,3890 2822,3890 2822,3796"/>
+	<TextEquiv>
+	<Unicode>ufgeben oder von ime enpfahen, als dick des not geschiet; und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="403,3887 403,3974 2825,3974 2825,3887"/>
+	<TextEquiv>
+	<Unicode>sal ir iglicher sin gewonlichen handlon geben, als ez bisz here</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="403,3964 403,4058 2819,4058 2819,3964"/>
+	<TextEquiv>
+	<Unicode>kommen ist, wann die eigenschaft des closters ist. §. 7. Item</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="403,4045 403,4145 2819,4145 2819,4045"/>
+	<TextEquiv>
+	<Unicode>ein apte mag schaf haben ôn zale zu A. §. 8. Item alle die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="400,4138 400,4229 2819,4229 2819,4138"/>
+	<TextEquiv>
+	<Unicode>gut, die eim apte und sim closter vasznachthuner geben, die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="403,4219 403,4319 2822,4319 2822,4219"/>
+	<TextEquiv>
+	<Unicode>geben auch eim apte und sinem closter fronsnitter und fron-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="554,4416 554,4500 2245,4500 2245,4416"/>
+	<TextEquiv>
+	<Unicode>1) Boden? 2) Nilkheim. 3) Aschaffenburg.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="545,4493 545,4570 2825,4570 2825,4493"/>
+	<TextEquiv>
+	<Unicode>4) bairische stadt an der Mudau, südlich von Miltenberg aus Mones</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="406,4567 406,4641 977,4641 977,4567"/>
+	<TextEquiv>
+	<Unicode>zeitschr. 1, 14 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="390,683 390,774 2816,774 2816,683"/>
+	<TextEquiv>
+	<Unicode>dem Bockstain oder Baidstain bis uf den schiffwege zu der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="396,770 396,854 2819,854 2819,770"/>
+	<TextEquiv>
+	<Unicode>wärd‚ und wan man ein wild antrifft , so soll man ime nach-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="393,848 393,941 2819,941 2819,848"/>
+	<TextEquiv>
+	<Unicode>folgen bis zu der Wiltzmüle herwert Nolckhaim ²) und gen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="396,938 396,1025 2819,1025 2819,938"/>
+	<TextEquiv>
+	<Unicode>ÖOschenburg ³) uf die brucken und miıtten in Mein und den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="393,1012 393,1112 2293,1112 2293,1012"/>
+	<TextEquiv>
+	<Unicode>Mein hinauf bis zu der Lyterbach und Haybach.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>FRANKEN.
+4
+von m. g. h. wegen darumb strafen. §. 15. Zum 15. weisen
+sie meim herrn den wildpann zu Wenigen Umbstadt. es soll
+m. g. h. anfahen zu stellen mit den garnen zu Poden ¹) bei
+dem Bockstain oder Baidstain bis uf den schiffwege zu der
+wärd‚ und wan man ein wild antrifft , so soll man ime nach-
+folgen bis zu der Wiltzmüle herwert Nolckhaim ²) und gen
+ÖOschenburg ³) uf die brucken und miıtten in Mein und den
+Mein hinauf bis zu der Lyterbach und Haybach.
+AMORBACH. ⁴)
+1395.
+Item dise hernoch geschriben recht und frihet hat ein ig-
+licher apte zu A. und sin closter in der stadt und vorstadt zu
+A. §. 1. Item zum ersten, wann ein nuwer apte wurt, so sal
+ein schultes, ein zentgrof, die burgermeister, der rate und die
+ganz gemeinde der obgenanten stadt und vorstadt eim apte
+globen und zu den heiligen sweren, getreuwe und holt zu sin.
+sin schaden zu warnen, sin gefure zu werben und gewarten zu
+sin und sins closters rechten, wann das alwegen bisz hero also
+kommen ist. §. 2. Und wann ez dornoch were, das ein arme
+mann burger wurde oder an das gerichte do selbst swúre, der
+solte eim apte und sinem closter auch sweren in der forme,
+als obgeschriben stet. §. 3. Item ein apte und das closter
+hat auch das gericht halp zu A. und hat auch alle busz halp
+do selbst, ez kumme fúr gericht ader nit; und quem ez, das
+einer buszfellig uf der gemein würde oder an der stroszen an
+einer lanscheidung, oder wo von die busz quemen, die weren
+auch halp eins apts und sins closters. §. 4. ltem unsers gn. h.
+von Mencz amptmann ist des selben gerichts ein beseczer und
+entseczer und hat auch den stab in der hant und ist gebieter
+und verbieter an dem gericht. §. 5. Und wann ez were, das
+u. h. von Mencz schultesz nit an dem gericht were, oder von
+gericht gen wolte, so solte er eins apts schultessen den stab
+ın die hant geben, der sal dann freger und gebieter sin die
+weil. §. 6. Item ein apte ıst aller gute ein lehenherre zu A.
+und ein beseczer und entseczer. und wer ein gut do uf geben
+will oder enpfahen, der sal ez eim apte oder sinem schultessen
+ufgeben oder von ime enpfahen, als dick des not geschiet; und
+sal ir iglicher sin gewonlichen handlon geben, als ez bisz here
+kommen ist, wann die eigenschaft des closters ist. §. 7. Item
+ein apte mag schaf haben ôn zale zu A. §. 8. Item alle die
+gut, die eim apte und sim closter vasznachthuner geben, die
+geben auch eim apte und sinem closter fronsnitter und fron-
+1) Boden? 2) Nilkheim. 3) Aschaffenburg.
+4) bairische stadt an der Mudau, südlich von Miltenberg aus Mones
+zeitschr. 1, 14 ff.</Unicode></TextEquiv></TextRegion></Page></PcGts>

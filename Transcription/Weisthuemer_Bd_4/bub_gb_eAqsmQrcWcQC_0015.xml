@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-21T14:30:43</Created>
+	<LastChange>2020-03-23T12:02:31</LastChange></Metadata>
+	<Page imageFilename="bub_gb_eAqsmQrcWcQC_0015.png" imageWidth="2500" imageHeight="4091">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1176,130 1483,130 1483,271 2300,271 2300,361 2297,361 2297,497 2300,497 2300,571 2297,571 2297,842 2300,842 2300,1204 2292,1204 2292,1333 2297,1333 2297,1485 2295,1485 2295,1769 2290,1769 2290,1897 2292,1897 2292,2038 2295,2038 2295,2180 2290,2180 2290,2316 2292,2316 2292,2469 2288,2469 2288,2604 2290,2604 2290,2669 2297,2669 2297,2883 2295,2883 2295,2957 2292,2957 2292,3092 2295,3092 2295,3369 2297,3369 2297,3450 2290,3450 2290,3580 2295,3580 2295,3664 2230,3664 2230,3804 466,3804 466,3733 492,3733 492,3588 352,3588 352,3521 350,3521 350,3380 347,3380 347,3097 345,3097 345,2883 342,2883 342,2669 347,2669 347,2538 342,2538 342,2459 345,2459 345,2245 340,2245 340,2107 342,2107 342,1757 345,1757 345,1623 342,1623 342,1476 345,1476 345,1404 350,1404 350,1276 347,1276 347,1204 340,1204 340,1128 342,1128 342,1057 345,1057 345,847 342,847 342,707 345,707 345,433 340,433 340,135 402,135 402,271 1176,271"/>
+	<TextLine id="l0">
+	<Coords points="1176,130 1176,216 1483,216 1483,130"/>
+	<TextEquiv>
+	<Unicode>ELSASZ</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="340,135 340,214 402,214 402,135"/>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="345,842 345,921 2300,921 2300,842"/>
+	<TextEquiv>
+	<Unicode>ben lehenen eins jar vnd tag absecz on hůber lit, das sllent</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="347,911 347,995 2297,995 2297,911"/>
+	<TextEquiv>
+	<Unicode>die hber in dem gedinge rgen, das ist denne dem hoffherren</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="345,988 345,1064 2300,1064 2300,988"/>
+	<TextEquiv>
+	<Unicode>lideklich verfallen. Wa ouch des hofes meyger beduchte dz</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="342,1057 342,1140 2295,1140 2295,1057"/>
+	<TextEquiv>
+	<Unicode>jeman deheinen zinse von den hůbgtern minderen oder ver-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="340,1128 340,1204 2300,1204 2300,1128"/>
+	<TextEquiv>
+	<Unicode>swigen wlte, dz sllent die hůber rgen, vnd wz den die hůber</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="347,1200 347,1276 2292,1276 2292,1200"/>
+	<TextEquiv>
+	<Unicode>bi iren eiden sagent das des zinses sige, daran sol es denn be-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="350,1264 350,1345 1314,1345 1314,1264"/>
+	<TextEquiv>
+	<Unicode>liben vnd ist jnen dz zegloben.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="488,1333 488,1419 2297,1419 2297,1333"/>
+	<TextEquiv>
+	<Unicode>Die selben gter, in welen Bennen die gelegen sint, es sy</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="345,1404 345,1485 2297,1485 2297,1404"/>
+	<TextEquiv>
+	<Unicode>zů Rnspach oder andersw, die sol niemand scheiden denne</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="340,271 340,361 2300,361 2300,271"/>
+	<TextEquiv>
+	<Unicode>Phfirt mit zeren, do man das gedinge haltet. Och sol iedas</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="342,1476 342,1552 2295,1552 2295,1476"/>
+	<TextEquiv>
+	<Unicode>die scheidltte z Ruenspach, vnd were das jnen dz jemand</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="342,1550 342,1623 2295,1623 2295,1550"/>
+	<TextEquiv>
+	<Unicode>weren wltte, so sol jnen ider hoffherre mit der Bner von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="347,1616 347,1695 2295,1695 2295,1616"/>
+	<TextEquiv>
+	<Unicode>Phfirt des behlffen sin. die selben lechen hat ǒch jegliches</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="345,1685 345,1769 2295,1769 2295,1685"/>
+	<TextEquiv>
+	<Unicode>ein hǒffstat, wenne die jr vnd tag n man bw lit, so sol sie</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="342,1757 342,1838 2290,1838 2290,1757"/>
+	<TextEquiv>
+	<Unicode>drige schilling besseren dem schaffner ze Phfirt in den ding-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="342,1828 342,1902 2290,1902 2290,1828"/>
+	<TextEquiv>
+	<Unicode>hff, vnd sllent die selben leehen alle iar an den stein nem-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="345,1897 345,1976 2292,1976 2292,1897"/>
+	<TextEquiv>
+	<Unicode>men zwy fůder wins, das eine zů der Krippffen, dz ander z</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="342,1969 342,2045 2290,2045 2290,1969"/>
+	<TextEquiv>
+	<Unicode>dem grse, vnd ouch denn die hber aller win meni lidig an</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="340,352 340,433 2200,433 2200,352"/>
+	<TextEquiv>
+	<Unicode>lechen einen hůber haben der dasselbe lechen zů hff trage.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="342,2038 342,2114 2295,2114 2295,2038"/>
+	<TextEquiv>
+	<Unicode>die vesti ze tůnd des jares wenne sy die zwee fder getret</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="340,2107 340,2180 2295,2180 2295,2107"/>
+	<TextEquiv>
+	<Unicode>hant vnd sllent ouch den win nidwendig Wattwilr ant nit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="340,2176 340,2245 530,2245 530,2176"/>
+	<TextEquiv>
+	<Unicode>laden.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="485,2242 485,2326 2290,2326 2290,2242"/>
+	<TextEquiv>
+	<Unicode>Der beste hůber, so vnder den vier vnd zwenczig hůberen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="345,2316 345,2395 2292,2395 2292,2316"/>
+	<TextEquiv>
+	<Unicode>ist, der sol ein fůder wins schonken vnd sol jme dz der hoff-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="347,2388 347,2469 2292,2469 2292,2388"/>
+	<TextEquiv>
+	<Unicode>herre darlegen wenne es jme fget vnd sol man den win geben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="342,2459 342,2538 2288,2538 2288,2459"/>
+	<TextEquiv>
+	<Unicode>als die wirt zů Rnspach vr geschencket hant vmb den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="347,2528 347,2609 2285,2609 2285,2528"/>
+	<TextEquiv>
+	<Unicode>phfenig als der win vor galt den er zů dem zphffen begriffen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="347,2604 347,2676 2290,2676 2290,2604"/>
+	<TextEquiv>
+	<Unicode>hat, vnd sol der win gt vnd gonge sin das er zů gebend vnd</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="342,2669 342,2745 2297,2745 2297,2669"/>
+	<TextEquiv>
+	<Unicode>nemmend sige, vnd sol der hoffherre der frwen die den win</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="488,419 488,502 2297,502 2297,419"/>
+	<TextEquiv>
+	<Unicode>Die vorgenante gter die sint alle vellig, das wenne ein hůber</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="345,2738 345,2816 2292,2816 2292,2738"/>
+	<TextEquiv>
+	<Unicode>schenket drige ellen thischlachen geben, ein Küphflein vol salczes</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="342,2811 342,2883 2297,2883 2297,2811"/>
+	<TextEquiv>
+	<Unicode>vnd zwin schch vnd die gebrsame zwein karren vǒl holczes.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="488,2876 488,2957 2295,2957 2295,2876"/>
+	<TextEquiv>
+	<Unicode>Ovch wenne der hoffherre den win gebietten wil ze frend,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="345,2947 345,3026 2292,3026 2292,2947"/>
+	<TextEquiv>
+	<Unicode>so sol man es zů der zit kunt tůn, dz die die gter zu Bǒn-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="345,3019 345,3097 2292,3097 2292,3019"/>
+	<TextEquiv>
+	<Unicode>gart ¹) bwent einen nwen halben vordren wagen von gern-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="347,3092 347,3169 2295,3169 2295,3092"/>
+	<TextEquiv>
+	<Unicode>chem walde gemachen mgend, vnd sllend denne mit selben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="347,3161 347,3238 2295,3238 2295,3161"/>
+	<TextEquiv>
+	<Unicode>wagen dem wine engegen varen vncz gein Brúnigkhoffen vff</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="350,3230 350,3307 2292,3307 2292,3230"/>
+	<TextEquiv>
+	<Unicode>die steige, vnd gebristet dem wine útzit so sllent sie den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="347,3297 347,3380 2295,3380 2295,3297"/>
+	<TextEquiv>
+	<Unicode>halben wagen dar vnder stssen vnd sllend jme also har hein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="352,3369 352,3450 2297,3450 2297,3369"/>
+	<TextEquiv>
+	<Unicode>helffen, vnd die drige hfstette die zů Bongart ligend die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="345,497 345,571 2300,571 2300,497"/>
+	<TextEquiv>
+	<Unicode>abstirbet, zů der vesten gein Phfirt ein fal sol werden, das ist</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="350,3438 350,3521 2290,3521 2290,3438"/>
+	<TextEquiv>
+	<Unicode>sllent alle jar drye sester grwüss (erwüss?) gein Phfirt an</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="352,3507 352,3588 876,3588 876,3507"/>
+	<TextEquiv>
+	<Unicode>die festen geben.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="492,3580 492,3664 2295,3664 2295,3580"/>
+	<TextEquiv>
+	<Unicode>Die walt gter vnd die Seil gter die gein Phfirt an die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="466,3733 466,3804 2230,3804 2230,3733"/>
+	<TextEquiv>
+	<Unicode>1) ein zerstörtes dorf, heut ein hof im Riespacher bann, der Baumerthof,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="345,566 345,640 2295,640 2295,566"/>
+	<TextEquiv>
+	<Unicode>n ein hopt das beste das er lüt das vier bein hete. wellend</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="347,633 347,714 2297,714 2297,633"/>
+	<TextEquiv>
+	<Unicode>aber sin erben, so mgend sie den fal wider lsen vmb einen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="342,707 342,780 2290,780 2290,707"/>
+	<TextEquiv>
+	<Unicode>helbling vnd drîe phfunt vnd des sol jnen der hoffherre gehr-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="342,780 342,847 2297,847 2297,780"/>
+	<TextEquiv>
+	<Unicode>sam sin wider vmb also geben ze lsende. wenne och dersel-</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ELSASZ
+4
+Phfirt mit zeren, do man das gedinge haltet. Och sol iedas
+lechen einen hůber haben der dasselbe lechen zů hff trage.
+Die vorgenante gter die sint alle vellig, das wenne ein hůber
+abstirbet, zů der vesten gein Phfirt ein fal sol werden, das ist
+n ein hopt das beste das er lüt das vier bein hete. wellend
+aber sin erben, so mgend sie den fal wider lsen vmb einen
+helbling vnd drîe phfunt vnd des sol jnen der hoffherre gehr-
+sam sin wider vmb also geben ze lsende. wenne och dersel-
+ben lehenen eins jar vnd tag absecz on hůber lit, das sllent
+die hber in dem gedinge rgen, das ist denne dem hoffherren
+lideklich verfallen. Wa ouch des hofes meyger beduchte dz
+jeman deheinen zinse von den hůbgtern minderen oder ver-
+swigen wlte, dz sllent die hůber rgen, vnd wz den die hůber
+bi iren eiden sagent das des zinses sige, daran sol es denn be-
+liben vnd ist jnen dz zegloben.
+Die selben gter, in welen Bennen die gelegen sint, es sy
+zů Rnspach oder andersw, die sol niemand scheiden denne
+die scheidltte z Ruenspach, vnd were das jnen dz jemand
+weren wltte, so sol jnen ider hoffherre mit der Bner von
+Phfirt des behlffen sin. die selben lechen hat ǒch jegliches
+ein hǒffstat, wenne die jr vnd tag n man bw lit, so sol sie
+drige schilling besseren dem schaffner ze Phfirt in den ding-
+hff, vnd sllent die selben leehen alle iar an den stein nem-
+men zwy fůder wins, das eine zů der Krippffen, dz ander z
+dem grse, vnd ouch denn die hber aller win meni lidig an
+die vesti ze tůnd des jares wenne sy die zwee fder getret
+hant vnd sllent ouch den win nidwendig Wattwilr ant nit
+laden.
+Der beste hůber, so vnder den vier vnd zwenczig hůberen
+ist, der sol ein fůder wins schonken vnd sol jme dz der hoff-
+herre darlegen wenne es jme fget vnd sol man den win geben
+als die wirt zů Rnspach vr geschencket hant vmb den
+phfenig als der win vor galt den er zů dem zphffen begriffen
+hat, vnd sol der win gt vnd gonge sin das er zů gebend vnd
+nemmend sige, vnd sol der hoffherre der frwen die den win
+schenket drige ellen thischlachen geben, ein Küphflein vol salczes
+vnd zwin schch vnd die gebrsame zwein karren vǒl holczes.
+Ovch wenne der hoffherre den win gebietten wil ze frend,
+so sol man es zů der zit kunt tůn, dz die die gter zu Bǒn-
+gart ¹) bwent einen nwen halben vordren wagen von gern-
+chem walde gemachen mgend, vnd sllend denne mit selben
+wagen dem wine engegen varen vncz gein Brúnigkhoffen vff
+die steige, vnd gebristet dem wine útzit so sllent sie den
+halben wagen dar vnder stssen vnd sllend jme also har hein
+helffen, vnd die drige hfstette die zů Bongart ligend die
+sllent alle jar drye sester grwüss (erwüss?) gein Phfirt an
+die festen geben.
+Die walt gter vnd die Seil gter die gein Phfirt an die
+1) ein zerstörtes dorf, heut ein hof im Riespacher bann, der Baumerthof,</Unicode></TextEquiv></TextRegion></Page></PcGts>

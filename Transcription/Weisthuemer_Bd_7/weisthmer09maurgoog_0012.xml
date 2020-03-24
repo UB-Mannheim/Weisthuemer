@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-22T21:26:35</Created>
+	<LastChange>2020-03-23T22:08:44</LastChange></Metadata>
+	<Page imageFilename="weisthmer09maurgoog_0012.tif" imageWidth="3102" imageHeight="5034">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="766,1682 869,1682 869,1830 1296,1830 1296,1912 1092,1912 1092,2114 1483,2114 1483,2048 1548,2048 1548,1764 1551,1764 1551,1691 2650,1691 2650,1835 2651,1835 2651,1982 2464,1982 2464,2262 2641,2262 2641,2341 2592,2341 2592,2410 2291,2410 2291,2698 2183,2698 2183,2903 2480,2903 2480,2975 2648,2975 2648,3053 2217,3053 2217,3330 2655,3330 2655,3471 2653,3471 2653,3683 2655,3683 2655,3973 2657,3973 2657,4046 2655,4046 2655,4258 2660,4258 2660,4333 2657,4333 2657,4475 2244,4475 2244,4698 2200,4698 2200,4475 1967,4475 1967,4623 1501,4623 1501,4612 300,4612 300,4478 298,4478 298,4255 301,4255 301,4050 228,4050 228,3907 226,3907 226,3764 223,3764 223,3689 221,3689 221,3616 223,3616 223,3123 221,3123 221,2828 226,2828 226,2619 216,2619 216,2544 219,2544 219,2403 296,2403 296,2189 217,2189 217,1830 766,1830"/>
+	<TextLine id="l0">
+	<Coords points="766,1682 766,1762 869,1762 869,1682"/>
+	<TextEquiv>
+	<Unicode>A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="217,1830 217,1912 1296,1912 1296,1830"/>
+	<TextEquiv>
+	<Unicode>A, die I, 81 f. III, 177. IV, 347.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="219,2473 219,2551 821,2551 821,2473"/>
+	<TextEquiv>
+	<Unicode>Aarein, der I, 72.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="216,2544 216,2619 1398,2619 1398,2544"/>
+	<TextEquiv>
+	<Unicode>Aargau, Argau, Ergou, Ergöu, Er-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="291,2619 291,2698 1396,2698 1396,2619"/>
+	<TextEquiv>
+	<Unicode>göwe I, 2. 54. 168. IV, 388. V,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="291,2696 291,2764 646,2764 646,2696"/>
+	<TextEquiv>
+	<Unicode>62 (?). 93.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="226,2764 226,2835 969,2835 969,2764"/>
+	<TextEquiv>
+	<Unicode>Aathalgasse, die I, 72,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="221,2828 221,2908 1400,2908 1400,2828"/>
+	<TextEquiv>
+	<Unicode>Abdinghof, kloster zu Paderborn III,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="300,2903 300,2971 1055,2971 1055,2903"/>
+	<TextEquiv>
+	<Unicode>87. 94 ff. abt: Konrad.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="223,2973 223,3051 1267,3051 1267,2973"/>
+	<TextEquiv>
+	<Unicode>Abel auf dem Homberg III, 49.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="221,3048 221,3123 958,3123 958,3048"/>
+	<TextEquiv>
+	<Unicode>Abelo de Gles III, 34.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="223,3116 223,3191 791,3191 791,3116"/>
+	<TextEquiv>
+	<Unicode>Abenden II, 709.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="217,1908 217,1980 903,1980 903,1908"/>
+	<TextEquiv>
+	<Unicode>Aach, Ahe II, 288 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="225,3187 225,3260 1096,3260 1096,3187"/>
+	<TextEquiv>
+	<Unicode>Aberli Turner I, 331. 336.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="225,3258 225,3332 751,3332 751,3258"/>
+	<TextEquiv>
+	<Unicode>Aberli: Johann.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="223,3330 223,3401 775,3401 775,3330"/>
+	<TextEquiv>
+	<Unicode>Abmat: Konrad.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="225,3401 225,3478 1369,3478 1369,3401"/>
+	<TextEquiv>
+	<Unicode>Abraham Friderici, notar IV, 244.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="223,3476 223,3544 676,3544 676,3476"/>
+	<TextEquiv>
+	<Unicode>Abt: Konrad.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="223,3542 223,3619 908,3619 908,3542"/>
+	<TextEquiv>
+	<Unicode>Abthof, der IV, 681.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="221,3616 221,3689 962,3689 962,3616"/>
+	<TextEquiv>
+	<Unicode>Abtwald, der IV, 564.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="223,3687 223,3764 1407,3764 1407,3687"/>
+	<TextEquiv>
+	<Unicode>Ach, die I, 381 f. 384. 387. III, 647.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="303,3758 303,3835 1133,3835 1133,3758"/>
+	<TextEquiv>
+	<Unicode>IV, 500. V, 207. VI, 148.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="226,3830 226,3907 1401,3907 1401,3830"/>
+	<TextEquiv>
+	<Unicode>Achatius herr zum Thurn, Neuen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="219,1976 219,2050 1092,2050 1092,1976"/>
+	<TextEquiv>
+	<Unicode>Ascharmer mühle VI, 677.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="301,3903 301,3980 1244,3980 1244,3903"/>
+	<TextEquiv>
+	<Unicode>peiern und Rordorf VI, 171.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="228,3975 228,4050 1410,4050 1410,3975"/>
+	<TextEquiv>
+	<Unicode>Achen (Aachen, Aach, Ach, Aich) II,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="308,4044 308,4116 1401,4116 1401,4044"/>
+	<TextEquiv>
+	<Unicode>582. 789 f. 813. 824. IV, 791. 797.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="303,4114 303,4187 1407,4187 1407,4114"/>
+	<TextEquiv>
+	<Unicode>800. 803. VI, 710. 713 f. St. Adal-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="301,4185 301,4262 1408,4262 1408,4185"/>
+	<TextEquiv>
+	<Unicode>bert zu A. IV, 791. 797. propst:</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="298,4255 298,4325 1410,4325 1410,4255"/>
+	<TextEquiv>
+	<Unicode>Sibodo. St. Marien- oder Liebfrauen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="298,4325 298,4400 1408,4400 1408,4325"/>
+	<TextEquiv>
+	<Unicode>stift zu A. II, 773. (789). IV, 797.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="298,4400 298,4478 1410,4478 1410,4400"/>
+	<TextEquiv>
+	<Unicode>VI, 612—16. 702 ff. dekane: Her-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="300,4471 300,4546 1412,4546 1412,4471"/>
+	<TextEquiv>
+	<Unicode>man, Sibodo. canonicus: Winant</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="217,2048 217,2117 794,2117 794,2048"/>
+	<TextEquiv>
+	<Unicode>Aachen s. Achen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="300,4546 300,4612 1412,4612 1412,4546"/>
+	<TextEquiv>
+	<Unicode>von Heimbach. — die Bennentstraſse</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="1551,1691 1551,1767 2650,1767 2650,1691"/>
+	<TextEquiv>
+	<Unicode>zu A. IV, 800. die St. Jacobeportze</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="1548,1764 1548,1839 2650,1839 2650,1764"/>
+	<TextEquiv>
+	<Unicode>zu A. IV, 800. der Paubach (die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="1550,1835 1550,1910 2651,1910 2651,1835"/>
+	<TextEquiv>
+	<Unicode>Pauwe) zu A. IV, 800 f. dekan R.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="1551,1908 1551,1982 2651,1982 2651,1908"/>
+	<TextEquiv>
+	<Unicode>von Achen VI, 758. die Aicher</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="1548,1978 1548,2050 2026,2050 2026,1978"/>
+	<TextEquiv>
+	<Unicode>straſse II, 728.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="1483,2048 1483,2121 2135,2121 2135,2048"/>
+	<TextEquiv>
+	<Unicode>Achen, die III, 680.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="1482,2121 1482,2196 2464,2196 2464,2121"/>
+	<TextEquiv>
+	<Unicode>Achenheim IV, 140. V, 486 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="1483,2192 1483,2269 2282,2269 2282,2192"/>
+	<TextEquiv>
+	<Unicode>Achenwald, der III, 711.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="1485,2262 1485,2341 2641,2341 2641,2262"/>
+	<TextEquiv>
+	<Unicode>Acher, Achger, Agger, die III, 18.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="217,2114 217,2189 1392,2189 1392,2114"/>
+	<TextEquiv>
+	<Unicode>Aar, Aare, Are, die I, 20. 169. 173.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="1551,2337 1551,2410 2592,2410 2592,2337"/>
+	<TextEquiv>
+	<Unicode>24. Stine (Christine) van der A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="1487,2407 1487,2480 1958,2480 1958,2407"/>
+	<TextEquiv>
+	<Unicode>Achern I, 416.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="1487,2476 1487,2551 2196,2551 2196,2476"/>
+	<TextEquiv>
+	<Unicode>Acherthal, das I, 824.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="1487,2548 1487,2614 2021,2614 2021,2548"/>
+	<TextEquiv>
+	<Unicode>Achorn IV, 189.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="1487,2607 1487,2698 2291,2698 2291,2607"/>
+	<TextEquiv>
+	<Unicode>Ächselpach, der III, 647.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="1487,2691 1487,2767 2108,2767 2108,2691"/>
+	<TextEquiv>
+	<Unicode>Achtelsbach I, 794.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l56">
+	<Coords points="1487,2760 1487,2830 1978,2830 1978,2760"/>
+	<TextEquiv>
+	<Unicode>Acker: Johann.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l57">
+	<Coords points="1487,2832 1487,2905 2183,2905 2183,2832"/>
+	<TextEquiv>
+	<Unicode>Ackerbach VI, 746 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l58">
+	<Coords points="1487,2903 1487,2978 2480,2978 2480,2903"/>
+	<TextEquiv>
+	<Unicode>Ackermann V, 388, Johann A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l59">
+	<Coords points="1491,2975 1491,3053 2648,3053 2648,2975"/>
+	<TextEquiv>
+	<Unicode>Adalbert (vgl. Albert) von Engelin-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="300,2191 300,2264 1396,2264 1396,2191"/>
+	<TextEquiv>
+	<Unicode>302. IV, 384. 386. 398 f. 489. V,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l60">
+	<Coords points="1558,3048 1558,3123 1948,3123 1948,3048"/>
+	<TextEquiv>
+	<Unicode>gen II, 270.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l61">
+	<Coords points="1487,3119 1487,3187 2217,3187 2217,3119"/>
+	<TextEquiv>
+	<Unicode>St. Adalbert s. Achen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l62">
+	<Coords points="1487,3187 1487,3266 2119,3266 2119,3187"/>
+	<TextEquiv>
+	<Unicode>Adaldagus III, 213.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l63">
+	<Coords points="1485,3262 1485,3335 2078,3335 2078,3262"/>
+	<TextEquiv>
+	<Unicode>Adalsfeld III, 356.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l64">
+	<Coords points="1487,3330 1487,3405 2655,3405 2655,3330"/>
+	<TextEquiv>
+	<Unicode>Adam von Brambach III, 492. junker</Unicode></TextEquiv></TextLine>
+	<TextLine id="l65">
+	<Coords points="1558,3401 1558,3471 2655,3471 2655,3401"/>
+	<TextEquiv>
+	<Unicode>A. von der Ecken II, 50. A. van</Unicode></TextEquiv></TextLine>
+	<TextLine id="l66">
+	<Coords points="1557,3469 1557,3546 2653,3546 2653,3469"/>
+	<TextEquiv>
+	<Unicode>Ederen, drost von Jülich II, 773.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l67">
+	<Coords points="1560,3541 1560,3619 2653,3619 2653,3541"/>
+	<TextEquiv>
+	<Unicode>A. Elsen IV, 564. A. Erhart VI,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l68">
+	<Coords points="1558,3612 1558,3687 2648,3687 2648,3612"/>
+	<TextEquiv>
+	<Unicode>272. A. Erkel III, 441. 446. A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l69">
+	<Coords points="1555,3683 1555,3757 2655,3757 2655,3683"/>
+	<TextEquiv>
+	<Unicode>von Erlebach, genannt von Wil-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="300,2264 300,2339 1396,2339 1396,2264"/>
+	<TextEquiv>
+	<Unicode>31. die A. (Ahr) in Nassau I, 588.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l70">
+	<Coords points="1553,3755 1553,3835 2648,3835 2648,3755"/>
+	<TextEquiv>
+	<Unicode>bach I, 558. III, 494. A. von Frucht</Unicode></TextEquiv></TextLine>
+	<TextLine id="l71">
+	<Coords points="1551,3832 1551,3905 2651,3905 2651,3832"/>
+	<TextEquiv>
+	<Unicode>I, 601. A, Jordan IV, 554. A. Neu-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l72">
+	<Coords points="1551,3903 1551,3978 2655,3978 2655,3903"/>
+	<TextEquiv>
+	<Unicode>wers I, 842. A. sigrist zu Remire-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l73">
+	<Coords points="1562,3973 1562,4046 2657,4046 2657,3973"/>
+	<TextEquiv>
+	<Unicode>mont IV, 87. A. von Rore III, 825.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l74">
+	<Coords points="1567,4041 1567,4116 2655,4116 2655,4041"/>
+	<TextEquiv>
+	<Unicode>A. Rörich I, 601. A. Sohaff, bür-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l75">
+	<Coords points="1564,4116 1564,4191 2655,4191 2655,4116"/>
+	<TextEquiv>
+	<Unicode>germeister I, 768 f. A. Soharrt I,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l76">
+	<Coords points="1566,4185 1566,4262 2655,4262 2655,4185"/>
+	<TextEquiv>
+	<Unicode>726. junker A. von Schonemberg,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l77">
+	<Coords points="1566,4258 1566,4333 2660,4333 2660,4258"/>
+	<TextEquiv>
+	<Unicode>amtmann III, 771. junker A.,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l78">
+	<Coords points="1567,4330 1567,4400 2651,4400 2651,4330"/>
+	<TextEquiv>
+	<Unicode>amtmann von Siersburg VI, 433.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l79">
+	<Coords points="1566,4398 1566,4475 2657,4475 2657,4398"/>
+	<TextEquiv>
+	<Unicode>A. Timrodt, canonicus zu Worms</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="296,2332 296,2403 435,2403 435,2332"/>
+	<TextEquiv>
+	<Unicode>591.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l80">
+	<Coords points="1567,4469 1567,4551 1841,4551 1841,4469"/>
+	<TextEquiv>
+	<Unicode>IV, 630.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l81">
+	<Coords points="1501,4542 1501,4623 1967,4623 1967,4542"/>
+	<TextEquiv>
+	<Unicode>Adam: Simon.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l82">
+	<Coords points="2200,4630 2200,4698 2244,4698 2244,4630"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="219,2403 219,2478 721,2478 721,2403"/>
+	<TextEquiv>
+	<Unicode>Aarau V, 66 f.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>A.
+zu A. IV, 800. die St. Jacobeportze
+zu A. IV, 800. der Paubach (die
+A, die I, 81 f. III, 177. IV, 347.
+Pauwe) zu A. IV, 800 f. dekan R.
+Aach, Ahe II, 288 f.
+von Achen VI, 758. die Aicher
+Ascharmer mühle VI, 677.
+straſse II, 728.
+Aachen s. Achen.
+Achen, die III, 680.
+Aar, Aare, Are, die I, 20. 169. 173.
+Achenheim IV, 140. V, 486 ff.
+302. IV, 384. 386. 398 f. 489. V,
+Achenwald, der III, 711.
+Acher, Achger, Agger, die III, 18.
+31. die A. (Ahr) in Nassau I, 588.
+591.
+24. Stine (Christine) van der A.
+Aarau V, 66 f.
+Achern I, 416.
+Aarein, der I, 72.
+Acherthal, das I, 824.
+Aargau, Argau, Ergou, Ergöu, Er-
+Achorn IV, 189.
+Ächselpach, der III, 647.
+göwe I, 2. 54. 168. IV, 388. V,
+Achtelsbach I, 794.
+62 (?). 93.
+Acker: Johann.
+Aathalgasse, die I, 72,
+Abdinghof, kloster zu Paderborn III,
+Ackerbach VI, 746 f.
+87. 94 ff. abt: Konrad.
+Ackermann V, 388, Johann A.
+Abel auf dem Homberg III, 49.
+Adalbert (vgl. Albert) von Engelin-
+Abelo de Gles III, 34.
+gen II, 270.
+Abenden II, 709.
+St. Adalbert s. Achen.
+Aberli Turner I, 331. 336.
+Adaldagus III, 213.
+Aberli: Johann.
+Adalsfeld III, 356.
+Abmat: Konrad.
+Adam von Brambach III, 492. junker
+Abraham Friderici, notar IV, 244.
+A. von der Ecken II, 50. A. van
+Ederen, drost von Jülich II, 773.
+Abt: Konrad.
+A. Elsen IV, 564. A. Erhart VI,
+Abthof, der IV, 681.
+272. A. Erkel III, 441. 446. A.
+Abtwald, der IV, 564.
+von Erlebach, genannt von Wil-
+Ach, die I, 381 f. 384. 387. III, 647.
+bach I, 558. III, 494. A. von Frucht
+IV, 500. V, 207. VI, 148.
+Achatius herr zum Thurn, Neuen-
+I, 601. A, Jordan IV, 554. A. Neu-
+peiern und Rordorf VI, 171.
+wers I, 842. A. sigrist zu Remire-
+mont IV, 87. A. von Rore III, 825.
+Achen (Aachen, Aach, Ach, Aich) II,
+A. Rörich I, 601. A. Sohaff, bür-
+582. 789 f. 813. 824. IV, 791. 797.
+800. 803. VI, 710. 713 f. St. Adal-
+germeister I, 768 f. A. Soharrt I,
+bert zu A. IV, 791. 797. propst:
+726. junker A. von Schonemberg,
+Sibodo. St. Marien- oder Liebfrauen-
+amtmann III, 771. junker A.,
+stift zu A. II, 773. (789). IV, 797.
+amtmann von Siersburg VI, 433.
+A. Timrodt, canonicus zu Worms
+VI, 612—16. 702 ff. dekane: Her-
+IV, 630.
+man, Sibodo. canonicus: Winant
+Adam: Simon.
+von Heimbach. — die Bennentstraſse
+1</Unicode></TextEquiv></TextRegion></Page></PcGts>

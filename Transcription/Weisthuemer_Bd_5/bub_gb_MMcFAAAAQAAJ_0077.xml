@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-22T14:51:26</Created>
+	<LastChange>2020-03-23T19:16:47</LastChange></Metadata>
+	<Page imageFilename="bub_gb_MMcFAAAAQAAJ_0077.png" imageWidth="2500" imageHeight="3997">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="876,178 1350,178 1350,328 1988,328 1988,185 2088,185 2088,257 2085,257 2085,402 2088,402 2088,466 2090,466 2090,540 2088,540 2088,673 2090,673 2090,816 2085,816 2085,1011 2088,1011 2088,1214 2090,1214 2090,1485 2092,1485 2092,1561 2078,1561 2078,1680 2097,1680 2097,1830 2095,1830 2095,2021 2097,2021 2097,2085 2100,2085 2100,2295 2102,2295 2102,2900 2104,2900 2104,3109 2102,3109 2102,3171 730,3171 730,3307 1764,3307 1764,3433 2107,3433 2107,3509 2111,3509 2111,3719 1783,3719 1783,3795 1733,3795 1733,3719 504,3719 504,3800 321,3800 321,3719 164,3719 164,3578 159,3578 159,3509 283,3509 283,3433 519,3433 519,3242 142,3242 142,3109 140,3109 140,3045 138,3045 138,2976 133,2976 133,2840 130,2840 130,2633 128,2633 128,2435 126,2435 126,2300 123,2300 123,2166 121,2166 121,1897 119,1897 119,1819 123,1819 123,1688 121,1688 121,1630 111,1630 111,1552 121,1552 121,1288 119,1288 119,1011 123,1011 123,880 119,880 119,804 121,804 121,678 119,678 119,466 121,466 121,402 240,402 240,328 876,328"/>
+	<TextLine id="l0">
+	<Coords points="876,178 876,257 1350,257 1350,178"/>
+	<TextEquiv>
+	<Unicode>KOELLIKON.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="1988,185 1988,257 2088,257 2088,185"/>
+	<TextEquiv>
+	<Unicode>65</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="123,871 123,950 2085,950 2085,871"/>
+	<TextEquiv>
+	<Unicode>Kulm genzlich ufnemen und însammlen ân allen sinen. scha-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="123,942 123,1019 2085,1019 2085,942"/>
+	<TextEquiv>
+	<Unicode>den. und wär, daz ein probst oder sin boten ze dene ziten,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="119,1011 119,1083 2088,1083 2088,1011"/>
+	<TextEquiv>
+	<Unicode>als die zins gevallet, von dem keller oder von den huoberen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="121,1076 121,1152 2088,1152 2088,1076"/>
+	<TextEquiv>
+	<Unicode>nit fürderlich usgericht wurde und des ze schaden käme von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="119,1147 119,1221 2088,1221 2088,1147"/>
+	<TextEquiv>
+	<Unicode>zerung oder anders wegen, wie sich das füegte, denselben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="119,1214 119,1288 2090,1288 2090,1214"/>
+	<TextEquiv>
+	<Unicode>schaden sond die denn ustragen, die des sümig waren, und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="121,1280 121,1352 2088,1352 2088,1280"/>
+	<TextEquiv>
+	<Unicode>mag ein probst si darumb angrifen und pfenden oder sin bo-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="123,1347 123,1421 2090,1421 2090,1347"/>
+	<TextEquiv>
+	<Unicode>ten, mit gericht oder âne gericht, wie si wolent, und sol ein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="121,1416 121,1485 1988,1485 1988,1416"/>
+	<TextEquiv>
+	<Unicode>meier mit im riten und gân und sol im darin behulfen sin.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="240,328 240,416 2085,416 2085,328"/>
+	<TextEquiv>
+	<Unicode>§. 27. Wenn ein probst oder sin boten gen Kölliken koment,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="266,1485 266,1561 2092,1561 2092,1485"/>
+	<TextEquiv>
+	<Unicode>§. 29. Es vallet eim probst sin zins und nuzzz würent in dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="111,1552 111,1630 2078,1630 2078,1552"/>
+	<TextEquiv>
+	<Unicode>jare, daz ist ze sant Johannstag ze sunngichten einist und ze</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="121,1623 121,1688 1316,1688 1316,1623"/>
+	<TextEquiv>
+	<Unicode>sant Andrestag ze dem andren male.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="264,1680 264,1761 2097,1761 2097,1680"/>
+	<TextEquiv>
+	<Unicode>§. 30. Es sol ein keller den kelnhof in guoten eren han</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="123,1752 123,1830 2097,1830 2097,1752"/>
+	<TextEquiv>
+	<Unicode>mit hüseren und mit spîcheren, daz or einem probst sin zins</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="119,1819 119,1897 2095,1897 2095,1819"/>
+	<TextEquiv>
+	<Unicode>behalten und versorgen möge, und daz ein probst oder sin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="121,1885 121,1961 2095,1961 2095,1885"/>
+	<TextEquiv>
+	<Unicode>boten mit iren pferden guot gemach bi im haben, und sol den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="121,1952 121,2028 2095,2028 2095,1952"/>
+	<TextEquiv>
+	<Unicode>kelnhof unwuostlich han, und sol nüt darab füeren noch ver-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="121,2021 121,2095 2097,2095 2097,2021"/>
+	<TextEquiv>
+	<Unicode>koufen. wenn aber dis stugk deheines gebrest, so ist ein keller</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="121,402 121,473 2088,473 2088,402"/>
+	<TextEquiv>
+	<Unicode>so sol inen und allen den, die si mit inen bringent, der si vil</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="121,2085 121,2166 2100,2166 2100,2085"/>
+	<TextEquiv>
+	<Unicode>dem probst 10 Π ϑ vervallen, und sol im darzuo der kelnhof</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="123,2157 123,2235 2100,2235 2100,2157"/>
+	<TextEquiv>
+	<Unicode>ledig sin. §. 31. Wenn ein probst oder sin bot ze sant Andres</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="123,2226 123,2300 2100,2300 2100,2226"/>
+	<TextEquiv>
+	<Unicode>misz in den kelnhof kumt, so sol ieder huober komen und zinsen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="128,2295 128,2361 2102,2361 2102,2295"/>
+	<TextEquiv>
+	<Unicode>mit zwen viertel dinkel und mit einem fueder holz und mit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="126,2361 126,2435 2102,2435 2102,2361"/>
+	<TextEquiv>
+	<Unicode>einem bette; und sol uszer dem dinkel ein brot machen, und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="128,2426 128,2500 2102,2500 2102,2426"/>
+	<TextEquiv>
+	<Unicode>sol daz brot uf sinen fuos sezzen für sin knüwe, und waz für</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="128,2492 128,2564 2102,2564 2102,2492"/>
+	<TextEquiv>
+	<Unicode>daz knüwe ufschlat, daz sol er abschniden und sol daz sinem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="128,2564 128,2633 2102,2633 2102,2564"/>
+	<TextEquiv>
+	<Unicode>knecht geben, der den zug wider heimtribet, und sol dann</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="119,466 119,540 2090,540 2090,466"/>
+	<TextEquiv>
+	<Unicode>oder wenig, ein keller all kost geben, und sol inen win und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="130,2630 130,2704 2102,2704 2102,2630"/>
+	<TextEquiv>
+	<Unicode>der huober das ander teil mit dem probst essen, allediewile</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="133,2700 133,2769 2102,2769 2102,2700"/>
+	<TextEquiv>
+	<Unicode>er da ist §. 32. Es sond die schuppusser ieglicher zwei viertel</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="130,2766 130,2840 2102,2840 2102,2766"/>
+	<TextEquiv>
+	<Unicode>haber bringen, und sond den habern ungerollet malen und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="133,2835 133,2911 2102,2911 2102,2835"/>
+	<TextEquiv>
+	<Unicode>sond in bachen, und sond bi dem probst oder sinen boten sin,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="133,2900 133,2976 2104,2976 2104,2900"/>
+	<TextEquiv>
+	<Unicode>allediewile, er da ist, und sond im holz howen, wasser intra-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="138,2969 138,3045 2104,3045 2104,2969"/>
+	<TextEquiv>
+	<Unicode>gen und den ofen heizen. §. 33. Es sol und mag ouch ein probst</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="140,3035 140,3109 2104,3109 2104,3035"/>
+	<TextEquiv>
+	<Unicode>holz houwen in allen hölzeren und wälden um und um, wenn</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="142,3100 142,3171 2102,3171 2102,3100"/>
+	<TextEquiv>
+	<Unicode>er will und wie vil er will, und sol im das nieman weren noch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="142,3171 142,3242 730,3242 730,3171"/>
+	<TextEquiv>
+	<Unicode>sumen noch irren.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="119,533 119,611 2088,611 2088,533"/>
+	<TextEquiv>
+	<Unicode>iren pferden heu und fueter geben, als lang si da sint. es sol</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="519,3307 519,3395 1764,3395 1764,3307"/>
+	<TextEquiv>
+	<Unicode>Dis sint eines vogtes recht ze Kölliken,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="283,3433 283,3521 2107,3521 2107,3433"/>
+	<TextEquiv>
+	<Unicode>§. 34. Des ersten sol ein vogt in dem kelnhof zu Kölliken</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="159,3509 159,3578 2111,3578 2111,3509"/>
+	<TextEquiv>
+	<Unicode>von dem keller ze sant Johannstag ze sungichten und ze sant</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="166,3571 166,3650 2107,3650 2107,3571"/>
+	<TextEquiv>
+	<Unicode>Andrestag einen dienst nemen, daz ist einmal ietweders tages</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="164,3638 164,3719 2111,3719 2111,3638"/>
+	<TextEquiv>
+	<Unicode>âne alle geverde, und nit me. §. 35. Sol einem vogt ieclich</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="321,3733 321,3800 504,3800 504,3733"/>
+	<TextEquiv>
+	<Unicode>Bd. V.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l56">
+	<Coords points="1733,3738 1733,3795 1783,3795 1783,3738"/>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="119,602 119,678 2088,678 2088,602"/>
+	<TextEquiv>
+	<Unicode>ouch kein keller dem probst oder sinen boten ein wischtuoch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="123,673 123,747 2090,747 2090,673"/>
+	<TextEquiv>
+	<Unicode>geben, damit ire knecht die rosz wischent. §. 28. Es sol ein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="121,738 121,816 2090,816 2090,738"/>
+	<TextEquiv>
+	<Unicode>keller einen probst all sin nuzze und zins oder zehend, korn</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="119,804 119,880 2085,880 2085,804"/>
+	<TextEquiv>
+	<Unicode>oder pfenning ze Kölliken, ze Muchen, ze Holziken und ze</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>KOELLIKON.
+65
+§. 27. Wenn ein probst oder sin boten gen Kölliken koment,
+so sol inen und allen den, die si mit inen bringent, der si vil
+oder wenig, ein keller all kost geben, und sol inen win und
+iren pferden heu und fueter geben, als lang si da sint. es sol
+ouch kein keller dem probst oder sinen boten ein wischtuoch
+geben, damit ire knecht die rosz wischent. §. 28. Es sol ein
+keller einen probst all sin nuzze und zins oder zehend, korn
+oder pfenning ze Kölliken, ze Muchen, ze Holziken und ze
+Kulm genzlich ufnemen und însammlen ân allen sinen. scha-
+den. und wär, daz ein probst oder sin boten ze dene ziten,
+als die zins gevallet, von dem keller oder von den huoberen
+nit fürderlich usgericht wurde und des ze schaden käme von
+zerung oder anders wegen, wie sich das füegte, denselben
+schaden sond die denn ustragen, die des sümig waren, und
+mag ein probst si darumb angrifen und pfenden oder sin bo-
+ten, mit gericht oder âne gericht, wie si wolent, und sol ein
+meier mit im riten und gân und sol im darin behulfen sin.
+§. 29. Es vallet eim probst sin zins und nuzzz würent in dem
+jare, daz ist ze sant Johannstag ze sunngichten einist und ze
+sant Andrestag ze dem andren male.
+§. 30. Es sol ein keller den kelnhof in guoten eren han
+mit hüseren und mit spîcheren, daz or einem probst sin zins
+behalten und versorgen möge, und daz ein probst oder sin
+boten mit iren pferden guot gemach bi im haben, und sol den
+kelnhof unwuostlich han, und sol nüt darab füeren noch ver-
+koufen. wenn aber dis stugk deheines gebrest, so ist ein keller
+dem probst 10 Π ϑ vervallen, und sol im darzuo der kelnhof
+ledig sin. §. 31. Wenn ein probst oder sin bot ze sant Andres
+misz in den kelnhof kumt, so sol ieder huober komen und zinsen
+mit zwen viertel dinkel und mit einem fueder holz und mit
+einem bette; und sol uszer dem dinkel ein brot machen, und
+sol daz brot uf sinen fuos sezzen für sin knüwe, und waz für
+daz knüwe ufschlat, daz sol er abschniden und sol daz sinem
+knecht geben, der den zug wider heimtribet, und sol dann
+der huober das ander teil mit dem probst essen, allediewile
+er da ist §. 32. Es sond die schuppusser ieglicher zwei viertel
+haber bringen, und sond den habern ungerollet malen und
+sond in bachen, und sond bi dem probst oder sinen boten sin,
+allediewile, er da ist, und sond im holz howen, wasser intra-
+gen und den ofen heizen. §. 33. Es sol und mag ouch ein probst
+holz houwen in allen hölzeren und wälden um und um, wenn
+er will und wie vil er will, und sol im das nieman weren noch
+sumen noch irren.
+Dis sint eines vogtes recht ze Kölliken,
+§. 34. Des ersten sol ein vogt in dem kelnhof zu Kölliken
+von dem keller ze sant Johannstag ze sungichten und ze sant
+Andrestag einen dienst nemen, daz ist einmal ietweders tages
+âne alle geverde, und nit me. §. 35. Sol einem vogt ieclich
+Bd. V.
+5</Unicode></TextEquiv></TextRegion></Page></PcGts>

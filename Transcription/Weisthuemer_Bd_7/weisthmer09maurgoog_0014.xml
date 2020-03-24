@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-23T09:11:46</Created>
+	<LastChange>2020-03-23T23:19:50</LastChange></Metadata>
+	<Page imageFilename="weisthmer09maurgoog_0014.tif" imageWidth="3102" imageHeight="5034">
+	<TextRegion id="r111" type="paragraph">
+	<Coords points="2577,322 2654,322 2654,409 2651,409 2651,939 2644,939 2644,1510 2648,1510 2648,1866 2650,1866 2650,3003 2651,3003 2651,3080 2530,3080 2530,3721 2646,3721 2646,4287 2648,4287 2648,4432 2651,4432 2651,4510 1928,4510 1928,4646 1048,4646 1048,4660 300,4660 300,4437 296,4437 296,3567 298,3567 298,2942 296,2942 296,2721 294,2721 294,2444 221,2444 221,2366 219,2366 219,1869 216,1869 216,1291 217,1291 217,721 216,721 216,655 214,655 214,501 992,501 992,503 2073,503 2073,576 2577,576"/>
+	<TextLine id="l0">
+	<Coords points="214,501 214,580 992,580 992,501"/>
+	<TextEquiv>
+	<Unicode>Alairpach, der III, 729.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="214,578 214,655 1044,655 1044,578"/>
+	<TextEquiv>
+	<Unicode>Alapfen, Obern- IV, 496.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="217,1219 217,1294 660,1294 660,1219"/>
+	<TextEquiv>
+	<Unicode>Alban. II, 23.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l100">
+	<Coords points="1483,3503 1483,3576 2162,3576 2162,3503"/>
+	<TextEquiv>
+	<Unicode>Alftre: Gozwinus de.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l101">
+	<Coords points="1483,3575 1483,3650 1969,3650 1969,3575"/>
+	<TextEquiv>
+	<Unicode>Algäu VI, 294.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l102">
+	<Coords points="1480,3651 1480,3723 2062,3723 2062,3651"/>
+	<TextEquiv>
+	<Unicode>Algenrat VI, 747.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l103">
+	<Coords points="1482,3721 1482,3798 2646,3798 2646,3721"/>
+	<TextEquiv>
+	<Unicode>Algermissen, Groſs- und Klein- IV,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l104">
+	<Coords points="1553,3796 1553,3860 1694,3860 1694,3796"/>
+	<TextEquiv>
+	<Unicode>696.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l105">
+	<Coords points="1483,3858 1483,3937 2144,3937 2144,3858"/>
+	<TextEquiv>
+	<Unicode>Algesweiler IV. 516.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l106">
+	<Coords points="1483,3933 1483,4007 2017,4007 2017,3933"/>
+	<TextEquiv>
+	<Unicode>Algunt: Johann.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l107">
+	<Coords points="1482,4007 1482,4080 2300,4080 2300,4007"/>
+	<TextEquiv>
+	<Unicode>Alhelm: Hennig, Konrad.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l108">
+	<Coords points="1483,4076 1483,4148 2219,4148 2219,4076"/>
+	<TextEquiv>
+	<Unicode>Alhen ahe, die I, 429.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l109">
+	<Coords points="1482,4146 1482,4225 2592,4225 2592,4146"/>
+	<TextEquiv>
+	<Unicode>Alhufs: Clewin (Nicolaus), Johann,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="216,1291 216,1364 1208,1364 1208,1291"/>
+	<TextEquiv>
+	<Unicode>St. Alban s. Basel und Mainz.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l110">
+	<Coords points="2577,322 2577,409 2654,409 2654,322"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></TextLine>
+	<TextLine id="l111">
+	<Coords points="1483,4217 1483,4291 2001,4291 2001,4217"/>
+	<TextEquiv>
+	<Unicode>Aliders III, 658.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l112">
+	<Coords points="1482,4287 1482,4362 2648,4362 2648,4287"/>
+	<TextEquiv>
+	<Unicode>Alienor de Chalon, äbtissin zu Re-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l113">
+	<Coords points="1551,4360 1551,4435 2119,4435 2119,4360"/>
+	<TextEquiv>
+	<Unicode>miremont IV, 86.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l114">
+	<Coords points="1482,4432 1482,4510 2651,4510 2651,4432"/>
+	<TextEquiv>
+	<Unicode>Alken, Alcken II, 456. 462 f. III,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l115">
+	<Coords points="1550,4505 1550,4573 1742,4573 1742,4505"/>
+	<TextEquiv>
+	<Unicode>811 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l116">
+	<Coords points="1480,4573 1480,4646 1928,4646 1928,4573"/>
+	<TextEquiv>
+	<Unicode>Alket: Simon.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="221,1364 221,1435 964,1435 964,1364"/>
+	<TextEquiv>
+	<Unicode>Albe, Alf, die II, 376.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="221,1432 221,1508 1064,1508 1064,1432"/>
+	<TextEquiv>
+	<Unicode>Albech, Albich IV, 624 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="221,1505 221,1585 1398,1585 1398,1505"/>
+	<TextEquiv>
+	<Unicode>Alber, der IV, 406. Kuno (Konrad) A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="221,1578 221,1653 1400,1653 1400,1578"/>
+	<TextEquiv>
+	<Unicode>Alberich domherr zu Verden VI, 735.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="219,1642 219,1728 1096,1728 1096,1642"/>
+	<TextEquiv>
+	<Unicode>Albernschlag, der IV, 584.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="219,1719 219,1794 1125,1794 1125,1719"/>
+	<TextEquiv>
+	<Unicode>Albernschutze, das III, 887.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="216,1791 216,1869 1396,1869 1396,1791"/>
+	<TextEquiv>
+	<Unicode>Albers, Bremischer dienstmann III,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="287,1860 287,1932 446,1932 446,1860"/>
+	<TextEquiv>
+	<Unicode>219.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="216,648 216,721 714,721 714,648"/>
+	<TextEquiv>
+	<Unicode>Alart: Johann.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="219,1933 219,2012 1151,2012 1151,1933"/>
+	<TextEquiv>
+	<Unicode>Albersweiler I, 767. VI, 414.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="223,2005 223,2080 1398,2080 1398,2005"/>
+	<TextEquiv>
+	<Unicode>Albis I, 30. uffem A. I, 62. das A,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="298,2080 298,2155 1003,2155 1003,2080"/>
+	<TextEquiv>
+	<Unicode>gebirge IV, 323. 325.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="223,2150 223,2228 1273,2228 1273,2150"/>
+	<TextEquiv>
+	<Unicode>Albisheim, Albsheim IV, 637 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="225,2219 225,2294 962,2294 962,2219"/>
+	<TextEquiv>
+	<Unicode>Albisrieden IV, 295 n.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="219,2285 219,2366 762,2366 762,2285"/>
+	<TextEquiv>
+	<Unicode>Alblein III, 658.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="221,2364 221,2444 1396,2444 1396,2364"/>
+	<TextEquiv>
+	<Unicode>Albrecht (Albert). Albrecht I. könig</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="298,2435 298,2512 1401,2512 1401,2435"/>
+	<TextEquiv>
+	<Unicode>HI, 481 n. A. bischof von Bam-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="296,2508 296,2580 1396,2580 1396,2508"/>
+	<TextEquiv>
+	<Unicode>berg VI, 106 ff. 110. A. der Beie-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="294,2580 294,2657 1394,2657 1394,2580"/>
+	<TextEquiv>
+	<Unicode>ler V, 85 f. A. Bürgis I, 248. A,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="217,717 217,796 871,796 871,717"/>
+	<TextEquiv>
+	<Unicode>Alaſs Hart IV, 427.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="294,2651 294,2721 1396,2721 1396,2651"/>
+	<TextEquiv>
+	<Unicode>von dem Busche III, 200. A. von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="298,2721 298,2796 1396,2796 1396,2721"/>
+	<TextEquiv>
+	<Unicode>Eglofestein VI, 106 ff. A. schulmeister</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="296,2794 296,2867 1394,2867 1394,2794"/>
+	<TextEquiv>
+	<Unicode>auf dem Frauenberge III, 388. A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="296,2864 296,2942 1394,2942 1394,2864"/>
+	<TextEquiv>
+	<Unicode>Groſs, ritter VI, 106. A. Gufer V,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="298,2935 298,3016 1394,3016 1394,2935"/>
+	<TextEquiv>
+	<Unicode>255. graf A. von Habsburg IV,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="298,3010 298,3083 1394,3083 1394,3010"/>
+	<TextEquiv>
+	<Unicode>258. A. Hippe, propst zu Wagen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="300,3078 300,3155 1394,3155 1394,3078"/>
+	<TextEquiv>
+	<Unicode>hausen I, 288. A. von Kippenheim,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="300,3151 300,3223 1391,3223 1391,3151"/>
+	<TextEquiv>
+	<Unicode>edelknecht I, 345. A. von Lamlin-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="300,3221 300,3296 1394,3296 1394,3221"/>
+	<TextEquiv>
+	<Unicode>gen V, 26. A. Lexstein III, 371.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="298,3294 298,3369 1398,3369 1398,3294"/>
+	<TextEquiv>
+	<Unicode>A. von Lippespringe III, 83. graf</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="217,791 217,869 1001,869 1001,791"/>
+	<TextEquiv>
+	<Unicode>Alb, Alba s. Herrenalb.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="300,3364 300,3437 1394,3437 1394,3364"/>
+	<TextEquiv>
+	<Unicode>A. von Limburg, domherr zu Straſs-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="300,3435 300,3512 1394,3512 1394,3435"/>
+	<TextEquiv>
+	<Unicode>burg I, 726. graf A. von Molbach</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="301,3508 301,3583 1396,3583 1396,3508"/>
+	<TextEquiv>
+	<Unicode>III, 75. junker A. von Neueneck I,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="296,3567 296,3657 1403,3657 1403,3567"/>
+	<TextEquiv>
+	<Unicode>387. herzog A. von Österreich V,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="298,3650 298,3719 1398,3719 1398,3650"/>
+	<TextEquiv>
+	<Unicode>223 f. A. Paulles III, 269. A. Pfalz-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="296,3721 296,3796 1392,3796 1392,3721"/>
+	<TextEquiv>
+	<Unicode>graf b. Rh. und herzog in Baiern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="296,3796 296,3869 1394,3869 1394,3796"/>
+	<TextEquiv>
+	<Unicode>VI, 202. A. zu Queichheim I, 769.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="301,3862 301,3937 1392,3937 1392,3862"/>
+	<TextEquiv>
+	<Unicode>A. schöffe zu Obern-Rade I, 520.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="305,3930 305,4007 1394,4007 1394,3930"/>
+	<TextEquiv>
+	<Unicode>A. Schelle III, 94 ff, 100. junker</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="305,4005 305,4080 1394,4080 1394,4005"/>
+	<TextEquiv>
+	<Unicode>A. Schenk von Landeks V, 163 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="219,860 219,939 1276,939 1276,860"/>
+	<TextEquiv>
+	<Unicode>Alb, die IV, 494, 496 f. V, 227.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="305,4080 305,4153 1392,4153 1392,4080"/>
+	<TextEquiv>
+	<Unicode>A. von Schillingen VI, 476. A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="301,4146 301,4223 1389,4223 1389,4146"/>
+	<TextEquiv>
+	<Unicode>Sighart I, 359. A. Store I, 701.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="303,4223 303,4296 1389,4296 1389,4223"/>
+	<TextEquiv>
+	<Unicode>A. bischof von Straſsburg V, 426.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="303,4289 303,4364 1391,4364 1391,4289"/>
+	<TextEquiv>
+	<Unicode>A. de Teger III, 83. junker A. von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="296,4360 296,4437 1398,4437 1398,4360"/>
+	<TextEquiv>
+	<Unicode>Trubenbach III, 381—85, A. vogt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="301,4430 301,4512 1398,4512 1398,4430"/>
+	<TextEquiv>
+	<Unicode>von Wadegassen II, 800 f. A. abt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l56">
+	<Coords points="301,4505 301,4580 1398,4580 1398,4505"/>
+	<TextEquiv>
+	<Unicode>von Wettingen V, 106. A. von der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l57">
+	<Coords points="300,4578 300,4660 1048,4660 1048,4578"/>
+	<TextEquiv>
+	<Unicode>Wiese (de Prato) V, 6.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l58">
+	<Coords points="1482,503 1482,578 2073,578 2073,503"/>
+	<TextEquiv>
+	<Unicode>Albrecht: Konrad.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l59">
+	<Coords points="1485,576 1485,655 2419,655 2419,576"/>
+	<TextEquiv>
+	<Unicode>Alcolzheim, der von IV, 159.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="217,935 217,1010 1400,1010 1400,935"/>
+	<TextEquiv>
+	<Unicode>Albach I, 800. der A. IV, 254. die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l60">
+	<Coords points="1485,653 1485,726 2310,726 2310,653"/>
+	<TextEquiv>
+	<Unicode>Aldeck, die I, 627 f. 636.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l61">
+	<Coords points="1482,726 1482,792 2330,792 2330,726"/>
+	<TextEquiv>
+	<Unicode>Aldecken: Tillinus in der.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l62">
+	<Coords points="1482,792 1482,866 2287,866 2287,792"/>
+	<TextEquiv>
+	<Unicode>Aldendelre, die III, 428.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l63">
+	<Coords points="1483,867 1483,939 2651,939 2651,867"/>
+	<TextEquiv>
+	<Unicode>Aldendorf, Auldendorf I, 580 f. II,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l64">
+	<Coords points="1551,933 1551,1012 2642,1012 2642,933"/>
+	<TextEquiv>
+	<Unicode>653. III, 321—24. Groſsen-A. I,631.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l65">
+	<Coords points="1482,1007 1482,1082 2207,1082 2207,1007"/>
+	<TextEquiv>
+	<Unicode>Aldenhoven IV, 796 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l66">
+	<Coords points="1483,1076 1483,1155 2478,1155 2478,1076"/>
+	<TextEquiv>
+	<Unicode>Aldenrait, junker II, 727. 729.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l67">
+	<Coords points="1482,1153 1482,1226 2376,1226 2376,1153"/>
+	<TextEquiv>
+	<Unicode>Aldenstat III, 430. IV, 534.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l68">
+	<Coords points="1483,1221 1483,1301 2207,1301 2207,1221"/>
+	<TextEquiv>
+	<Unicode>Aldinggesesse III, 398,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l69">
+	<Coords points="1482,1296 1482,1369 2642,1369 2642,1296"/>
+	<TextEquiv>
+	<Unicode>Alebrandus de Hethe, canonicus Os-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="301,1007 301,1080 955,1080 955,1007"/>
+	<TextEquiv>
+	<Unicode>A. II, 803. III, 535.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l70">
+	<Coords points="1551,1367 1551,1441 2230,1441 2230,1367"/>
+	<TextEquiv>
+	<Unicode>nabrugensis III, 187.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l71">
+	<Coords points="1482,1437 1482,1516 2644,1516 2644,1437"/>
+	<TextEquiv>
+	<Unicode>Alef (Alof) von Voishoilre III, 22 A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l72">
+	<Coords points="1551,1510 1551,1585 2648,1585 2648,1510"/>
+	<TextEquiv>
+	<Unicode>von Merfeld III, 145, A. von Ragen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l73">
+	<Coords points="1548,1585 1548,1653 2008,1653 2008,1585"/>
+	<TextEquiv>
+	<Unicode>rade 111, 19 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l74">
+	<Coords points="1480,1646 1480,1723 2076,1723 2076,1646"/>
+	<TextEquiv>
+	<Unicode>Alefeld III, 269 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l75">
+	<Coords points="1480,1721 1480,1792 2062,1792 2062,1721"/>
+	<TextEquiv>
+	<Unicode>Alentour IV, 243.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l76">
+	<Coords points="1480,1787 1480,1866 2146,1866 2146,1787"/>
+	<TextEquiv>
+	<Unicode>Alenwinden IV, 406.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l77">
+	<Coords points="1480,1866 1480,1942 2650,1942 2650,1866"/>
+	<TextEquiv>
+	<Unicode>Alerd, Bremischer dienstmann III,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l78">
+	<Coords points="1551,1939 1551,2007 1691,2007 1691,1939"/>
+	<TextEquiv>
+	<Unicode>219.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l79">
+	<Coords points="1483,2007 1483,2080 2025,2080 2025,2007"/>
+	<TextEquiv>
+	<Unicode>Alerode III, 428.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="219,1076 219,1155 857,1155 857,1076"/>
+	<TextEquiv>
+	<Unicode>Albaching III, 667.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l80">
+	<Coords points="1480,2080 1480,2150 2155,2150 2155,2080"/>
+	<TextEquiv>
+	<Unicode>Alertze, die III, 729.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l81">
+	<Coords points="1483,2148 1483,2228 2205,2228 2205,2148"/>
+	<TextEquiv>
+	<Unicode>Alesberg, der III, 390.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l82">
+	<Coords points="1485,2221 1485,2298 2123,2298 2123,2221"/>
+	<TextEquiv>
+	<Unicode>Alett vgl. Adelheid.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l83">
+	<Coords points="1487,2296 1487,2371 2444,2371 2444,2296"/>
+	<TextEquiv>
+	<Unicode>Alewig graf von Sulze I, 371.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l84">
+	<Coords points="1485,2367 1485,2437 2642,2437 2642,2367"/>
+	<TextEquiv>
+	<Unicode>Alexander V. papst III, 450. A. Blin-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l85">
+	<Coords points="1553,2437 1553,2512 2650,2512 2650,2437"/>
+	<TextEquiv>
+	<Unicode>kein I, 726. junker A. von Brau-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l86">
+	<Coords points="1555,2507 1555,2583 2642,2583 2642,2507"/>
+	<TextEquiv>
+	<Unicode>bach II, 47 f. A. von Brunshorn,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l87">
+	<Coords points="1553,2582 1553,2651 2632,2651 2632,2582"/>
+	<TextEquiv>
+	<Unicode>canonicus zu Leiden II, 512. 515.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l88">
+	<Coords points="1553,2650 1553,2719 2169,2719 2169,2650"/>
+	<TextEquiv>
+	<Unicode>A. Richert IV, 28.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l89">
+	<Coords points="1480,2717 1480,2798 2639,2798 2639,2717"/>
+	<TextEquiv>
+	<Unicode>St. Alexander s. Aschaffenburg, Speier.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="219,1148 219,1230 853,1230 853,1148"/>
+	<TextEquiv>
+	<Unicode>Albachten III, 131.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l90">
+	<Coords points="1483,2792 1483,2867 2221,2867 2221,2792"/>
+	<TextEquiv>
+	<Unicode>Alexanderwald V, 566.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l91">
+	<Coords points="1480,2866 1480,2939 2646,2939 2646,2866"/>
+	<TextEquiv>
+	<Unicode>Alexius von Freiberg VI, 67. herr</Unicode></TextEquiv></TextLine>
+	<TextLine id="l92">
+	<Coords points="1555,2935 1555,3007 2366,3007 2366,2935"/>
+	<TextEquiv>
+	<Unicode>A. von Hatstatt IV, 140.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l93">
+	<Coords points="1480,3003 1480,3080 2651,3080 2651,3003"/>
+	<TextEquiv>
+	<Unicode>Alf, Alffe II, 519. 529 f. 546. die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l94">
+	<Coords points="1550,3076 1550,3150 2394,3150 2394,3076"/>
+	<TextEquiv>
+	<Unicode>A. II, 385. 390. 406. 450.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l95">
+	<Coords points="1482,3146 1482,3221 1962,3221 1962,3146"/>
+	<TextEquiv>
+	<Unicode>Alfeld IV, 648.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l96">
+	<Coords points="1482,3221 1482,3298 2305,3298 2305,3221"/>
+	<TextEquiv>
+	<Unicode>Alfer berg, der II, 529 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l97">
+	<Coords points="1483,3294 1483,3367 2012,3367 2012,3294"/>
+	<TextEquiv>
+	<Unicode>Alferde IV, 661.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l98">
+	<Coords points="1483,3364 1483,3435 1976,3435 1976,3364"/>
+	<TextEquiv>
+	<Unicode>Alfinsee I, 514.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l99">
+	<Coords points="1482,3432 1482,3510 2530,3510 2530,3432"/>
+	<TextEquiv>
+	<Unicode>Alflen II, 385. 407 ff. VI, 593 f.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>3
+Alairpach, der III, 729.
+Albrecht: Konrad.
+Alcolzheim, der von IV, 159.
+Alapfen, Obern- IV, 496.
+Alart: Johann.
+Aldeck, die I, 627 f. 636.
+Alaſs Hart IV, 427.
+Aldecken: Tillinus in der.
+Alb, Alba s. Herrenalb.
+Aldendelre, die III, 428.
+Alb, die IV, 494, 496 f. V, 227.
+Aldendorf, Auldendorf I, 580 f. II,
+653. III, 321—24. Groſsen-A. I,631.
+Albach I, 800. der A. IV, 254. die
+A. II, 803. III, 535.
+Aldenhoven IV, 796 f.
+Albaching III, 667.
+Aldenrait, junker II, 727. 729.
+Albachten III, 131.
+Aldenstat III, 430. IV, 534.
+Alban. II, 23.
+Aldinggesesse III, 398,
+St. Alban s. Basel und Mainz.
+Alebrandus de Hethe, canonicus Os-
+Albe, Alf, die II, 376.
+nabrugensis III, 187.
+Albech, Albich IV, 624 f.
+Alef (Alof) von Voishoilre III, 22 A.
+Alber, der IV, 406. Kuno (Konrad) A.
+von Merfeld III, 145, A. von Ragen-
+Alberich domherr zu Verden VI, 735.
+rade 111, 19 f.
+Albernschlag, der IV, 584.
+Alefeld III, 269 ff.
+Albernschutze, das III, 887.
+Alentour IV, 243.
+Alenwinden IV, 406.
+Albers, Bremischer dienstmann III,
+219.
+Alerd, Bremischer dienstmann III,
+Albersweiler I, 767. VI, 414.
+219.
+Albis I, 30. uffem A. I, 62. das A,
+Alerode III, 428.
+gebirge IV, 323. 325.
+Alertze, die III, 729.
+Alesberg, der III, 390.
+Albisheim, Albsheim IV, 637 ff.
+Albisrieden IV, 295 n.
+Alett vgl. Adelheid.
+Alblein III, 658.
+Alewig graf von Sulze I, 371.
+Albrecht (Albert). Albrecht I. könig
+Alexander V. papst III, 450. A. Blin-
+HI, 481 n. A. bischof von Bam-
+kein I, 726. junker A. von Brau-
+bach II, 47 f. A. von Brunshorn,
+berg VI, 106 ff. 110. A. der Beie-
+ler V, 85 f. A. Bürgis I, 248. A,
+canonicus zu Leiden II, 512. 515.
+A. Richert IV, 28.
+von dem Busche III, 200. A. von
+St. Alexander s. Aschaffenburg, Speier.
+Eglofestein VI, 106 ff. A. schulmeister
+Alexanderwald V, 566.
+auf dem Frauenberge III, 388. A.
+Groſs, ritter VI, 106. A. Gufer V,
+Alexius von Freiberg VI, 67. herr
+255. graf A. von Habsburg IV,
+A. von Hatstatt IV, 140.
+Alf, Alffe II, 519. 529 f. 546. die
+258. A. Hippe, propst zu Wagen-
+A. II, 385. 390. 406. 450.
+hausen I, 288. A. von Kippenheim,
+Alfeld IV, 648.
+edelknecht I, 345. A. von Lamlin-
+gen V, 26. A. Lexstein III, 371.
+Alfer berg, der II, 529 f.
+A. von Lippespringe III, 83. graf
+Alferde IV, 661.
+A. von Limburg, domherr zu Straſs-
+Alfinsee I, 514.
+Alflen II, 385. 407 ff. VI, 593 f.
+burg I, 726. graf A. von Molbach
+Alftre: Gozwinus de.
+III, 75. junker A. von Neueneck I,
+387. herzog A. von Österreich V,
+Algäu VI, 294.
+223 f. A. Paulles III, 269. A. Pfalz-
+Algenrat VI, 747.
+graf b. Rh. und herzog in Baiern
+Algermissen, Groſs- und Klein- IV,
+VI, 202. A. zu Queichheim I, 769.
+696.
+Algesweiler IV. 516.
+A. schöffe zu Obern-Rade I, 520.
+A. Schelle III, 94 ff, 100. junker
+Algunt: Johann.
+A. Schenk von Landeks V, 163 f.
+Alhelm: Hennig, Konrad.
+Alhen ahe, die I, 429.
+A. von Schillingen VI, 476. A.
+Sighart I, 359. A. Store I, 701.
+Alhufs: Clewin (Nicolaus), Johann,
+Aliders III, 658.
+A. bischof von Straſsburg V, 426.
+Alienor de Chalon, äbtissin zu Re-
+A. de Teger III, 83. junker A. von
+Trubenbach III, 381—85, A. vogt
+miremont IV, 86.
+von Wadegassen II, 800 f. A. abt
+Alken, Alcken II, 456. 462 f. III,
+von Wettingen V, 106. A. von der
+811 f.
+Alket: Simon.
+Wiese (de Prato) V, 6.</Unicode></TextEquiv></TextRegion></Page></PcGts>

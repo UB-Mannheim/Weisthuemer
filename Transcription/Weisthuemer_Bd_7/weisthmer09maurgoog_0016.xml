@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-23T09:07:29</Created>
+	<LastChange>2020-03-24T00:24:40</LastChange></Metadata>
+	<Page imageFilename="weisthmer09maurgoog_0016.tif" imageWidth="3102" imageHeight="5034">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="2556,330 2634,330 2634,512 2638,512 2638,600 2632,600 2632,741 2629,741 2629,816 2529,816 2529,945 2635,945 2635,1174 2632,1174 2632,1303 2638,1303 2638,1377 2635,1377 2635,1529 2632,1529 2632,1729 2638,1729 2638,1803 2635,1803 2635,2522 2629,2522 2629,2667 2029,2667 2029,2803 2103,2803 2103,2941 2638,2941 2638,3019 2100,3019 2100,3158 2151,3158 2151,3229 2306,3229 2306,3296 2622,3296 2622,3374 2412,3374 2412,3519 2158,3519 2158,3661 2064,3661 2064,3790 2638,3790 2638,3874 2629,3874 2629,4141 2635,4141 2635,4229 2048,4229 2048,4361 2561,4361 2561,4448 2167,4448 2167,4512 2061,4512 2061,4587 2003,4587 2003,4654 1464,4654 1464,4590 1116,4590 1116,4654 274,4654 274,4512 203,4512 203,4370 270,4370 270,4229 193,4229 193,4145 196,4145 196,3945 193,3945 193,3732 190,3732 190,3583 196,3583 196,3445 190,3445 190,3151 193,3151 193,2938 267,2938 267,2732 196,2732 196,2658 261,2658 261,2522 190,2522 190,2161 193,2161 193,2087 196,2087 196,1945 264,1945 264,1670 190,1670 190,1590 196,1590 196,1441 200,1441 200,1303 196,1303 196,1087 200,1087 200,948 196,948 196,812 190,812 190,596 183,596 183,512 725,512 725,587 1467,587 1467,512 2556,512"/>
+	<TextLine id="l0">
+	<Coords points="183,512 183,596 725,596 725,512"/>
+	<TextEquiv>
+	<Unicode>Alwiler II, 175.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="190,587 190,667 1380,667 1380,587"/>
+	<TextEquiv>
+	<Unicode>Alzei I, 770, 798 ff. IV, 623. V, 629.632,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="196,1229 196,1303 767,1303 767,1229"/>
+	<TextEquiv>
+	<Unicode>Ambostel I, 256.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l100">
+	<Coords points="1454,3296 1454,3374 2622,3374 2622,3296"/>
+	<TextEquiv>
+	<Unicode>Angersbach III, 364 f. 369. 370 n.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l102">
+	<Coords points="1519,3370 1519,3448 2406,3448 2406,3370"/>
+	<TextEquiv>
+	<Unicode>Johann A. Wigand von A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l103">
+	<Coords points="1461,3441 1461,3519 2412,3519 2412,3441"/>
+	<TextEquiv>
+	<Unicode>Anhausen, kloster VI, 308 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l104">
+	<Coords points="1458,3512 1458,3587 2000,3587 2000,3512"/>
+	<TextEquiv>
+	<Unicode>Anhorn VI, 360.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l105">
+	<Coords points="1454,3583 1454,3661 2158,3661 2158,3583"/>
+	<TextEquiv>
+	<Unicode>Anjoutey s. Enschide.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l106">
+	<Coords points="1454,3654 1454,3729 2054,3729 2054,3654"/>
+	<TextEquiv>
+	<Unicode>Ankem III, 208 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l107">
+	<Coords points="1454,3722 1454,3800 2064,3800 2064,3722"/>
+	<TextEquiv>
+	<Unicode>Anlaghen VI, 725.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l109">
+	<Coords points="1458,3790 1458,3874 2638,3874 2638,3790"/>
+	<TextEquiv>
+	<Unicode>Anna, äbtissin zu Andlau I, 822 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="200,1303 200,1380 1383,1380 1383,1303"/>
+	<TextEquiv>
+	<Unicode>Amedeus bischof von Lausanne V,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l110">
+	<Coords points="1529,3864 1529,3941 2629,3941 2629,3864"/>
+	<TextEquiv>
+	<Unicode>A. von Hirschhorn I, 445. A. von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l111">
+	<Coords points="1519,3938 1519,4012 2629,4012 2629,3938"/>
+	<TextEquiv>
+	<Unicode>Küssenberg I, 171. 173. A. gräfin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l112">
+	<Coords points="1522,4009 1522,4087 2629,4087 2629,4009"/>
+	<TextEquiv>
+	<Unicode>zu Öttingen, äbtissin zu Kirchheim</Unicode></TextEquiv></TextLine>
+	<TextLine id="l113">
+	<Coords points="1532,4080 1532,4148 2629,4148 2629,4080"/>
+	<TextEquiv>
+	<Unicode>VI, 259. A. Widermen I, 136.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l114">
+	<Coords points="1529,4141 1529,4229 2635,4229 2635,4141"/>
+	<TextEquiv>
+	<Unicode>A. Widmerin V,98. — St. Annen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l115">
+	<Coords points="1529,4229 1529,4303 2012,4303 2012,4229"/>
+	<TextEquiv>
+	<Unicode>stock III, 350.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l116">
+	<Coords points="1458,4290 1458,4370 2048,4370 2048,4290"/>
+	<TextEquiv>
+	<Unicode>Annen: Heinrich.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l117">
+	<Coords points="1458,4361 1458,4448 2561,4448 2561,4361"/>
+	<TextEquiv>
+	<Unicode>Annwil I, 192 n. Walther von A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l118">
+	<Coords points="1464,4441 1464,4512 2167,4512 2167,4441"/>
+	<TextEquiv>
+	<Unicode>Anra fluviıus IV, 588.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l119">
+	<Coords points="1464,4503 1464,4587 2061,4587 2061,4503"/>
+	<TextEquiv>
+	<Unicode>Anrode III, 349 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="267,1377 267,1458 1383,1458 1383,1377"/>
+	<TextEquiv>
+	<Unicode>3. A. canonicus zu Lausanne V, 8.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l120">
+	<Coords points="1464,4580 1464,4654 2003,4654 2003,4580"/>
+	<TextEquiv>
+	<Unicode>Ansel: Nicolaus.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="196,1441 196,1522 790,1522 790,1441"/>
+	<TextEquiv>
+	<Unicode>Amel s. Ambleve.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="196,1519 196,1590 858,1590 858,1519"/>
+	<TextEquiv>
+	<Unicode>Amelbüren III, 181.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="190,1590 190,1670 1374,1670 1374,1590"/>
+	<TextEquiv>
+	<Unicode>Amelung von Varendorf, propst zu</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="270,1658 270,1735 1374,1735 1374,1658"/>
+	<TextEquiv>
+	<Unicode>Quackenbrück, domherr zu Osna-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="264,1729 264,1806 1377,1806 1377,1729"/>
+	<TextEquiv>
+	<Unicode>brück III, 108. 111. 115. Konrad</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="267,1809 267,1883 1374,1883 1374,1809"/>
+	<TextEquiv>
+	<Unicode>Hugo von Amelungen. Peter zum</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="264,1874 264,1954 1377,1954 1377,1874"/>
+	<TextEquiv>
+	<Unicode>Amlunge. Herman von Amelunken.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="196,654 196,732 748,732 748,654"/>
+	<TextEquiv>
+	<Unicode>Alzfeld III, 343.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="196,1945 196,2025 1032,2025 1032,1945"/>
+	<TextEquiv>
+	<Unicode>Amelungeshagen III, 608.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="196,2019 196,2100 870,2100 870,2019"/>
+	<TextEquiv>
+	<Unicode>Amerbacher: Georg.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="193,2087 193,2167 1151,2167 1151,2087"/>
+	<TextEquiv>
+	<Unicode>Ameschenbohel, der IV, 539.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="190,2161 190,2232 1096,2232 1096,2161"/>
+	<TextEquiv>
+	<Unicode>Amman: Konrad, Wilhelm.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="190,2229 190,2309 987,2309 987,2229"/>
+	<TextEquiv>
+	<Unicode>Ammelbach, die V, 633.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="190,2303 190,2377 893,2377 893,2303"/>
+	<TextEquiv>
+	<Unicode>Ammer, die III, 647.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="193,2377 193,2448 1051,2448 1051,2377"/>
+	<TextEquiv>
+	<Unicode>Ammerkenkampf VI, 736.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="190,2448 190,2522 1387,2522 1387,2448"/>
+	<TextEquiv>
+	<Unicode>Ammerzwiller, Armansviller IV,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="261,2516 261,2596 1380,2596 1380,2516"/>
+	<TextEquiv>
+	<Unicode>61 ff. V, 375. Konrad von Am-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="264,2593 264,2658 661,2658 661,2593"/>
+	<TextEquiv>
+	<Unicode>mersweiler.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="190,729 190,812 1383,812 1383,729"/>
+	<TextEquiv>
+	<Unicode>St. Amarin IV, 103. V, 383. kloster</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="196,2658 196,2732 1377,2732 1377,2658"/>
+	<TextEquiv>
+	<Unicode>Amorbach, kloster III, 560. VI,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="267,2729 267,2809 1374,2809 1374,2729"/>
+	<TextEquiv>
+	<Unicode>4—11. 19. 389, mönche: Dietrich</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="270,2796 270,2877 1377,2877 1377,2796"/>
+	<TextEquiv>
+	<Unicode>Hund, Dietrich von Kündtschig,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="267,2870 267,2945 1048,2945 1048,2870"/>
+	<TextEquiv>
+	<Unicode>Gotfried von der Müln.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="193,2938 193,3016 1129,3016 1129,2938"/>
+	<TextEquiv>
+	<Unicode>Am Ort: Nicolaus, Walther.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="193,3012 193,3093 1374,3093 1374,3012"/>
+	<TextEquiv>
+	<Unicode>Ampferach, Ober- und Nieder-A. III,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="270,3087 270,3154 480,3154 480,3087"/>
+	<TextEquiv>
+	<Unicode>615 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="190,3151 190,3235 783,3235 783,3151"/>
+	<TextEquiv>
+	<Unicode>Ampfing VI, 170.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="193,3232 193,3306 945,3306 945,3232"/>
+	<TextEquiv>
+	<Unicode>Amphersbach IV, 189.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="190,3303 190,3380 887,3380 887,3303"/>
+	<TextEquiv>
+	<Unicode>Amtenzell V, 168 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="274,800 274,877 596,877 596,800"/>
+	<TextEquiv>
+	<Unicode>IV. 41 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="190,3374 190,3445 1380,3445 1380,3374"/>
+	<TextEquiv>
+	<Unicode>Anastasius, prior zu Schonrein III,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="261,3445 261,3512 429,3512 429,3445"/>
+	<TextEquiv>
+	<Unicode>551.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="196,3509 196,3587 954,3587 954,3509"/>
+	<TextEquiv>
+	<Unicode>Anck, die alte II, 281.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="190,3583 190,3654 922,3654 922,3583"/>
+	<TextEquiv>
+	<Unicode>Ancost: Thilman van.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="190,3648 190,3732 716,3732 716,3648"/>
+	<TextEquiv>
+	<Unicode>Ancrons V, 15.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="193,3732 193,3793 738,3793 738,3732"/>
+	<TextEquiv>
+	<Unicode>Andela: Rudolf.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="200,3793 200,3874 1351,3874 1351,3793"/>
+	<TextEquiv>
+	<Unicode>Andelfingen I, 91. 99 ff. IV, 343 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="193,3870 193,3945 696,3945 696,3870"/>
+	<TextEquiv>
+	<Unicode>Anden II, 827.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="196,3941 196,4016 687,4016 687,3941"/>
+	<TextEquiv>
+	<Unicode>Andens V, 13,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="203,4012 203,4093 922,4093 922,4012"/>
+	<TextEquiv>
+	<Unicode>An der Linde: Peter.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="196,870 196,948 1051,948 1051,870"/>
+	<TextEquiv>
+	<Unicode>Amäspüchel, der III, 729.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="196,4083 196,4151 893,4151 893,4083"/>
+	<TextEquiv>
+	<Unicode>An der Matt: Jacob.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="193,4145 193,4229 1374,4229 1374,4145"/>
+	<TextEquiv>
+	<Unicode>Andernach I, 630. 828. 833. II, 214.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="2556,330 2556,413 2634,413 2634,330"/>
+	<TextEquiv>
+	<Unicode>5</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="270,4219 270,4293 1377,4293 1377,4219"/>
+	<TextEquiv>
+	<Unicode>226. 281. 394. 398. 489. 623 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="270,4287 270,4374 1251,4374 1251,4287"/>
+	<TextEquiv>
+	<Unicode>635. IV, 758. VI, 613. 648 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="203,4370 203,4432 983,4432 983,4370"/>
+	<TextEquiv>
+	<Unicode>Andersloe, das IV, 551.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l56">
+	<Coords points="203,4429 203,4512 1377,4512 1377,4429"/>
+	<TextEquiv>
+	<Unicode>Anderten III, 274—81. die A. horst</Unicode></TextEquiv></TextLine>
+	<TextLine id="l57">
+	<Coords points="274,4503 274,4590 1374,4590 1374,4503"/>
+	<TextEquiv>
+	<Unicode>III, 279. Dietrich, Volkmar, Franz,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l58">
+	<Coords points="274,4577 274,4654 1116,4654 1116,4577"/>
+	<TextEquiv>
+	<Unicode>Lulef und Martin von A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l59">
+	<Coords points="1467,512 1467,600 2638,600 2638,512"/>
+	<TextEquiv>
+	<Unicode>Andlau I, 691. gefürstete abtei (frauen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="200,948 200,1022 1203,1022 1203,948"/>
+	<TextEquiv>
+	<Unicode>Ambach, die II, 21. Bertolt A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l60">
+	<Coords points="1535,593 1535,670 2632,670 2632,593"/>
+	<TextEquiv>
+	<Unicode>kloster) des heil. Richard I, 675 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l61">
+	<Coords points="1529,661 1529,741 2632,741 2632,661"/>
+	<TextEquiv>
+	<Unicode>682. 726—729. 821 ff. IV, 53 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l62">
+	<Coords points="1525,732 1525,816 2629,816 2629,732"/>
+	<TextEquiv>
+	<Unicode>V, 398 ff. 413 f. äbtissin: Anna.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l63">
+	<Coords points="1525,809 1525,883 2529,883 2529,809"/>
+	<TextEquiv>
+	<Unicode>— Georg von A. Peter von A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l64">
+	<Coords points="1458,877 1458,951 2106,951 2106,877"/>
+	<TextEquiv>
+	<Unicode>Andolsheim V, 743.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l65">
+	<Coords points="1464,945 1464,1025 2635,1025 2635,945"/>
+	<TextEquiv>
+	<Unicode>Andreas (Andres, Endries, Enders,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l66">
+	<Coords points="1529,1022 1529,1096 2625,1096 2625,1022"/>
+	<TextEquiv>
+	<Unicode>Dres, Dries) von Becheln I, 596.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l67">
+	<Coords points="1525,1090 1525,1174 2635,1174 2635,1090"/>
+	<TextEquiv>
+	<Unicode>ritter A. von Bonstetten, genannt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l68">
+	<Coords points="1525,1161 1525,1241 2629,1241 2629,1161"/>
+	<TextEquiv>
+	<Unicode>Roll I, 23. A. Burg III, 825. A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l69">
+	<Coords points="1525,1229 1525,1309 2632,1309 2632,1229"/>
+	<TextEquiv>
+	<Unicode>von Eich, kelner III, 771. A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="200,1012 200,1096 948,1096 948,1012"/>
+	<TextEquiv>
+	<Unicode>Amberg VI, 106—111.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l70">
+	<Coords points="1525,1303 1525,1377 2638,1377 2638,1303"/>
+	<TextEquiv>
+	<Unicode>Facke I. 464. A. Feidelin V, 606.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l71">
+	<Coords points="1525,1374 1525,1451 2632,1451 2632,1374"/>
+	<TextEquiv>
+	<Unicode>A. von Hedickem VI, 30. A. Hell-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l72">
+	<Coords points="1525,1451 1525,1529 2635,1529 2635,1451"/>
+	<TextEquiv>
+	<Unicode>wagen VI, 111. A. Holzmeister</Unicode></TextEquiv></TextLine>
+	<TextLine id="l73">
+	<Coords points="1529,1516 1529,1593 2632,1593 2632,1516"/>
+	<TextEquiv>
+	<Unicode>IV, 486. A. Hötzel I, 398. A. Isen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l74">
+	<Coords points="1525,1587 1525,1667 2632,1667 2632,1587"/>
+	<TextEquiv>
+	<Unicode>draut III, 77. A. Kolb I, 450. A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l75">
+	<Coords points="1532,1658 1532,1741 2632,1741 2632,1658"/>
+	<TextEquiv>
+	<Unicode>Kuen VI, 58. A. Mergen III, 752.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l76">
+	<Coords points="1532,1729 1532,1803 2638,1803 2638,1729"/>
+	<TextEquiv>
+	<Unicode>A. Müller III, 894. A. von Redern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l77">
+	<Coords points="1529,1800 1529,1880 2635,1880 2635,1800"/>
+	<TextEquiv>
+	<Unicode>VI, 36. A. Reichards I, 572. V,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l78">
+	<Coords points="1525,1874 1525,1954 2635,1954 2635,1874"/>
+	<TextEquiv>
+	<Unicode>718. ritter A. vamme Roide VI,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l79">
+	<Coords points="1529,1948 1529,2016 2635,2016 2635,1948"/>
+	<TextEquiv>
+	<Unicode>709. A. Schneider III, 830. A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="196,1087 196,1167 1374,1167 1374,1087"/>
+	<TextEquiv>
+	<Unicode>Ambleve, Amblavia, Amel VI, 702.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l80">
+	<Coords points="1522,2012 1522,2090 2635,2090 2635,2012"/>
+	<TextEquiv>
+	<Unicode>Smitt V, 444. A. Wenges III, 585.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l81">
+	<Coords points="1525,2090 1525,2164 2629,2164 2629,2090"/>
+	<TextEquiv>
+	<Unicode>A. Wetzstein VI, 211. A. Willmann</Unicode></TextEquiv></TextLine>
+	<TextLine id="l83">
+	<Coords points="1519,2158 1519,2232 2635,2232 2635,2158"/>
+	<TextEquiv>
+	<Unicode>IV, 15. A. Ziesack IV, 434. — Hein-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l84">
+	<Coords points="1522,2232 1522,2300 2629,2300 2629,2232"/>
+	<TextEquiv>
+	<Unicode>rich Andres. Johann Andreas. Jo-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l85">
+	<Coords points="1519,2296 1519,2380 2635,2380 2635,2296"/>
+	<TextEquiv>
+	<Unicode>hann Andre. — meister Endriſs</Unicode></TextEquiv></TextLine>
+	<TextLine id="l86">
+	<Coords points="1522,2374 1522,2445 2196,2445 2196,2374"/>
+	<TextEquiv>
+	<Unicode>thurm s. Schöneken.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l87">
+	<Coords points="1458,2441 1458,2522 2635,2522 2635,2441"/>
+	<TextEquiv>
+	<Unicode>St. Andreas s. Köln, Neuenberg,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l88">
+	<Coords points="1532,2512 1532,2587 1793,2587 1793,2512"/>
+	<TextEquiv>
+	<Unicode>Worms.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l89">
+	<Coords points="1461,2583 1461,2667 2629,2667 2629,2583"/>
+	<TextEquiv>
+	<Unicode>Androain de Watonville, escuyer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="270,1158 270,1229 490,1229 490,1158"/>
+	<TextEquiv>
+	<Unicode>704 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l90">
+	<Coords points="1529,2654 1529,2732 1774,2732 1774,2654"/>
+	<TextEquiv>
+	<Unicode>IV, 85.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l91">
+	<Coords points="1464,2725 1464,2803 2029,2803 2029,2725"/>
+	<TextEquiv>
+	<Unicode>Andressen: Wolf.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l92">
+	<Coords points="1461,2803 1461,2883 2103,2883 2103,2803"/>
+	<TextEquiv>
+	<Unicode>Anesorge: Walther.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l93">
+	<Coords points="1458,2870 1458,2945 1993,2945 1993,2870"/>
+	<TextEquiv>
+	<Unicode>Anfurth V, 290.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l94">
+	<Coords points="1458,2941 1458,3019 2638,3019 2638,2941"/>
+	<TextEquiv>
+	<Unicode>Angächt III, 720 ff. der A. berg III,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l95">
+	<Coords points="1519,3012 1519,3083 1677,3083 1677,3012"/>
+	<TextEquiv>
+	<Unicode>721.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l96">
+	<Coords points="1458,3077 1458,3167 2100,3167 2100,3077"/>
+	<TextEquiv>
+	<Unicode>Angen, der V, 623.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l97">
+	<Coords points="1458,3158 1458,3232 2151,3232 2151,3158"/>
+	<TextEquiv>
+	<Unicode>Angelmodde III, 131.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l98">
+	<Coords points="1454,3229 1454,3303 2306,3303 2306,3229"/>
+	<TextEquiv>
+	<Unicode>Angermadort, das V, 207.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>5
+Alwiler II, 175.
+Andlau I, 691. gefürstete abtei (frauen-
+Alzei I, 770, 798 ff. IV, 623. V, 629.632,
+kloster) des heil. Richard I, 675 f.
+Alzfeld III, 343.
+682. 726—729. 821 ff. IV, 53 f.
+St. Amarin IV, 103. V, 383. kloster
+V, 398 ff. 413 f. äbtissin: Anna.
+IV. 41 f.
+— Georg von A. Peter von A.
+Amäspüchel, der III, 729.
+Andolsheim V, 743.
+Andreas (Andres, Endries, Enders,
+Ambach, die II, 21. Bertolt A.
+Amberg VI, 106—111.
+Dres, Dries) von Becheln I, 596.
+Ambleve, Amblavia, Amel VI, 702.
+ritter A. von Bonstetten, genannt
+704 f.
+Roll I, 23. A. Burg III, 825. A.
+Ambostel I, 256.
+von Eich, kelner III, 771. A.
+Amedeus bischof von Lausanne V,
+Facke I. 464. A. Feidelin V, 606.
+A. von Hedickem VI, 30. A. Hell-
+3. A. canonicus zu Lausanne V, 8.
+Amel s. Ambleve.
+wagen VI, 111. A. Holzmeister
+IV, 486. A. Hötzel I, 398. A. Isen-
+Amelbüren III, 181.
+draut III, 77. A. Kolb I, 450. A.
+Amelung von Varendorf, propst zu
+Quackenbrück, domherr zu Osna-
+Kuen VI, 58. A. Mergen III, 752.
+brück III, 108. 111. 115. Konrad
+A. Müller III, 894. A. von Redern
+VI, 36. A. Reichards I, 572. V,
+Hugo von Amelungen. Peter zum
+Amlunge. Herman von Amelunken.
+718. ritter A. vamme Roide VI,
+Amelungeshagen III, 608.
+709. A. Schneider III, 830. A.
+Smitt V, 444. A. Wenges III, 585.
+Amerbacher: Georg.
+Ameschenbohel, der IV, 539.
+A. Wetzstein VI, 211. A. Willmann
+IV, 15. A. Ziesack IV, 434. — Hein-
+Amman: Konrad, Wilhelm.
+Ammelbach, die V, 633.
+rich Andres. Johann Andreas. Jo-
+hann Andre. — meister Endriſs
+Ammer, die III, 647.
+thurm s. Schöneken.
+Ammerkenkampf VI, 736.
+St. Andreas s. Köln, Neuenberg,
+Ammerzwiller, Armansviller IV,
+Worms.
+61 ff. V, 375. Konrad von Am-
+Androain de Watonville, escuyer
+mersweiler.
+IV, 85.
+Amorbach, kloster III, 560. VI,
+Andressen: Wolf.
+4—11. 19. 389, mönche: Dietrich
+Hund, Dietrich von Kündtschig,
+Anesorge: Walther.
+Gotfried von der Müln.
+Anfurth V, 290.
+Am Ort: Nicolaus, Walther.
+Angächt III, 720 ff. der A. berg III,
+Ampferach, Ober- und Nieder-A. III,
+721.
+Angen, der V, 623.
+615 f.
+Ampfing VI, 170.
+Angelmodde III, 131.
+Angermadort, das V, 207.
+Amphersbach IV, 189.
+Angersbach III, 364 f. 369. 370 n.
+Amtenzell V, 168 ff.
+Johann A. Wigand von A.
+Anastasius, prior zu Schonrein III,
+Anhausen, kloster VI, 308 ff.
+551.
+Anck, die alte II, 281.
+Anhorn VI, 360.
+Ancost: Thilman van.
+Anjoutey s. Enschide.
+Ancrons V, 15.
+Ankem III, 208 f.
+Anlaghen VI, 725.
+Andela: Rudolf.
+Anna, äbtissin zu Andlau I, 822 ff.
+Andelfingen I, 91. 99 ff. IV, 343 f.
+A. von Hirschhorn I, 445. A. von
+Anden II, 827.
+Küssenberg I, 171. 173. A. gräfin
+Andens V, 13,
+zu Öttingen, äbtissin zu Kirchheim
+An der Linde: Peter.
+VI, 259. A. Widermen I, 136.
+An der Matt: Jacob.
+A. Widmerin V,98. — St. Annen-
+Andernach I, 630. 828. 833. II, 214.
+226. 281. 394. 398. 489. 623 ff.
+stock III, 350.
+635. IV, 758. VI, 613. 648 ff.
+Annen: Heinrich.
+Annwil I, 192 n. Walther von A.
+Andersloe, das IV, 551.
+Anderten III, 274—81. die A. horst
+Anra fluviıus IV, 588.
+III, 279. Dietrich, Volkmar, Franz,
+Anrode III, 349 f.
+Lulef und Martin von A.
+Ansel: Nicolaus.</Unicode></TextEquiv></TextRegion></Page></PcGts>

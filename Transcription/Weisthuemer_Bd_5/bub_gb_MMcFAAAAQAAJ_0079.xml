@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-22T17:05:20</Created>
+	<LastChange>2020-03-23T19:18:08</LastChange></Metadata>
+	<Page imageFilename="bub_gb_MMcFAAAAQAAJ_0079.png" imageWidth="2500" imageHeight="4100">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="778,200 1269,200 1269,350 1940,350 1940,204 2033,204 2033,350 2038,350 2038,438 2035,438 2035,645 1314,645 1314,778 1750,778 1750,909 2038,909 2038,992 2035,992 2035,1119 2038,1119 2038,1259 2040,1259 2040,1545 2038,1545 2038,1621 2035,1621 2035,1747 2042,1747 2042,1895 2038,1895 2038,1964 2030,1964 2030,2030 2026,2030 2026,2164 2035,2164 2035,2233 2038,2233 2038,2300 2040,2300 2040,2378 2033,2378 2033,2509 2040,2509 2040,2592 2033,2592 2033,2659 388,2659 388,2792 1838,2792 1838,2919 2042,2919 2042,2988 2045,2988 2045,3197 2047,3197 2047,3559 2045,3559 2045,3680 2047,3680 2047,3766 2045,3766 2045,3835 97,3835 97,3766 88,3766 88,3692 85,3692 85,3614 88,3614 88,3542 90,3542 90,3280 83,3280 83,3211 80,3211 80,3064 83,3064 83,2988 180,2988 180,2919 230,2919 230,2723 85,2723 85,2442 90,2442 90,2233 92,2233 92,2164 100,2164 100,2030 95,2030 95,1964 92,1964 92,1895 90,1895 90,1819 88,1819 88,1752 85,1752 85,1680 83,1680 83,1609 85,1609 85,1485 83,1485 83,1400 85,1400 85,1266 83,1266 83,985 180,985 180,909 342,909 342,716 85,716 85,350 778,350"/>
+	<TextLine id="l0">
+	<Coords points="778,200 778,283 1269,283 1269,200"/>
+	<TextEquiv>
+	<Unicode>KOELLIKON.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="1940,204 1940,283 2033,283 2033,204"/>
+	<TextEquiv>
+	<Unicode>67</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="83,985 83,1064 2033,1064 2033,985"/>
+	<TextEquiv>
+	<Unicode>schirmen und sol si bi allen iren rechten und guoten gewon-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="83,1050 83,1130 2035,1130 2035,1050"/>
+	<TextEquiv>
+	<Unicode>heiten lassen beliben, bi dem eide so er dem gotshus darum</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="83,1119 83,1200 2038,1200 2038,1119"/>
+	<TextEquiv>
+	<Unicode>getan hat. §. 49. Wäre, daz ein vogt den gotshuslüten übertät</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="83,1190 83,1266 2033,1266 2033,1190"/>
+	<TextEquiv>
+	<Unicode>oder widerrechts täte, dasselb sond die gotshuslüt an einen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="85,1259 85,1338 2040,1338 2040,1259"/>
+	<TextEquiv>
+	<Unicode>probst bringen; und wäre, daz der vogt fürderlieh davon nit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="85,1330 85,1407 2040,1407 2040,1330"/>
+	<TextEquiv>
+	<Unicode>lassen wollt, oder ein probst in darzuo nit wisen moechte, so</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="83,1400 83,1485 2038,1485 2038,1400"/>
+	<TextEquiv>
+	<Unicode>mag der probst die gotshuslüt nemen und mag mit inen gen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="85,1471 85,1545 2040,1545 2040,1471"/>
+	<TextEquiv>
+	<Unicode>Arou, gen Zofingen oder gen Lenzburg in die stätt einer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="85,1545 85,1621 2038,1621 2038,1545"/>
+	<TextEquiv>
+	<Unicode>varen, und mügent da die gotshuslüt mit des probstes urloub,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="83,1609 83,1680 2035,1680 2035,1609"/>
+	<TextEquiv>
+	<Unicode>wissen und willen burger werden, und sond da über nacht</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="85,350 85,438 2038,438 2038,350"/>
+	<TextEquiv>
+	<Unicode>die meierämtiges guot hand, die sond einem meier umb sin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="85,1676 85,1752 2035,1752 2035,1676"/>
+	<TextEquiv>
+	<Unicode>beliben, und sond denn hinwider heimfaren, und sond darum</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="88,1747 88,1819 2042,1819 2042,1747"/>
+	<TextEquiv>
+	<Unicode>einen vogt nit fürchten. §. 50. Der gotshusman sol aber redlich</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="90,1816 90,1895 2042,1895 2042,1816"/>
+	<TextEquiv>
+	<Unicode>ernstlich sach uszichen, die er ze worten bringen künne, von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="92,1888 92,1964 2038,1964 2038,1888"/>
+	<TextEquiv>
+	<Unicode>waz sach und schulden wegen er daz burgrecht an sich nemen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="95,1954 95,2030 2030,2030 2030,1954"/>
+	<TextEquiv>
+	<Unicode>soll. 51. Wäre aber, daz also beschäch, daz der gotshuslüten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="100,2023 100,2102 2026,2102 2026,2023"/>
+	<TextEquiv>
+	<Unicode>ieman burger werden wölt, das sol er ân des probstes urlob,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="100,2095 100,2164 2026,2164 2026,2095"/>
+	<TextEquiv>
+	<Unicode>wissen und willen nit tuon, und dasselb burgrecht sol denn</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="92,2164 92,2242 2035,2242 2035,2164"/>
+	<TextEquiv>
+	<Unicode>dem gotshus von sant Gallen an allen iren güetern, rechtung,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="90,2233 90,2307 2038,2307 2038,2233"/>
+	<TextEquiv>
+	<Unicode>an ehaftinen, friheiten und guoten gewonheiten unschedlich</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="85,428 85,507 2035,507 2035,428"/>
+	<TextEquiv>
+	<Unicode>zins und rechtung, als hievor geschriben ist, an dem achtenden</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="90,2300 90,2378 2040,2378 2040,2300"/>
+	<TextEquiv>
+	<Unicode>sin, und sol die gotshuslüt das burgrecht nit schirmen. §. 52. Were</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="90,2371 90,2450 2033,2450 2033,2371"/>
+	<TextEquiv>
+	<Unicode>ouch, daz in dem twing ze Kölliken vor gericht ein urteil</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="85,2442 85,2519 2033,2519 2033,2442"/>
+	<TextEquiv>
+	<Unicode>stöszig wurd, dieselben urteil mögent und sond die lüt von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="88,2509 88,2592 2040,2592 2040,2509"/>
+	<TextEquiv>
+	<Unicode>Köllikon gen Rorbach ziehen in den kelnhof, wôn die höf</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="85,2580 85,2659 2033,2659 2033,2580"/>
+	<TextEquiv>
+	<Unicode>ze Kölliken und ze Rorbach einander genosz sind und gliche</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="85,2650 85,2723 388,2723 388,2650"/>
+	<TextEquiv>
+	<Unicode>recht hand.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="230,2792 230,2869 1838,2869 1838,2792"/>
+	<TextEquiv>
+	<Unicode>Dis ist von den wälden und hölzeren ze Kölliken.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="180,2919 180,3000 2042,3000 2042,2919"/>
+	<TextEquiv>
+	<Unicode>§. 53. Die wäld und die hölzer, die von alter har nit ver-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="83,2988 83,3071 2045,3071 2045,2988"/>
+	<TextEquiv>
+	<Unicode>houwen oder nit undergangen oder mit marksteinen usge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="80,3064 80,3138 2042,3138 2042,3064"/>
+	<TextEquiv>
+	<Unicode>zeichnet und gezogen sint, daz anders nieman verdenkt noch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="85,497 85,580 2033,580 2033,497"/>
+	<TextEquiv>
+	<Unicode>tag nach sant Andrestag sin zins und rechtung gewërt han;</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="80,3133 80,3211 2045,3211 2045,3133"/>
+	<TextEquiv>
+	<Unicode>gehört hat, dieselben wälder und hölzer heiszent gemeinwerk.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="83,3197 83,3280 2047,3280 2047,3197"/>
+	<TextEquiv>
+	<Unicode>§. 54. Uszer disen hölzeren und wälden, die also gemeinwerk</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="92,3266 92,3352 2045,3352 2045,3266"/>
+	<TextEquiv>
+	<Unicode>sint, so sont die gotshuslüt und die huober holz hôwen ze</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="90,3333 90,3421 2047,3421 2047,3333"/>
+	<TextEquiv>
+	<Unicode>brennen, ze zünen, ze zimberen, hüser und spicher ze machen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="90,3411 90,3492 2045,3492 2045,3411"/>
+	<TextEquiv>
+	<Unicode>stäg und weg, wunn und weid ze machen und ze besseren,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="90,3476 90,3559 2047,3559 2047,3476"/>
+	<TextEquiv>
+	<Unicode>als vil und digk si das bedürfent und nottürftig ist. §. 55. Wer,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="88,3542 88,3626 2045,3626 2045,3542"/>
+	<TextEquiv>
+	<Unicode>daz die gotshuslüt und huober in demselben gemeinwerk solich</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="85,3614 85,3692 2045,3692 2045,3614"/>
+	<TextEquiv>
+	<Unicode>hölzer nit fundent noch haettend, die ine in diesen dingen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="88,3680 88,3766 2047,3766 2047,3680"/>
+	<TextEquiv>
+	<Unicode>füeglich werent, so sond si einen vogt bitten, daz er inen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="85,569 85,645 2035,645 2035,569"/>
+	<TextEquiv>
+	<Unicode>wer aber daran sumig were und daz nit täte, der sol einem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="97,3757 97,3835 2045,3835 2045,3757"/>
+	<TextEquiv>
+	<Unicode>gunne soliche hölzer in den hochwälden ze howen, der al denn</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="85,638 85,716 1314,716 1314,638"/>
+	<TextEquiv>
+	<Unicode>meier 3 β ϑ ze besserung vervallen sin.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="342,778 342,873 1750,873 1750,778"/>
+	<TextEquiv>
+	<Unicode>Dis sint der gotshuslüten recht ze Kölliken.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="180,909 180,992 2038,992 2038,909"/>
+	<TextEquiv>
+	<Unicode>§. 48. Des ersten sol ein vogt die gotshuslüt getrüwlich</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>KOELLIKON.
+67
+die meierämtiges guot hand, die sond einem meier umb sin
+zins und rechtung, als hievor geschriben ist, an dem achtenden
+tag nach sant Andrestag sin zins und rechtung gewërt han;
+wer aber daran sumig were und daz nit täte, der sol einem
+meier 3 β ϑ ze besserung vervallen sin.
+Dis sint der gotshuslüten recht ze Kölliken.
+§. 48. Des ersten sol ein vogt die gotshuslüt getrüwlich
+schirmen und sol si bi allen iren rechten und guoten gewon-
+heiten lassen beliben, bi dem eide so er dem gotshus darum
+getan hat. §. 49. Wäre, daz ein vogt den gotshuslüten übertät
+oder widerrechts täte, dasselb sond die gotshuslüt an einen
+probst bringen; und wäre, daz der vogt fürderlieh davon nit
+lassen wollt, oder ein probst in darzuo nit wisen moechte, so
+mag der probst die gotshuslüt nemen und mag mit inen gen
+Arou, gen Zofingen oder gen Lenzburg in die stätt einer
+varen, und mügent da die gotshuslüt mit des probstes urloub,
+wissen und willen burger werden, und sond da über nacht
+beliben, und sond denn hinwider heimfaren, und sond darum
+einen vogt nit fürchten. §. 50. Der gotshusman sol aber redlich
+ernstlich sach uszichen, die er ze worten bringen künne, von
+waz sach und schulden wegen er daz burgrecht an sich nemen
+soll. 51. Wäre aber, daz also beschäch, daz der gotshuslüten
+ieman burger werden wölt, das sol er ân des probstes urlob,
+wissen und willen nit tuon, und dasselb burgrecht sol denn
+dem gotshus von sant Gallen an allen iren güetern, rechtung,
+an ehaftinen, friheiten und guoten gewonheiten unschedlich
+sin, und sol die gotshuslüt das burgrecht nit schirmen. §. 52. Were
+ouch, daz in dem twing ze Kölliken vor gericht ein urteil
+stöszig wurd, dieselben urteil mögent und sond die lüt von
+Köllikon gen Rorbach ziehen in den kelnhof, wôn die höf
+ze Kölliken und ze Rorbach einander genosz sind und gliche
+recht hand.
+Dis ist von den wälden und hölzeren ze Kölliken.
+§. 53. Die wäld und die hölzer, die von alter har nit ver-
+houwen oder nit undergangen oder mit marksteinen usge-
+zeichnet und gezogen sint, daz anders nieman verdenkt noch
+gehört hat, dieselben wälder und hölzer heiszent gemeinwerk.
+§. 54. Uszer disen hölzeren und wälden, die also gemeinwerk
+sint, so sont die gotshuslüt und die huober holz hôwen ze
+brennen, ze zünen, ze zimberen, hüser und spicher ze machen,
+stäg und weg, wunn und weid ze machen und ze besseren,
+als vil und digk si das bedürfent und nottürftig ist. §. 55. Wer,
+daz die gotshuslüt und huober in demselben gemeinwerk solich
+hölzer nit fundent noch haettend, die ine in diesen dingen
+füeglich werent, so sond si einen vogt bitten, daz er inen
+gunne soliche hölzer in den hochwälden ze howen, der al denn</Unicode></TextEquiv></TextRegion></Page></PcGts>

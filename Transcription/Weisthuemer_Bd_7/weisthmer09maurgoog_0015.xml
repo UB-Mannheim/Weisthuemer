@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-23T09:24:47</Created>
+	<LastChange>2020-03-23T23:47:49</LastChange></Metadata>
+	<Page imageFilename="weisthmer09maurgoog_0015.tif" imageWidth="3102" imageHeight="5034">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="468,292 536,292 536,478 1356,478 1356,553 1524,553 1524,624 1724,624 1724,621 1792,621 1792,473 2895,473 2895,563 2451,563 2451,695 2546,695 2546,765 2787,765 2787,839 2890,839 2890,917 2753,917 2753,985 2592,985 2592,1060 2439,1060 2439,1192 2892,1192 2892,1273 2539,1273 2539,1341 2431,1341 2431,1412 2324,1412 2324,1482 2304,1482 2304,1621 2768,1621 2768,1700 2500,1700 2500,1839 2782,1839 2782,1909 2897,1909 2897,1987 2890,1987 2890,2056 2558,2056 2558,2192 2500,2192 2500,2331 2587,2331 2587,2412 2365,2412 2365,2543 2880,2543 2880,2624 2770,2624 2770,2765 2500,2765 2500,2970 2890,2970 2890,3048 2463,3048 2463,3187 2885,3187 2885,3265 2746,3265 2746,3402 2895,3402 2895,3480 2892,3480 2892,3621 2326,3621 2326,3760 2556,3760 2556,3839 2414,3839 2414,3973 2885,3973 2885,4043 2887,4043 2887,4117 2560,4117 2560,4185 2463,4185 2463,4260 2265,4260 2265,4402 2502,4402 2502,4539 2553,4539 2553,4631 1714,4631 1714,4621 463,4621 463,4543 468,4543 468,4475 470,4475 470,4124 468,4124 468,3897 470,3897 470,3831 473,3831 473,3763 475,3763 475,3626 470,3626 470,3404 468,3404 468,3334 470,3334 470,3195 539,3195 539,3046 541,3046 541,2912 473,2912 473,2841 468,2841 468,2624 470,2624 470,2485 468,2485 468,2400 470,2400 470,2339 473,2339 473,2192 470,2192 470,1987 468,1987 468,1907 475,1907 475,1773 473,1773 473,1546 475,1546 475,1414 470,1414 470,1334 475,1334 475,1200 473,1200 473,839 475,839 475,707 473,707 473,563 470,563 470,382 468,382"/>
+	<TextLine id="l0">
+	<Coords points="468,292 468,382 536,382 536,292"/>
+	<TextEquiv>
+	<Unicode>4</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="470,478 470,563 1356,563 1356,478"/>
+	<TextEquiv>
+	<Unicode>Alle, la boisne de IV, 259.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="548,1051 548,1124 821,1124 821,1051"/>
+	<TextEquiv>
+	<Unicode>VI, 637.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l100">
+	<Coords points="1785,3263 1785,3334 2746,3334 2746,3263"/>
+	<TextEquiv>
+	<Unicode>burggraf II, 230. Matthias A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l101">
+	<Coords points="1721,3334 1721,3407 2512,3407 2512,3334"/>
+	<TextEquiv>
+	<Unicode>Altnau III, 740. V, 741.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l102">
+	<Coords points="1719,3402 1719,3480 2895,3480 2895,3402"/>
+	<TextEquiv>
+	<Unicode>Altorf (vgl. Altdorf) VI, 97. kloster</Unicode></TextEquiv></TextLine>
+	<TextLine id="l103">
+	<Coords points="1787,3480 1787,3551 2892,3551 2892,3480"/>
+	<TextEquiv>
+	<Unicode>A. (vgl. Weingarten) I, 684 ff. 695</Unicode></TextEquiv></TextLine>
+	<TextLine id="l104">
+	<Coords points="1787,3551 1787,3621 2892,3621 2892,3551"/>
+	<TextEquiv>
+	<Unicode>f. 714 ff. Münch-A, I, 11 ff. Ni-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l105">
+	<Coords points="1787,3619 1787,3685 2109,3685 2109,3619"/>
+	<TextEquiv>
+	<Unicode>colaus A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l106">
+	<Coords points="1719,3685 1719,3768 2326,3768 2326,3685"/>
+	<TextEquiv>
+	<Unicode>Altpurthal V, 358.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l107">
+	<Coords points="1721,3760 1721,3839 2556,3839 2556,3760"/>
+	<TextEquiv>
+	<Unicode>Altripp. Aldrippe V, 611.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l108">
+	<Coords points="1719,3834 1719,3902 2321,3902 2321,3834"/>
+	<TextEquiv>
+	<Unicode>Altschofen V, 141.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l109">
+	<Coords points="1719,3902 1719,3980 2414,3980 2414,3902"/>
+	<TextEquiv>
+	<Unicode>Altstein, der IV, 510.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="473,1124 473,1200 1368,1200 1368,1124"/>
+	<TextEquiv>
+	<Unicode>Aller, die III, 231. IV, 698.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l110">
+	<Coords points="1719,3973 1719,4048 2885,4048 2885,3973"/>
+	<TextEquiv>
+	<Unicode>Altstetten, Altenstetten I, 192 n. IV,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l111">
+	<Coords points="1792,4043 1792,4117 2887,4117 2887,4043"/>
+	<TextEquiv>
+	<Unicode>297 ff. 326. V, 204 f. VI, 330. 353.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l112">
+	<Coords points="1790,4117 1790,4185 2560,4185 2560,4117"/>
+	<TextEquiv>
+	<Unicode>356. Nieder-A. IV, 297.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l113">
+	<Coords points="1719,4182 1719,4260 2463,4260 2463,4182"/>
+	<TextEquiv>
+	<Unicode>Altz, die VI, 164. 167.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l114">
+	<Coords points="1717,4258 1717,4331 2265,4331 2265,4258"/>
+	<TextEquiv>
+	<Unicode>Altzenwil I, 181.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l115">
+	<Coords points="1714,4329 1714,4404 2182,4404 2182,4329"/>
+	<TextEquiv>
+	<Unicode>Altzna I, 102.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l116">
+	<Coords points="1714,4402 1714,4470 2502,4470 2502,4402"/>
+	<TextEquiv>
+	<Unicode>Altzweiler III, 756. 762,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l117">
+	<Coords points="1717,4468 1717,4543 2287,4543 2287,4468"/>
+	<TextEquiv>
+	<Unicode>Alvede: Heinrich.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l118">
+	<Coords points="1714,4539 1714,4631 2553,4631 2553,4539"/>
+	<TextEquiv>
+	<Unicode>Alvorges: Cord (Konrad).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="475,1200 475,1278 1639,1278 1639,1200"/>
+	<TextEquiv>
+	<Unicode>Allerbrock (Allerbruch), der III, 274.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="543,1270 543,1336 746,1336 746,1270"/>
+	<TextEquiv>
+	<Unicode>276 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="470,1334 470,1414 1639,1414 1639,1334"/>
+	<TextEquiv>
+	<Unicode>Allerheim (Allerhin, Alrheim, Aler-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="543,1412 543,1492 1421,1492 1421,1412"/>
+	<TextEquiv>
+	<Unicode>heim) VI, 220. 224 ff. 240.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="475,1482 475,1548 1041,1548 1041,1482"/>
+	<TextEquiv>
+	<Unicode>Allewiler V, 457.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="473,1546 473,1626 1080,1626 1080,1546"/>
+	<TextEquiv>
+	<Unicode>Allikon s. Ellikon.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="475,1624 475,1700 870,1700 870,1624"/>
+	<TextEquiv>
+	<Unicode>Allot I, 214.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="473,1697 473,1773 1051,1773 1051,1697"/>
+	<TextEquiv>
+	<Unicode>Alls, die III, 700.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="475,553 475,634 1524,634 1524,553"/>
+	<TextEquiv>
+	<Unicode>Allemagne, bailliage de IV, 173.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="475,1765 475,1846 1636,1846 1636,1765"/>
+	<TextEquiv>
+	<Unicode>Allspach, frauenkloster St. Claren-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="541,1846 541,1912 1056,1912 1056,1846"/>
+	<TextEquiv>
+	<Unicode>ordens IV, 130.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="468,1907 468,1987 1104,1987 1104,1907"/>
+	<TextEquiv>
+	<Unicode>Allzens vgl. Allenz.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="470,1968 470,2063 1036,2063 1036,1968"/>
+	<TextEquiv>
+	<Unicode>Älmann: Hennig.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="473,2053 473,2124 1112,2124 1112,2053"/>
+	<TextEquiv>
+	<Unicode>Alme, die III, 87 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="470,2121 470,2192 1285,2192 1285,2121"/>
+	<TextEquiv>
+	<Unicode>Almend: Konrad ab der.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="473,2190 473,2268 1146,2268 1146,2190"/>
+	<TextEquiv>
+	<Unicode>Almersbach IV, 758.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="473,2265 473,2343 1348,2343 1348,2265"/>
+	<TextEquiv>
+	<Unicode>Almsheim V, 614. VI, 411.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="470,2339 470,2404 873,2404 873,2339"/>
+	<TextEquiv>
+	<Unicode>Alof s. Alef.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="468,2400 468,2485 990,2485 990,2400"/>
+	<TextEquiv>
+	<Unicode>Alpach III, 350.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="473,624 473,707 1634,707 1634,624"/>
+	<TextEquiv>
+	<Unicode>Allendorf (vgl. Aldendorf) I, 609 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="470,2480 470,2556 1234,2556 1234,2480"/>
+	<TextEquiv>
+	<Unicode>Alpen: Gumprecht von.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="470,2558 470,2624 1080,2624 1080,2558"/>
+	<TextEquiv>
+	<Unicode>Alpen, die II, 750.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="468,2624 468,2702 1251,2702 1251,2624"/>
+	<TextEquiv>
+	<Unicode>Alpenprick: Elbert van.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="470,2697 470,2768 1221,2768 1221,2697"/>
+	<TextEquiv>
+	<Unicode>Alphem: Heinrich von.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="468,2768 468,2841 1046,2841 1046,2768"/>
+	<TextEquiv>
+	<Unicode>Alphen III, 97 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="473,2836 473,2912 1634,2912 1634,2836"/>
+	<TextEquiv>
+	<Unicode>Alpirsbach (Alpersbach), Benedicti-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="548,2909 548,2985 1629,2985 1629,2909"/>
+	<TextEquiv>
+	<Unicode>nerkloster I, 370 f. 372 ff. 392.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="541,2978 541,3051 1636,3051 1636,2978"/>
+	<TextEquiv>
+	<Unicode>394 f. VI, 323. äbte: Berthold,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="539,3046 539,3129 1636,3129 1636,3046"/>
+	<TextEquiv>
+	<Unicode>Heinrich, Hugo. ökonom: Johann</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="546,695 546,768 1029,768 1029,695"/>
+	<TextEquiv>
+	<Unicode>Johann von A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="541,3121 541,3200 1300,3200 1300,3121"/>
+	<TextEquiv>
+	<Unicode>Vogt. mönch: Walther.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="470,3195 470,3268 1036,3268 1036,3195"/>
+	<TextEquiv>
+	<Unicode>Alpnach IV, 368.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="473,3268 473,3336 1075,3336 1075,3268"/>
+	<TextEquiv>
+	<Unicode>Alrestede III, 617.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="468,3334 468,3404 1085,3404 1085,3334"/>
+	<TextEquiv>
+	<Unicode>Alriswiler IV, 127.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="470,3402 470,3475 1009,3475 1009,3402"/>
+	<TextEquiv>
+	<Unicode>Alrud: Heinrich.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="470,3465 470,3553 1031,3553 1031,3465"/>
+	<TextEquiv>
+	<Unicode>Alsawer IV, 281.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="470,3548 470,3626 1156,3626 1156,3548"/>
+	<TextEquiv>
+	<Unicode>Alsburn, der II, 523.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="475,3619 475,3685 1021,3685 1021,3619"/>
+	<TextEquiv>
+	<Unicode>Alsens s. Allenz.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="475,3682 475,3763 1585,3763 1585,3682"/>
+	<TextEquiv>
+	<Unicode>Alsenz, die V, 689. 648. 656. 667.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="473,3763 473,3836 1178,3836 1178,3763"/>
+	<TextEquiv>
+	<Unicode>Alsenzborn V, 615 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="475,765 475,843 1060,843 1060,765"/>
+	<TextEquiv>
+	<Unicode>Allenfeld III, 768.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="470,3831 470,3907 1182,3907 1182,3831"/>
+	<TextEquiv>
+	<Unicode>Alsenzbruck I, 789 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="468,3897 468,3978 1046,3978 1046,3897"/>
+	<TextEquiv>
+	<Unicode>Alsfelt III, 357 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="468,3975 468,4051 1521,4051 1521,3975"/>
+	<TextEquiv>
+	<Unicode>Alspach I, 835. IV, 219. V, 360.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="468,4051 468,4124 1039,4124 1039,4051"/>
+	<TextEquiv>
+	<Unicode>Alta, die V, 427.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="475,4117 475,4195 1163,4195 1163,4117"/>
+	<TextEquiv>
+	<Unicode>Altache, die IV, 386.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="470,4187 470,4263 1307,4263 1307,4187"/>
+	<TextEquiv>
+	<Unicode>Altare, der (fels) IV, 459.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l56">
+	<Coords points="473,4258 473,4339 1397,4339 1397,4258"/>
+	<TextEquiv>
+	<Unicode>Altdorf IV, 547. vgl. Altorf.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l57">
+	<Coords points="470,4331 470,4404 1224,4404 1224,4331"/>
+	<TextEquiv>
+	<Unicode>Alte bach, die IV, 765.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l58">
+	<Coords points="470,4402 470,4485 951,4485 951,4402"/>
+	<TextEquiv>
+	<Unicode>Altegge V, 58.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l59">
+	<Coords points="468,4475 468,4551 1212,4551 1212,4475"/>
+	<TextEquiv>
+	<Unicode>Altehorst, die III, 279.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="473,839 473,921 1512,921 1512,839"/>
+	<TextEquiv>
+	<Unicode>Allensbach, Alaspach IV, 481 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l60">
+	<Coords points="463,4543 463,4621 1631,4621 1631,4543"/>
+	<TextEquiv>
+	<Unicode>Alten, Alden, Ahlden III, 274—</Unicode></TextEquiv></TextLine>
+	<TextLine id="l61">
+	<Coords points="1792,473 1792,563 2895,563 2895,473"/>
+	<TextEquiv>
+	<Unicode>283. Johann, Konrad und Tile</Unicode></TextEquiv></TextLine>
+	<TextLine id="l62">
+	<Coords points="1792,553 1792,624 2026,624 2026,553"/>
+	<TextEquiv>
+	<Unicode>von A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l63">
+	<Coords points="1724,621 1724,700 2451,700 2451,621"/>
+	<TextEquiv>
+	<Unicode>Altena, schloſs III, 72.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l64">
+	<Coords points="1726,695 1726,768 2546,768 2546,695"/>
+	<TextEquiv>
+	<Unicode>Altenahr, Aldenar s. Ahr.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l65">
+	<Coords points="1724,765 1724,843 2787,843 2787,765"/>
+	<TextEquiv>
+	<Unicode>Altenbach, die V, 581. Hengin A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l66">
+	<Coords points="1726,839 1726,917 2890,917 2890,839"/>
+	<TextEquiv>
+	<Unicode>Altenberg I, 665. kanton A. IV, 251.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l67">
+	<Coords points="1792,909 1792,985 2753,985 2753,909"/>
+	<TextEquiv>
+	<Unicode>der A. IV, 70. V, 391 f. 394.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l68">
+	<Coords points="1724,982 1724,1060 2592,1060 2592,982"/>
+	<TextEquiv>
+	<Unicode>Altenbochum: Philipp von.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l69">
+	<Coords points="1726,1056 1726,1126 2439,1126 2439,1056"/>
+	<TextEquiv>
+	<Unicode>Altenbruch IV, 703 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l70">
+	<Coords points="1724,1121 1724,1197 2400,1197 2400,1121"/>
+	<TextEquiv>
+	<Unicode>Altenbulach VI, 320.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l71">
+	<Coords points="1721,1192 1721,1273 2892,1273 2892,1192"/>
+	<TextEquiv>
+	<Unicode>Altenburg V, 101. VI, 304. die von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l72">
+	<Coords points="1797,1265 1797,1341 2539,1341 2539,1265"/>
+	<TextEquiv>
+	<Unicode>A. III, 332. Johann A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l73">
+	<Coords points="1726,1334 1726,1412 2431,1412 2431,1334"/>
+	<TextEquiv>
+	<Unicode>Altenchappel VI, 116.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l74">
+	<Coords points="1724,1409 1724,1482 2324,1482 2324,1409"/>
+	<TextEquiv>
+	<Unicode>Altendorf III, 196.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l75">
+	<Coords points="1726,1480 1726,1556 2239,1556 2239,1480"/>
+	<TextEquiv>
+	<Unicode>Altenfluo I, 36.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l76">
+	<Coords points="1724,1551 1724,1624 2304,1624 2304,1551"/>
+	<TextEquiv>
+	<Unicode>Altenheim I, 467,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l77">
+	<Coords points="1724,1621 1724,1700 2768,1700 2768,1621"/>
+	<TextEquiv>
+	<Unicode>Altenhof, der III, 715. Ernst A.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l78">
+	<Coords points="1729,1692 1729,1770 2463,1770 2463,1692"/>
+	<TextEquiv>
+	<Unicode>Altenmarkt VI, 163 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l79">
+	<Coords points="1726,1760 1726,1843 2500,1843 2500,1760"/>
+	<TextEquiv>
+	<Unicode>Altenmatte, zur IV, 24.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="475,914 475,980 1256,980 1256,914"/>
+	<TextEquiv>
+	<Unicode>Allenstadt s. Altenstadt.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l80">
+	<Coords points="1734,1839 1734,1917 2782,1917 2782,1839"/>
+	<TextEquiv>
+	<Unicode>Altenmunster, kloster VI, 183 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l81">
+	<Coords points="1731,1909 1731,1987 2897,1987 2897,1909"/>
+	<TextEquiv>
+	<Unicode>Altenstadt, Aldenstat, Allenstat III,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l82">
+	<Coords points="1797,1978 1797,2056 2890,2056 2890,1978"/>
+	<TextEquiv>
+	<Unicode>453 ff. 457. Klein-A. III, 455. 457.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l83">
+	<Coords points="1729,2048 1729,2129 2412,2129 2412,2048"/>
+	<TextEquiv>
+	<Unicode>Altensteig VI, 321 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l84">
+	<Coords points="1724,2124 1724,2192 2558,2192 2558,2124"/>
+	<TextEquiv>
+	<Unicode>Altenstetten s. Altstetten.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l85">
+	<Coords points="1724,2190 1724,2268 2500,2268 2500,2190"/>
+	<TextEquiv>
+	<Unicode>Altenwald, der III, 281.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l86">
+	<Coords points="1724,2265 1724,2339 2368,2339 2368,2265"/>
+	<TextEquiv>
+	<Unicode>Altenwalde VI, 114.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l87">
+	<Coords points="1724,2331 1724,2412 2587,2412 2587,2331"/>
+	<TextEquiv>
+	<Unicode>Alterschwil I, 199. V, 187.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l88">
+	<Coords points="1726,2404 1726,2475 2365,2475 2365,2404"/>
+	<TextEquiv>
+	<Unicode>Alterswiler VI, 338.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l89">
+	<Coords points="1721,2470 1721,2546 2195,2546 2195,2470"/>
+	<TextEquiv>
+	<Unicode>Altfell VI, 38.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="473,980 473,1063 1641,1063 1641,980"/>
+	<TextEquiv>
+	<Unicode>Allenz (Alsens, Allzens) II, 479. 483.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l90">
+	<Coords points="1721,2543 1721,2624 2880,2624 2880,2543"/>
+	<TextEquiv>
+	<Unicode>Altheim I, 412. 467. IV, 534. 537.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l91">
+	<Coords points="1790,2619 1790,2690 2658,2690 2658,2619"/>
+	<TextEquiv>
+	<Unicode>V, 684. 691 ff. VI, 122 ff.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l92">
+	<Coords points="1719,2690 1719,2765 2770,2765 2770,2690"/>
+	<TextEquiv>
+	<Unicode>Althertheim, Niddern- VI, 77 f.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l93">
+	<Coords points="1714,2763 1714,2839 2385,2839 2385,2763"/>
+	<TextEquiv>
+	<Unicode>Altingen IV, 523 n.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l94">
+	<Coords points="1721,2831 1721,2904 2500,2904 2500,2831"/>
+	<TextEquiv>
+	<Unicode>Altishofen IV, 382. 385.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l95">
+	<Coords points="1721,2902 1721,2975 2387,2975 2387,2902"/>
+	<TextEquiv>
+	<Unicode>Altiſshusen VI, 338.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l96">
+	<Coords points="1719,2970 1719,3048 2890,3048 2890,2970"/>
+	<TextEquiv>
+	<Unicode>Altkirch IV, 19 f. 24. 39 f. 47. 115.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l97">
+	<Coords points="1790,3046 1790,3124 2463,3124 2463,3046"/>
+	<TextEquiv>
+	<Unicode>amt A. IV, 15 f. 18.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l98">
+	<Coords points="1714,3114 1714,3190 2207,3190 2207,3114"/>
+	<TextEquiv>
+	<Unicode>Altloch I, 493.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l99">
+	<Coords points="1714,3187 1714,3265 2885,3265 2885,3187"/>
+	<TextEquiv>
+	<Unicode>Altman Bettendorfer, junker und</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>4
+283. Johann, Konrad und Tile
+Alle, la boisne de IV, 259.
+Allemagne, bailliage de IV, 173.
+von A.
+Altena, schloſs III, 72.
+Allendorf (vgl. Aldendorf) I, 609 f.
+Johann von A.
+Altenahr, Aldenar s. Ahr.
+Allenfeld III, 768.
+Altenbach, die V, 581. Hengin A.
+Allensbach, Alaspach IV, 481 f.
+Altenberg I, 665. kanton A. IV, 251.
+der A. IV, 70. V, 391 f. 394.
+Allenstadt s. Altenstadt.
+Allenz (Alsens, Allzens) II, 479. 483.
+Altenbochum: Philipp von.
+VI, 637.
+Altenbruch IV, 703 ff.
+Altenbulach VI, 320.
+Aller, die III, 231. IV, 698.
+Altenburg V, 101. VI, 304. die von
+Allerbrock (Allerbruch), der III, 274.
+A. III, 332. Johann A.
+276 f.
+Allerheim (Allerhin, Alrheim, Aler-
+Altenchappel VI, 116.
+Altendorf III, 196.
+heim) VI, 220. 224 ff. 240.
+Altenfluo I, 36.
+Allewiler V, 457.
+Allikon s. Ellikon.
+Altenheim I, 467,
+Altenhof, der III, 715. Ernst A.
+Allot I, 214.
+Altenmarkt VI, 163 ff.
+Alls, die III, 700.
+Altenmatte, zur IV, 24.
+Allspach, frauenkloster St. Claren-
+Altenmunster, kloster VI, 183 f.
+ordens IV, 130.
+Allzens vgl. Allenz.
+Altenstadt, Aldenstat, Allenstat III,
+Älmann: Hennig.
+453 ff. 457. Klein-A. III, 455. 457.
+Altensteig VI, 321 f.
+Alme, die III, 87 f.
+Almend: Konrad ab der.
+Altenstetten s. Altstetten.
+Almersbach IV, 758.
+Altenwald, der III, 281.
+Almsheim V, 614. VI, 411.
+Altenwalde VI, 114.
+Alterschwil I, 199. V, 187.
+Alof s. Alef.
+Alpach III, 350.
+Alterswiler VI, 338.
+Altfell VI, 38.
+Alpen: Gumprecht von.
+Altheim I, 412. 467. IV, 534. 537.
+Alpen, die II, 750.
+V, 684. 691 ff. VI, 122 ff.
+Alpenprick: Elbert van.
+Althertheim, Niddern- VI, 77 f.
+Alphem: Heinrich von.
+Altingen IV, 523 n.
+Alphen III, 97 ff.
+Altishofen IV, 382. 385.
+Alpirsbach (Alpersbach), Benedicti-
+Altiſshusen VI, 338.
+nerkloster I, 370 f. 372 ff. 392.
+Altkirch IV, 19 f. 24. 39 f. 47. 115.
+394 f. VI, 323. äbte: Berthold,
+Heinrich, Hugo. ökonom: Johann
+amt A. IV, 15 f. 18.
+Altloch I, 493.
+Vogt. mönch: Walther.
+Altman Bettendorfer, junker und
+Alpnach IV, 368.
+burggraf II, 230. Matthias A.
+Alrestede III, 617.
+Alriswiler IV, 127.
+Altnau III, 740. V, 741.
+Alrud: Heinrich.
+Altorf (vgl. Altdorf) VI, 97. kloster
+Alsawer IV, 281.
+A. (vgl. Weingarten) I, 684 ff. 695
+Alsburn, der II, 523.
+f. 714 ff. Münch-A, I, 11 ff. Ni-
+Alsens s. Allenz.
+colaus A.
+Alsenz, die V, 689. 648. 656. 667.
+Altpurthal V, 358.
+Altripp. Aldrippe V, 611.
+Alsenzborn V, 615 ff.
+Alsenzbruck I, 789 ff.
+Altschofen V, 141.
+Alsfelt III, 357 f.
+Altstein, der IV, 510.
+Altstetten, Altenstetten I, 192 n. IV,
+Alspach I, 835. IV, 219. V, 360.
+297 ff. 326. V, 204 f. VI, 330. 353.
+Alta, die V, 427.
+Altache, die IV, 386.
+356. Nieder-A. IV, 297.
+Altz, die VI, 164. 167.
+Altare, der (fels) IV, 459.
+Altdorf IV, 547. vgl. Altorf.
+Altzenwil I, 181.
+Altzna I, 102.
+Alte bach, die IV, 765.
+Altegge V, 58.
+Altzweiler III, 756. 762,
+Alvede: Heinrich.
+Altehorst, die III, 279.
+Alvorges: Cord (Konrad).
+Alten, Alden, Ahlden III, 274—</Unicode></TextEquiv></TextRegion></Page></PcGts>

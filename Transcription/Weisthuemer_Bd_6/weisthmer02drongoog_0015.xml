@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-22T20:17:02</Created>
+	<LastChange>2020-03-23T20:28:17</LastChange></Metadata>
+	<Page imageFilename="weisthmer02drongoog_0015.tif" imageWidth="2984" imageHeight="4920">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="991,239 2000,239 2000,443 2617,443 2617,252 2700,252 2700,343 2691,343 2691,534 2695,534 2695,626 2690,626 2690,1206 2693,1206 2693,1460 2696,1460 2696,1550 2693,1550 2693,1723 2690,1723 2690,2890 2693,2890 2693,2986 2690,2986 2690,3153 2686,3153 2686,3393 2690,3393 2690,3480 2693,3480 2693,3576 2690,3576 2690,4070 2696,4070 2696,4166 2686,4166 2686,4670 283,4670 283,4583 276,4583 276,4490 280,4490 280,4243 283,4243 283,3996 280,3996 280,3826 276,3826 276,3736 280,3736 280,3490 276,3490 276,3393 280,3393 280,3070 273,3070 273,2976 276,2976 276,2890 280,2890 280,2803 283,2803 283,2643 280,2643 280,2396 276,2396 276,2133 273,2133 273,2066 270,2066 270,1710 276,1710 276,1470 273,1470 273,1303 270,1303 270,1206 273,1206 273,786 276,786 276,626 273,626 273,443 991,443"/>
+	<TextLine id="l0">
+	<Coords points="991,239 991,356 2000,356 2000,239"/>
+	<TextEquiv>
+	<Unicode>WENIGEN - UMSTADT.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="2617,252 2617,343 2700,343 2700,252"/>
+	<TextEquiv>
+	<Unicode>3</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="276,1030 276,1130 2690,1130 2690,1030"/>
+	<TextEquiv>
+	<Unicode>der zweithail der gemein. §. 4. Zum vierten, so einer den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="273,1123 273,1220 2690,1220 2690,1123"/>
+	<TextEquiv>
+	<Unicode>andern an dem rechten und im dorfsgericht anklagt und der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="270,1206 270,1303 2693,1303 2693,1206"/>
+	<TextEquiv>
+	<Unicode>beklagt dem kleger antwort gibt, so ist er volgends schuldig</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="276,1286 276,1386 2690,1386 2690,1286"/>
+	<TextEquiv>
+	<Unicode>ime des rechten an obbenantem gericht auszuwarten, und wel-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="273,1370 273,1470 2693,1470 2693,1370"/>
+	<TextEquiv>
+	<Unicode>cher verlustig, soll dem gewinnenden theil meines g. h. schulthais</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="276,1460 276,1550 2696,1550 2696,1460"/>
+	<TextEquiv>
+	<Unicode>zu volziehung des urtheil beholfen sein, damit ime sein schad</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="276,1540 276,1636 2690,1636 2690,1540"/>
+	<TextEquiv>
+	<Unicode>gewendt vergolten und wider geben werd, und wenn der schult-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="276,1630 276,1723 2693,1723 2693,1630"/>
+	<TextEquiv>
+	<Unicode>has zu schwach ist, soll seine gnaden oder seiner gnaden</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="270,1710 270,1806 2690,1806 2690,1710"/>
+	<TextEquiv>
+	<Unicode>amptleut ime helfen. §. 5. Zum fünften, wann einer zu Ost-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="273,1796 273,1886 2690,1886 2690,1796"/>
+	<TextEquiv>
+	<Unicode>heim buszig wurd an dem zentgericht für 10 Π, so wurd er</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="273,443 273,543 2691,543 2691,443"/>
+	<TextEquiv>
+	<Unicode>gerichts zu setzen und zu entsetzen mit ehrn. §. 2. Zum an-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="270,1883 270,1980 2690,1980 2690,1883"/>
+	<TextEquiv>
+	<Unicode>m. g. h. auch buszig für 33 β und ein helbling [der helbling</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="270,1966 270,2066 2690,2066 2690,1966"/>
+	<TextEquiv>
+	<Unicode>ist ein alte gerechtigkeit] und dem gericht 8 β, der drittheil</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="273,2046 273,2133 2690,2133 2690,2046"/>
+	<TextEquiv>
+	<Unicode>des schulthaiszen. und was an dem landgericht zu Ostheim</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="276,2133 276,2226 2690,2226 2690,2133"/>
+	<TextEquiv>
+	<Unicode>gerügt wurd, das soll zu Wenigen Umbstadt auch gerucht</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="280,2223 280,2313 2690,2313 2690,2223"/>
+	<TextEquiv>
+	<Unicode>werden, als so einer den andern ein dieb oder boswicht schilt,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="276,2300 276,2396 2690,2396 2690,2300"/>
+	<TextEquiv>
+	<Unicode>welche den zentschepfen sind. §. 6. Zum sechsten hat meines g.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="280,2383 280,2480 2690,2480 2690,2383"/>
+	<TextEquiv>
+	<Unicode>h. schulthais die steinsetzer im feld und dorf [ausgenommen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="283,2470 283,2566 2690,2566 2690,2470"/>
+	<TextEquiv>
+	<Unicode>die landstraszen] und in der ganzen markung‚ es sien ecker</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="280,2556 280,2643 2690,2643 2690,2556"/>
+	<TextEquiv>
+	<Unicode>wiesen weingarten, und uf alle guter zu Wenigen Umstadt zu</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="273,534 273,626 2695,626 2695,534"/>
+	<TextEquiv>
+	<Unicode>dern weisen sie daselbsten gericht drei des jars, wann man</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="283,2640 283,2733 2690,2733 2690,2640"/>
+	<TextEquiv>
+	<Unicode>furen, dieselbe zu setzen. was für buszen deshalben gefallen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="283,2723 283,2816 2690,2816 2690,2723"/>
+	<TextEquiv>
+	<Unicode>und sunst strafbar wurd, das hat m. g. h. schulthais zu strafen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="280,2803 280,2896 2690,2896 2690,2803"/>
+	<TextEquiv>
+	<Unicode>die buszen sind des schulthessen, ist sein lon, und des gerichts.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="276,2890 276,2986 2693,2986 2693,2890"/>
+	<TextEquiv>
+	<Unicode>§. 7. Zum siebenden soll m. g. h. schulthais alle kauf umb die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="273,2976 273,3070 2690,3070 2690,2976"/>
+	<TextEquiv>
+	<Unicode>guter zu Wenigen Umbstadt weren. §. 8. Zum achten, wan</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="280,3060 280,3153 2690,3153 2690,3060"/>
+	<TextEquiv>
+	<Unicode>einer in graben oder aber stein verzacken und buszig wurd,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="280,3146 280,3236 2686,3236 2686,3146"/>
+	<TextEquiv>
+	<Unicode>dieselben buszen hat das gericht den zweithail und der schult-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="280,3223 280,3326 2686,3326 2686,3223"/>
+	<TextEquiv>
+	<Unicode>hais den 3 thail. §. 9. Zum neunten, so die weld zu Wenigen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="280,3310 280,3400 2683,3400 2683,3310"/>
+	<TextEquiv>
+	<Unicode>Umbstadt besichtigt werden und das holz nit verbaut wurd,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="276,3393 276,3490 2690,3490 2690,3393"/>
+	<TextEquiv>
+	<Unicode>hat sie ein schulthais zu strafen, ist die straf des schulthaiszen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="280,613 280,710 2690,710 2690,613"/>
+	<TextEquiv>
+	<Unicode>dero bedarf, uf der gemein und nie meines g. h. kosten, werden</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="283,3480 283,3576 2693,3576 2693,3480"/>
+	<TextEquiv>
+	<Unicode>und der gemein. §. 10. Zum zehenden weisen sie, das alle</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="280,3570 280,3663 2690,3663 2690,3570"/>
+	<TextEquiv>
+	<Unicode>rederecker, so zu Wenigen Umbstadt ligen und mit dem pflug</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="280,3650 280,3743 2690,3743 2690,3650"/>
+	<TextEquiv>
+	<Unicode>gebauet werden, auch wann neugereut gemacht, die vorhin nıt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="276,3736 276,3826 2690,3826 2690,3736"/>
+	<TextEquiv>
+	<Unicode>ecker gewesen, dieselben sind m. g. h.; so sie aber wieder zu</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="280,3816 280,3910 2690,3910 2690,3816"/>
+	<TextEquiv>
+	<Unicode>holz und zu hecken werden, sollen sie wieder einer gemein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="280,3900 280,3996 2690,3996 2690,3900"/>
+	<TextEquiv>
+	<Unicode>sein. §. 11. Zum eilften weisen sie m. g. h. den dehem zu</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="290,3983 290,4080 2690,4080 2690,3983"/>
+	<TextEquiv>
+	<Unicode>Wenigen Umbstadt und Mospach. §. 12. Zum 12. soll mei-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="283,4070 283,4166 2696,4166 2696,4070"/>
+	<TextEquiv>
+	<Unicode>nes g. h. schulthais die gultbrief und anders, so sie gemacht</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="283,4156 283,4246 2686,4246 2686,4156"/>
+	<TextEquiv>
+	<Unicode>werden, versiglen. §. 13. Zum 13. weisen sie m. g. h. alle</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="280,4243 280,4336 2686,4336 2686,4243"/>
+	<TextEquiv>
+	<Unicode>gerechtigkeit uf den welden in Wenigen Umbstatter markung.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="276,700 276,796 2690,796 2690,700"/>
+	<TextEquiv>
+	<Unicode>aber gemeiniglich gehalten das erst uf dinstag nach Walburgis,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="280,4323 280,4416 2683,4416 2683,4323"/>
+	<TextEquiv>
+	<Unicode>§. 14. Zum 14. weisen sie dem müller 12 huner, 1 hanen, 1</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="283,4410 283,4496 2686,4496 2686,4410"/>
+	<TextEquiv>
+	<Unicode>kue an ein seul, 2 seu und 1 esel zu halten, und ein sieb do</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="276,4490 276,4583 2686,4583 2686,4490"/>
+	<TextEquiv>
+	<Unicode>kein roden durchfelt, nichts dan staub; und wan er der stuck</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="283,4576 283,4670 2686,4670 2686,4576"/>
+	<TextEquiv>
+	<Unicode>eins uberfart und etwas darüber helt, mag in der schulthais</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="273,786 273,876 2690,876 2690,786"/>
+	<TextEquiv>
+	<Unicode>das ander uf dinstag nach Galli, das drit uf dinstag nach dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="276,863 276,963 2690,963 2690,863"/>
+	<TextEquiv>
+	<Unicode>achtzehnsten ei. mens. §. 3. Zum dritten, die buszen so an</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="273,950 273,1043 2690,1043 2690,950"/>
+	<TextEquiv>
+	<Unicode>dem gericht gefallen, ist der dritthail des schulthaiszen und</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>WENIGEN - UMSTADT.
+3
+gerichts zu setzen und zu entsetzen mit ehrn. §. 2. Zum an-
+dern weisen sie daselbsten gericht drei des jars, wann man
+dero bedarf, uf der gemein und nie meines g. h. kosten, werden
+aber gemeiniglich gehalten das erst uf dinstag nach Walburgis,
+das ander uf dinstag nach Galli, das drit uf dinstag nach dem
+achtzehnsten ei. mens. §. 3. Zum dritten, die buszen so an
+dem gericht gefallen, ist der dritthail des schulthaiszen und
+der zweithail der gemein. §. 4. Zum vierten, so einer den
+andern an dem rechten und im dorfsgericht anklagt und der
+beklagt dem kleger antwort gibt, so ist er volgends schuldig
+ime des rechten an obbenantem gericht auszuwarten, und wel-
+cher verlustig, soll dem gewinnenden theil meines g. h. schulthais
+zu volziehung des urtheil beholfen sein, damit ime sein schad
+gewendt vergolten und wider geben werd, und wenn der schult-
+has zu schwach ist, soll seine gnaden oder seiner gnaden
+amptleut ime helfen. §. 5. Zum fünften, wann einer zu Ost-
+heim buszig wurd an dem zentgericht für 10 Π, so wurd er
+m. g. h. auch buszig für 33 β und ein helbling [der helbling
+ist ein alte gerechtigkeit] und dem gericht 8 β, der drittheil
+des schulthaiszen. und was an dem landgericht zu Ostheim
+gerügt wurd, das soll zu Wenigen Umbstadt auch gerucht
+werden, als so einer den andern ein dieb oder boswicht schilt,
+welche den zentschepfen sind. §. 6. Zum sechsten hat meines g.
+h. schulthais die steinsetzer im feld und dorf [ausgenommen
+die landstraszen] und in der ganzen markung‚ es sien ecker
+wiesen weingarten, und uf alle guter zu Wenigen Umstadt zu
+furen, dieselbe zu setzen. was für buszen deshalben gefallen
+und sunst strafbar wurd, das hat m. g. h. schulthais zu strafen,
+die buszen sind des schulthessen, ist sein lon, und des gerichts.
+§. 7. Zum siebenden soll m. g. h. schulthais alle kauf umb die
+guter zu Wenigen Umbstadt weren. §. 8. Zum achten, wan
+einer in graben oder aber stein verzacken und buszig wurd,
+dieselben buszen hat das gericht den zweithail und der schult-
+hais den 3 thail. §. 9. Zum neunten, so die weld zu Wenigen
+Umbstadt besichtigt werden und das holz nit verbaut wurd,
+hat sie ein schulthais zu strafen, ist die straf des schulthaiszen
+und der gemein. §. 10. Zum zehenden weisen sie, das alle
+rederecker, so zu Wenigen Umbstadt ligen und mit dem pflug
+gebauet werden, auch wann neugereut gemacht, die vorhin nıt
+ecker gewesen, dieselben sind m. g. h.; so sie aber wieder zu
+holz und zu hecken werden, sollen sie wieder einer gemein
+sein. §. 11. Zum eilften weisen sie m. g. h. den dehem zu
+Wenigen Umbstadt und Mospach. §. 12. Zum 12. soll mei-
+nes g. h. schulthais die gultbrief und anders, so sie gemacht
+werden, versiglen. §. 13. Zum 13. weisen sie m. g. h. alle
+gerechtigkeit uf den welden in Wenigen Umbstatter markung.
+§. 14. Zum 14. weisen sie dem müller 12 huner, 1 hanen, 1
+kue an ein seul, 2 seu und 1 esel zu halten, und ein sieb do
+kein roden durchfelt, nichts dan staub; und wan er der stuck
+eins uberfart und etwas darüber helt, mag in der schulthais</Unicode></TextEquiv></TextRegion></Page></PcGts>

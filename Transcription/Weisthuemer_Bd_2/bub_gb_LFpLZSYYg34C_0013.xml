@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator></Creator>
-	<Created>2020-03-14T19:21:27</Created>
-	<LastChange>2020-03-20T15:55:51</LastChange></Metadata>
+	<Created>2020-03-14T17:21:27</Created>
+	<LastChange>2020-03-24T00:23:38</LastChange></Metadata>
 	<Page imageFilename="bub_gb_LFpLZSYYg34C_0013.png" imageWidth="1530" imageHeight="2500">
 	<TextRegion id="r0" type="paragraph">
 	<Coords points="575,122 887,122 887,209 1272,209 1272,125 1306,125 1306,170 1305,170 1305,298 1306,298 1306,420 1312,420 1312,463 1309,463 1309,586 1310,586 1310,671 1313,671 1313,920 1314,920 1314,960 1313,960 1313,1079 1314,1079 1314,1122 1317,1122 1317,1244 1318,1244 1318,1285 1314,1285 1314,1450 1317,1450 1317,1574 1318,1574 1318,1701 1320,1701 1320,1744 1318,1744 1318,1785 1317,1785 1317,1909 1316,1909 1316,2029 1318,2029 1318,2072 1320,2072 1320,2114 1318,2114 1318,2240 1014,2240 1014,2320 945,2320 945,2240 763,2240 763,2275 174,2275 174,2195 170,2195 170,2154 168,2154 168,2113 171,2113 171,1991 170,1991 170,1663 167,1663 167,1371 166,1371 166,1331 167,1331 167,1081 163,1081 163,921 162,921 162,878 158,878 158,835 159,835 159,709 163,709 163,548 162,548 162,504 160,504 160,383 159,383 159,339 158,339 158,260 156,260 156,209 575,209"/>
@@ -102,11 +102,11 @@ des gut han wir auch gewonnen.
 	<TextLine id="l17">
 	<Coords points="160,795 160,839 1313,839 1313,795"/>
 	<TextEquiv>
-	<Unicode>gewappent iiii D geben zu dem dage vnd zu der nacht, vor iren</Unicode></TextEquiv></TextLine>
+	<Unicode>gewappent iiii ϑ geben zu dem dage vnd zu der nacht, vor iren</Unicode></TextEquiv></TextLine>
 	<TextLine id="l18">
 	<Coords points="158,835 158,878 1313,878 1313,835"/>
 	<TextEquiv>
-	<Unicode>cost, vnd dem zu fusse ii D, vnd sol iglicher nach siner macht</Unicode></TextEquiv></TextLine>
+	<Unicode>cost, vnd dem zu fusse ii ϑ, vnd sol iglicher nach siner macht</Unicode></TextEquiv></TextLine>
 	<TextLine id="l19">
 	<Coords points="162,878 162,921 598,921 598,878"/>
 	<TextEquiv>
@@ -198,7 +198,7 @@ des gut han wir auch gewonnen.
 	<TextLine id="l39">
 	<Coords points="170,1701 170,1744 1320,1744 1320,1701"/>
 	<TextEquiv>
-	<Unicode>vns zu besseronge schuldig xxx D von yeder vertte, ob er mag</Unicode></TextEquiv></TextLine>
+	<Unicode>vns zu besseronge schuldig xxx ϑ von yeder vertte, ob er mag</Unicode></TextEquiv></TextLine>
 	<TextLine id="l4">
 	<Coords points="158,298 158,339 1306,339 1306,298"/>
 	<TextEquiv>
@@ -214,7 +214,7 @@ des gut han wir auch gewonnen.
 	<TextLine id="l42">
 	<Coords points="170,1822 170,1864 1047,1864 1047,1822"/>
 	<TextEquiv>
-	<Unicode>korne vnd broit, vnd bessert auch darzu xxx D.</Unicode></TextEquiv></TextLine>
+	<Unicode>korne vnd broit, vnd bessert auch darzu xxx ϑ.</Unicode></TextEquiv></TextLine>
 	<TextLine id="l43">
 	<Coords points="254,1863 254,1909 1317,1909 1317,1863"/>
 	<TextEquiv>
@@ -222,7 +222,7 @@ des gut han wir auch gewonnen.
 	<TextLine id="l44">
 	<Coords points="171,1906 171,1950 1316,1950 1316,1906"/>
 	<TextEquiv>
-	<Unicode>schuldig xxx D dem meiger vnd den scheffen sesse; vnd burgen</Unicode></TextEquiv></TextLine>
+	<Unicode>schuldig xxx ϑ dem meiger vnd den scheffen sesse; vnd burgen</Unicode></TextEquiv></TextLine>
 	<TextLine id="l45">
 	<Coords points="170,1951 170,1991 1316,1991 1316,1951"/>
 	<TextEquiv>
@@ -266,7 +266,7 @@ des gut han wir auch gewonnen.
 	<TextLine id="l7">
 	<Coords points="162,383 162,422 1147,422 1147,383"/>
 	<TextEquiv>
-	<Unicode>er das gehbot sumede, der ist vns zu besseronge XXX D.</Unicode></TextEquiv></TextLine>
+	<Unicode>er das gehbot sumede, der ist vns zu besseronge xxx ϑ.</Unicode></TextEquiv></TextLine>
 	<TextLine id="l8">
 	<Coords points="245,420 245,463 1312,463 1312,420"/>
 	<TextEquiv>

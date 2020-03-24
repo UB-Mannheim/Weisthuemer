@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-22T18:03:58</Created>
+	<LastChange>2020-03-23T20:30:22</LastChange></Metadata>
+	<Page imageFilename="weisthmer02drongoog_0013.tif" imageWidth="2888" imageHeight="4912">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="l4">
+	<Coords points="145,1306 145,1412 2564,1412 2564,1306"/>
+	<TextEquiv>
+	<Unicode>ich ietzt dinstags nach Galli dem gericht und gemein fürge-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="148,1396 148,1490 2561,1490 2561,1396"/>
+	<TextEquiv>
+	<Unicode>halten, die gestehen ine einmütiglich, das er also von alten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="151,1483 151,1577 2561,1577 2561,1483"/>
+	<TextEquiv>
+	<Unicode>von iren eltern und vorfahren gewesen seile, wie sie in noch</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="151,1561 151,1654 1567,1654 1567,1561"/>
+	<TextEquiv>
+	<Unicode>kräftig weisen und erkennen. 1547.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="151,1738 151,1829 2567,1829 2567,1738"/>
+	<TextEquiv>
+	<Unicode>meinem gnedigen herren grave Micheln zue Wertheim für ein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="148,1819 148,1912 2564,1912 2564,1819"/>
+	<TextEquiv>
+	<Unicode>voigt und gerichtsherrn uber das dorf Wersau und die ganze</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="151,1906 151,1996 2570,1996 2570,1906"/>
+	<TextEquiv>
+	<Unicode>mark, veld und wäld, ein gericht daselbst zue setzen und ent-</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="416,206 2277,206 2277,316 1622,316 1622,1080 2522,1080 2522,1222 2564,1222 2564,1990 2567,1990 2567,2151 2570,2151 2570,2325 2574,2325 2574,2493 2583,2493 2583,3912 2587,3912 2587,4109 2593,4109 2593,4187 2596,4187 2596,4470 2600,4470 2600,4564 2209,4564 2209,4725 2145,4725 2145,4564 1074,4564 1074,4632 496,4632 496,4716 245,4716 245,4632 170,4632 170,3887 164,3887 164,3429 158,3429 158,2754 154,2754 154,1990 322,1990 322,1325 319,1325 319,1190 177,1190 177,1080 1077,1080 1077,316 416,316"/>
+	<TextLine id="l0">
+	<Coords points="416,206 416,316 2277,316 2277,206"/>
+	<TextEquiv>
+	<Unicode>ZWISCHEN NECKAR, MAIN UND RHEIN.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="1077,887 1077,1006 1622,1006 1622,887"/>
+	<TextEquiv>
+	<Unicode>WERSAU. ¹)</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="154,1990 154,2083 2567,2083 2567,1990"/>
+	<TextEquiv>
+	<Unicode>setzen, mit ehren, mit allen geboten, verboten, auszerhalb Art (?)</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="161,2074 161,2164 2567,2164 2567,2074"/>
+	<TextEquiv>
+	<Unicode>weisen sıe gen Rambstatt ²) auf die zent. §. 2. Item weisen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="158,2151 158,2254 2570,2254 2570,2151"/>
+	<TextEquiv>
+	<Unicode>die schopfen zue recht meinem gn. herren einem grafen zue</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="158,2241 158,2332 2570,2332 2570,2241"/>
+	<TextEquiv>
+	<Unicode>Wertheim alle frevel und buesz, so vom gericht gewiesen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="158,2325 158,2422 2574,2422 2574,2325"/>
+	<TextEquiv>
+	<Unicode>zwen theil, und den schöpfen ein theil. §. 3. Item weisen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="164,2409 164,2500 2574,2500 2574,2409"/>
+	<TextEquiv>
+	<Unicode>zue recht, das ein graf zue Wertheim, und sonsten niemand,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="164,2493 164,2587 2583,2587 2583,2493"/>
+	<TextEquiv>
+	<Unicode>die inwohner und güter zue Wersau und in der mark zue be-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="177,1080 177,1190 2522,1190 2522,1080"/>
+	<TextEquiv>
+	<Unicode>Copia centweisthumbs über das dorf Wersau de anno 1547.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="158,2577 158,2664 2580,2664 2580,2577"/>
+	<TextEquiv>
+	<Unicode>steuren habe. §. 4. Item weisen m. gn. herrn den atz, frohn</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="154,2658 154,2754 2577,2754 2577,2658"/>
+	<TextEquiv>
+	<Unicode>und dienst zue Wersau, und wer s. gn. guter zue Wersau hab,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="158,2745 158,2841 2577,2841 2577,2745"/>
+	<TextEquiv>
+	<Unicode>der soll an solchen frohn und atz helfen. §. 5. Item weisen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="164,2825 164,2922 2580,2922 2580,2825"/>
+	<TextEquiv>
+	<Unicode>m. gn. herrn von Wertheim den banwein auf die kirben zue</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="167,2912 167,3012 2580,3012 2580,2912"/>
+	<TextEquiv>
+	<Unicode>Wersau wie von alters zue legen. §. 6. Item weist der schöpf</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="170,3000 170,3090 2577,3090 2577,3000"/>
+	<TextEquiv>
+	<Unicode>meinem gn. herren in der ganzen mark Wersau wasser und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="167,3080 167,3174 2574,3174 2574,3080"/>
+	<TextEquiv>
+	<Unicode>waid und in der ganzen mark zue jagen und fischen. §. 7.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="164,3161 164,3258 2583,3258 2583,3161"/>
+	<TextEquiv>
+	<Unicode>Item weist der schöpf zue recht, das alle inwohner und wer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="161,3251 161,3341 2580,3341 2580,3251"/>
+	<TextEquiv>
+	<Unicode>güter auf der mark Wersau besitzt, so oft es not thut, einem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="158,3332 158,3429 2580,3429 2580,3332"/>
+	<TextEquiv>
+	<Unicode>grafen von Wertheim als irem natürlichen herren huldigung</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="319,1222 319,1325 2564,1325 2564,1222"/>
+	<TextEquiv>
+	<Unicode>Den weisthumb, so die alten zue Wersau gewiesen, habe</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="164,3422 164,3519 945,3519 945,3422"/>
+	<TextEquiv>
+	<Unicode>und aids pflicht etc.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="841,3612 841,3729 1912,3729 1912,3612"/>
+	<TextEquiv>
+	<Unicode>WENIGEN - UMSTADT. ³)</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="164,3774 164,3887 2583,3887 2583,3774"/>
+	<TextEquiv>
+	<Unicode>Copia weisthumbs der gemeinde Wenigen Umstadt de anno 1530.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="335,3912 335,4022 2587,4022 2587,3912"/>
+	<TextEquiv>
+	<Unicode>§. 1. Zum ersten weisen wir die gemein sambt dem er-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="309,4109 309,4200 2593,4200 2593,4109"/>
+	<TextEquiv>
+	<Unicode>1) im hessischen Odenwald in der herschaft Breuberg (condominat</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="180,4187 180,4274 2596,4274 2596,4187"/>
+	<TextEquiv>
+	<Unicode>von Erbach und Wertheim, resp. Löwenstein). aus Franz von Stockhau-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="170,4264 170,4345 2593,4345 2593,4264"/>
+	<TextEquiv>
+	<Unicode>sen, gründliche nachricht v. d. herschaft Breuberg, 1765, beil. nr. 96</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="170,4332 170,4416 2032,4416 2032,4332"/>
+	<TextEquiv>
+	<Unicode>(handschriftlich im fürstl. löwenst. archiv zu Wertheim).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="316,4400 316,4483 2154,4483 2154,4400"/>
+	<TextEquiv>
+	<Unicode>2) jetzt Oberramstadt, ehemals katzenelnbogensche cent.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="316,4470 316,4564 2600,4564 2600,4470"/>
+	<TextEquiv>
+	<Unicode>3) beim städtchen Umstadt im hessischen Odenwald. vgl. bd. 5,237.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="170,4538 170,4632 1074,4632 1074,4538"/>
+	<TextEquiv>
+	<Unicode>Stockhausen, beil. 82 u. 83.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="245,4629 245,4716 496,4716 496,4629"/>
+	<TextEquiv>
+	<Unicode>Bd. VI.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="2145,4645 2145,4725 2209,4725 2209,4645"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="322,1645 322,1741 2564,1741 2564,1645"/>
+	<TextEquiv>
+	<Unicode>§. 1. Item weist der centschepf zue Wersau einmütiglich</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ZWISCHEN NECKAR, MAIN UND RHEIN.
+WERSAU. ¹)
+Copia centweisthumbs über das dorf Wersau de anno 1547.
+Den weisthumb, so die alten zue Wersau gewiesen, habe
+§. 1. Item weist der centschepf zue Wersau einmütiglich
+setzen, mit ehren, mit allen geboten, verboten, auszerhalb Art (?)
+weisen sıe gen Rambstatt ²) auf die zent. §. 2. Item weisen
+die schopfen zue recht meinem gn. herren einem grafen zue
+Wertheim alle frevel und buesz, so vom gericht gewiesen,
+zwen theil, und den schöpfen ein theil. §. 3. Item weisen
+zue recht, das ein graf zue Wertheim, und sonsten niemand,
+die inwohner und güter zue Wersau und in der mark zue be-
+steuren habe. §. 4. Item weisen m. gn. herrn den atz, frohn
+und dienst zue Wersau, und wer s. gn. guter zue Wersau hab,
+der soll an solchen frohn und atz helfen. §. 5. Item weisen
+m. gn. herrn von Wertheim den banwein auf die kirben zue
+Wersau wie von alters zue legen. §. 6. Item weist der schöpf
+meinem gn. herren in der ganzen mark Wersau wasser und
+waid und in der ganzen mark zue jagen und fischen. §. 7.
+Item weist der schöpf zue recht, das alle inwohner und wer
+güter auf der mark Wersau besitzt, so oft es not thut, einem
+grafen von Wertheim als irem natürlichen herren huldigung
+und aids pflicht etc.
+WENIGEN - UMSTADT. ³)
+Copia weisthumbs der gemeinde Wenigen Umstadt de anno 1530.
+§. 1. Zum ersten weisen wir die gemein sambt dem er-
+1) im hessischen Odenwald in der herschaft Breuberg (condominat
+von Erbach und Wertheim, resp. Löwenstein). aus Franz von Stockhau-
+sen, gründliche nachricht v. d. herschaft Breuberg, 1765, beil. nr. 96
+(handschriftlich im fürstl. löwenst. archiv zu Wertheim).
+2) jetzt Oberramstadt, ehemals katzenelnbogensche cent.
+3) beim städtchen Umstadt im hessischen Odenwald. vgl. bd. 5,237.
+Stockhausen, beil. 82 u. 83.
+Bd. VI.
+1</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-21T18:59:38</Created>
+	<LastChange>2020-03-23T12:05:47</LastChange></Metadata>
+	<Page imageFilename="bub_gb_MMcFAAAAQAAJ_0024.png" imageWidth="2500" imageHeight="4100">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="390,190 503,190 503,348 1258,348 1258,190 1551,190 1551,348 2425,348 2425,500 2429,500 2429,912 2432,912 2432,983 2435,983 2435,1329 2441,1329 2441,1403 2432,1403 2432,1538 2435,1538 2435,1745 2441,1745 2441,1958 2438,1958 2438,2093 2445,2093 2445,2241 2438,2241 2438,2445 2441,2445 2441,2590 2438,2590 2438,2790 2441,2790 2441,2870 2432,2870 2432,2996 2435,2996 2435,3080 2432,3080 2432,3145 2429,3145 2429,3270 2432,3270 2432,3354 2429,3354 2429,3480 2432,3480 2432,3558 2419,3558 2419,3758 1083,3758 1083,3825 519,3825 519,3754 522,3754 522,3693 525,3693 525,3558 400,3558 400,3345 403,3345 403,3206 406,3206 406,3070 409,3070 409,2935 396,2935 396,2861 400,2861 400,2522 396,2522 396,2445 400,2445 400,2029 396,2029 396,1954 400,1954 400,1603 403,1603 403,1483 400,1483 400,1403 396,1403 396,1270 393,1270 393,1190 396,1190 396,990 390,990 390,912 396,912 396,645 393,645 393,429 390,429"/>
+	<TextLine id="l0">
+	<Coords points="390,190 390,274 503,274 503,190"/>
+	<TextEquiv>
+	<Unicode>12</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="1258,190 1258,274 1551,274 1551,190"/>
+	<TextEquiv>
+	<Unicode>WAAT.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="390,912 390,990 2432,990 2432,912"/>
+	<TextEquiv>
+	<Unicode>§. 12. Item nullus de hominibus de Apples potest nec debet</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="396,983 396,1061 2435,1061 2435,983"/>
+	<TextEquiv>
+	<Unicode>facere burgesiam, iuramentum seu custodiam alicuius civitatis,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="400,1048 400,1129 2432,1129 2432,1048"/>
+	<TextEquiv>
+	<Unicode>burgi, villae vel casti, nisi de licentia domini prioris, nec</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="396,1122 396,1196 2435,1196 2435,1122"/>
+	<TextEquiv>
+	<Unicode>contra ius memoratae ecclesiae aliquod auxilium vel patrocinium</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="393,1190 393,1270 2432,1270 2432,1190"/>
+	<TextEquiv>
+	<Unicode>invocare; et si contrarium fecerit, nisi infra quadraginta dierum</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="396,1258 396,1341 2435,1341 2435,1258"/>
+	<TextEquiv>
+	<Unicode>terminum sibi a domino priore praefissum resipuerit a prae-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="396,1329 396,1403 2441,1403 2441,1329"/>
+	<TextEquiv>
+	<Unicode>dictis, debet de dominio ipsius recedere, et eius hereditas debet</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="400,1403 400,1483 1361,1483 1361,1403"/>
+	<TextEquiv>
+	<Unicode>praedictae ecclesiae remanere.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="532,1467 532,1551 2432,1551 2432,1467"/>
+	<TextEquiv>
+	<Unicode>§. 13. Praeterea sciendum est, quod de plana clama deben-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="403,1538 403,1616 2435,1616 2435,1538"/>
+	<TextEquiv>
+	<Unicode>tur domino priori 3 β a nobis, hominibus praedictis. §. 14. Item de</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="390,348 390,429 2425,429 2425,348"/>
+	<TextEquiv>
+	<Unicode>nuerit, quod conventus dictae ecclesiae in escis et victualibus</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="400,1603 400,1687 2435,1687 2435,1603"/>
+	<TextEquiv>
+	<Unicode>devestitura debentur 9 β. §. 15. Item de percussione pugni</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="400,1674 400,1751 2432,1751 2432,1674"/>
+	<TextEquiv>
+	<Unicode>3 β. §. 16. Item de percussione palmae 5 β. §. 17. Item de</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="400,1745 400,1829 2441,1829 2441,1745"/>
+	<TextEquiv>
+	<Unicode>percussione pedis 10 β. §. 18. Item de vocatione pugnex¹) in-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="400,1812 400,1890 2438,1890 2438,1812"/>
+	<TextEquiv>
+	<Unicode>iuriose 10 β. §. 19. Item de percussione gladii usque ad effu-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="400,1880 400,1958 2441,1958 2441,1880"/>
+	<TextEquiv>
+	<Unicode>sionem sanguinis iniuriose 60 β. §. 20. Item de vocatione me-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="396,1954 396,2029 1490,2029 1490,1954"/>
+	<TextEquiv>
+	<Unicode>sel ²) vel avoutro ³) iniuriose 10 β.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="538,2022 538,2103 2438,2103 2438,2022"/>
+	<TextEquiv>
+	<Unicode>§. 21. Item de defectu maioris de Apples per mortem ipsius</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="400,2093 400,2174 2445,2174 2445,2093"/>
+	<TextEquiv>
+	<Unicode>debet legitimus heres suus de corpore suo procreatus pro re-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="400,2161 400,2241 2445,2241 2445,2161"/>
+	<TextEquiv>
+	<Unicode>placito domino priori 25 β. si vero alius replacitare voluerit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="393,425 393,503 2425,503 2425,425"/>
+	<TextEquiv>
+	<Unicode>non possit sufficienter sustentari, et nos huiusmodi dampna vel</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="400,2232 400,2309 2438,2309 2438,2232"/>
+	<TextEquiv>
+	<Unicode>officium maioriae, illud debet asse ad voluntatem domini prioris.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="400,2303 400,2383 2438,2383 2438,2303"/>
+	<TextEquiv>
+	<Unicode>§. 22. Item post mortem duorum famulorum proprii heredes</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="400,2370 400,2448 2435,2448 2435,2370"/>
+	<TextEquiv>
+	<Unicode>ipsius debent pro replacito 15 β. §. 23. Item post mortem fore-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="396,2445 396,2522 2441,2522 2441,2445"/>
+	<TextEquiv>
+	<Unicode>stariorum proprii heredes debent 18 denarios. §. 24. Item post mor-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="400,2509 400,2590 2441,2590 2441,2509"/>
+	<TextEquiv>
+	<Unicode>tem colengiariorum proprii heredes debent 15 ϑ. si autem alius re-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="400,2577 400,2664 2435,2664 2435,2577"/>
+	<TextEquiv>
+	<Unicode>placitare voluerit, illud esse debet ad voluntatem domini prioris.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="403,2651 403,2722 2438,2722 2438,2651"/>
+	<TextEquiv>
+	<Unicode>§. 25. Item illi qui non sunt colengiarii, quilibet eorum debet</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="400,2716 400,2796 2438,2796 2438,2716"/>
+	<TextEquiv>
+	<Unicode>2 ϑ censuales in nativitate domini solvendos pro affoagio ⁴) suo.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="400,2790 400,2870 2441,2870 2441,2790"/>
+	<TextEquiv>
+	<Unicode>quem censum recuperare debent forestarii domini prioris, et</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="396,500 396,574 2429,574 2429,500"/>
+	<TextEquiv>
+	<Unicode>consimilia non incurrerimus, tenemur praedictae ecclesiae auxi-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="396,2861 396,2935 2203,2935 2203,2861"/>
+	<TextEquiv>
+	<Unicode>inde levare debent decimum denariorum pro labore suo.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="541,2922 541,3006 2432,3006 2432,2922"/>
+	<TextEquiv>
+	<Unicode>§. 26. Item causae quae moventur aut movebuntur apud</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="409,2996 409,3080 2435,3080 2435,2996"/>
+	<TextEquiv>
+	<Unicode>Apples per clamam factam, ibidem ventilentur et terminentur,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="406,3070 406,3145 2432,3145 2432,3070"/>
+	<TextEquiv>
+	<Unicode>nisi dictae causae tam graves et arduae extiterint, quod ibidem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="406,3132 406,3216 2429,3216 2429,3132"/>
+	<TextEquiv>
+	<Unicode>nequcant commode terminari, aut per appellationem vel pro-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="403,3206 403,3274 1983,3274 1983,3206"/>
+	<TextEquiv>
+	<Unicode>vocationem factam ad curatum Romanimonasterii.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="541,3270 541,3354 2432,3354 2432,3270"/>
+	<TextEquiv>
+	<Unicode>§. 27. Item duodecim colengiarii residentes in villa Apples</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="400,3345 400,3419 2429,3419 2429,3345"/>
+	<TextEquiv>
+	<Unicode>habent usum suum in nemoribus bannicis pro levaturis domo-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="393,564 393,645 2429,645 2429,564"/>
+	<TextEquiv>
+	<Unicode>lium facere moderatum. §. 11. Praeterea nemo potest contrahere</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="400,3419 400,3487 2429,3487 2429,3419"/>
+	<TextEquiv>
+	<Unicode>rum suarum, si necessitate, vetustate aut incendio corruerint,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l51">
+	<Coords points="400,3480 400,3558 2432,3558 2432,3480"/>
+	<TextEquiv>
+	<Unicode>et non aliter, in nemoribus autem mortuis ⁵) habent affoagium</Unicode></TextEquiv></TextLine>
+	<TextLine id="l52">
+	<Coords points="525,3629 525,3703 2419,3703 2419,3629"/>
+	<TextEquiv>
+	<Unicode>1) punais? Delius. 2) aussätzig. 3) adulter, ehebrecher, hurensohn.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="522,3693 522,3758 2419,3758 2419,3693"/>
+	<TextEquiv>
+	<Unicode>4) l.affocagio, das recht, brennholz zu sammeln (frz. affouage). s. art. 27.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="519,3754 519,3825 1083,3825 1083,3754"/>
+	<TextEquiv>
+	<Unicode>5) s. seite 4 anm. 6.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="396,632 396,706 2429,706 2429,632"/>
+	<TextEquiv>
+	<Unicode>matrimonium cum aliqua muliere de Apples libera domini</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="400,700 400,783 2429,783 2429,700"/>
+	<TextEquiv>
+	<Unicode>prioris, nisi fuerit talis conditionis et status sicut alii probi ho-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="396,770 396,854 2429,854 2429,770"/>
+	<TextEquiv>
+	<Unicode>mines de Apples, nisi de licentia domini prioris; et si secus fece-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="396,841 396,922 2429,922 2429,841"/>
+	<TextEquiv>
+	<Unicode>rit, hereditas dictae mulieris domino priori incidat in commissum.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>12
+WAAT.
+nuerit, quod conventus dictae ecclesiae in escis et victualibus
+non possit sufficienter sustentari, et nos huiusmodi dampna vel
+consimilia non incurrerimus, tenemur praedictae ecclesiae auxi-
+lium facere moderatum. §. 11. Praeterea nemo potest contrahere
+matrimonium cum aliqua muliere de Apples libera domini
+prioris, nisi fuerit talis conditionis et status sicut alii probi ho-
+mines de Apples, nisi de licentia domini prioris; et si secus fece-
+rit, hereditas dictae mulieris domino priori incidat in commissum.
+§. 12. Item nullus de hominibus de Apples potest nec debet
+facere burgesiam, iuramentum seu custodiam alicuius civitatis,
+burgi, villae vel casti, nisi de licentia domini prioris, nec
+contra ius memoratae ecclesiae aliquod auxilium vel patrocinium
+invocare; et si contrarium fecerit, nisi infra quadraginta dierum
+terminum sibi a domino priore praefissum resipuerit a prae-
+dictis, debet de dominio ipsius recedere, et eius hereditas debet
+praedictae ecclesiae remanere.
+§. 13. Praeterea sciendum est, quod de plana clama deben-
+tur domino priori 3 β a nobis, hominibus praedictis. §. 14. Item de
+devestitura debentur 9 β. §. 15. Item de percussione pugni
+3 β. §. 16. Item de percussione palmae 5 β. §. 17. Item de
+percussione pedis 10 β. §. 18. Item de vocatione pugnex¹) in-
+iuriose 10 β. §. 19. Item de percussione gladii usque ad effu-
+sionem sanguinis iniuriose 60 β. §. 20. Item de vocatione me-
+sel ²) vel avoutro ³) iniuriose 10 β.
+§. 21. Item de defectu maioris de Apples per mortem ipsius
+debet legitimus heres suus de corpore suo procreatus pro re-
+placito domino priori 25 β. si vero alius replacitare voluerit
+officium maioriae, illud debet asse ad voluntatem domini prioris.
+§. 22. Item post mortem duorum famulorum proprii heredes
+ipsius debent pro replacito 15 β. §. 23. Item post mortem fore-
+stariorum proprii heredes debent 18 denarios. §. 24. Item post mor-
+tem colengiariorum proprii heredes debent 15 ϑ. si autem alius re-
+placitare voluerit, illud esse debet ad voluntatem domini prioris.
+§. 25. Item illi qui non sunt colengiarii, quilibet eorum debet
+2 ϑ censuales in nativitate domini solvendos pro affoagio ⁴) suo.
+quem censum recuperare debent forestarii domini prioris, et
+inde levare debent decimum denariorum pro labore suo.
+§. 26. Item causae quae moventur aut movebuntur apud
+Apples per clamam factam, ibidem ventilentur et terminentur,
+nisi dictae causae tam graves et arduae extiterint, quod ibidem
+nequcant commode terminari, aut per appellationem vel pro-
+vocationem factam ad curatum Romanimonasterii.
+§. 27. Item duodecim colengiarii residentes in villa Apples
+habent usum suum in nemoribus bannicis pro levaturis domo-
+rum suarum, si necessitate, vetustate aut incendio corruerint,
+et non aliter, in nemoribus autem mortuis ⁵) habent affoagium
+1) punais? Delius. 2) aussätzig. 3) adulter, ehebrecher, hurensohn.
+4) l.affocagio, das recht, brennholz zu sammeln (frz. affouage). s. art. 27.
+5) s. seite 4 anm. 6.</Unicode></TextEquiv></TextRegion></Page></PcGts>

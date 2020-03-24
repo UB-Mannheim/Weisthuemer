@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-21T09:53:42</Created>
+	<LastChange>2020-03-21T14:52:13</LastChange></Metadata>
+	<Page imageFilename="bub_gb_eAqsmQrcWcQC_0012.png" imageWidth="2500" imageHeight="4053">
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="519,819 1780,819 1780,1042 1995,1042 1995,1119 2121,1119 2121,1190 2128,1190 2128,1273 2119,1273 2119,2309 2121,2309 2121,2380 2116,2380 2116,2726 2119,2726 2119,3430 2116,3430 2116,3502 1773,3502 1773,3819 1726,3819 1726,3502 1221,3502 1221,3645 1183,3645 1183,3700 926,3700 926,3759 476,3759 476,3823 264,3823 264,3502 180,3502 180,3290 178,3290 178,3207 180,3207 180,2592 178,2592 178,1895 176,1895 176,1476 180,1476 180,1190 314,1190 314,1119 323,1119 323,1042 519,1042"/>
+	<TextLine id="l0">
+	<Coords points="519,819 519,914 1780,914 1780,819"/>
+	<TextEquiv>
+	<Unicode>DINGHOF ZU WERENTZHAUSEN ¹).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="1066,907 1066,988 1247,988 1247,907"/>
+	<TextEquiv>
+	<Unicode>1420.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="180,1611 180,1692 2114,1692 2114,1611"/>
+	<TextEquiv>
+	<Unicode>einen biderman oder zwen zu jme laden, wer es dz sy jm</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="183,1680 183,1761 2116,1761 2116,1680"/>
+	<TextEquiv>
+	<Unicode>vngevorlich bekemment. Vnd sol der probst einen vogel furen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="178,1750 178,1833 2119,1833 2119,1750"/>
+	<TextEquiv>
+	<Unicode>wind vnd vogelhunde. Wer ouch dz er utzit fienge vnderwegen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="176,1816 176,1895 1223,1895 1223,1816"/>
+	<TextEquiv>
+	<Unicode>das sol er mit den hbern teylen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="321,1888 321,1969 2116,1969 2116,1888"/>
+	<TextEquiv>
+	<Unicode>Item ouch sint die gter vellig, vnd gent herberg vnd er-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="178,1959 178,2028 397,2028 397,1959"/>
+	<TextEquiv>
+	<Unicode>schatz.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="321,2021 321,2097 2119,2097 2119,2021"/>
+	<TextEquiv>
+	<Unicode>Ouch wer es dz ein zinsz den andern untz an den dritten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="180,2090 180,2178 2119,2178 2119,2090"/>
+	<TextEquiv>
+	<Unicode>begriffe, so mcht der hoffherr die gter ziehen vnd weret jm</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="180,2164 180,2238 2080,2238 2080,2164"/>
+	<TextEquiv>
+	<Unicode>die verfallen, mit sinen versessenen zinsen, die doruff stnden.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="319,2233 319,2314 2119,2314 2119,2233"/>
+	<TextEquiv>
+	<Unicode>Ouch ist recht, wenn ein probst einen fall zhet, so sol er</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="323,1042 323,1133 1995,1133 1995,1042"/>
+	<TextEquiv>
+	<Unicode>Dis ist der hoff zu Werentzhusen vnd zu Enschingen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="178,2309 178,2380 2121,2380 2121,2309"/>
+	<TextEquiv>
+	<Unicode>nemen daz beste viech on eins, vnd sol den erben die gter</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="178,2376 178,2450 1254,2450 1254,2376"/>
+	<TextEquiv>
+	<Unicode>wider lihen, nach des hoffes recht.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="316,2442 316,2523 2114,2523 2114,2442"/>
+	<TextEquiv>
+	<Unicode>Item ouch sol yederman sin gt selber zu hoff tragen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="178,2509 178,2592 2116,2592 2116,2509"/>
+	<TextEquiv>
+	<Unicode>Item vnd sol ouch yegklicher sin gt verhuben jn einer jors</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="183,2580 183,2654 2116,2654 2116,2580"/>
+	<TextEquiv>
+	<Unicode>frist. Vnd welcher das nit tête, dasselb gt wer ouch einem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="180,2652 180,2730 2114,2730 2114,2652"/>
+	<TextEquiv>
+	<Unicode>probst verfallen. Item wer ouch dz einer abersturbe, der hůb-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="180,2726 180,2795 2119,2795 2119,2726"/>
+	<TextEquiv>
+	<Unicode>gte hette das nit besetzet wer, derselbe sol ouch einen fall</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="180,2790 180,2864 2119,2864 2119,2790"/>
+	<TextEquiv>
+	<Unicode>geben. Wer ouch das sich die erben des weren oder widern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="180,2861 180,2938 2119,2938 2119,2861"/>
+	<TextEquiv>
+	<Unicode>wölten, sa mag der probst vff sin gůt faren mit sinem vall,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="314,1119 314,1202 2121,1202 2121,1119"/>
+	<TextEquiv>
+	<Unicode>Item des ersten so hatt ein probst recht von sant Morand,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="183,2930 183,3007 2119,3007 2119,2930"/>
+	<TextEquiv>
+	<Unicode>vnd sinen zugk ziehen gen Spechbach ²). Item wer ouch das</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="180,3000 180,3076 2116,3076 2116,3000"/>
+	<TextEquiv>
+	<Unicode>ein frow gut hette, so mag sy wol jr gt besetzen mit einem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="180,3069 180,3145 783,3145 783,3069"/>
+	<TextEquiv>
+	<Unicode>trägern oder huber.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="319,3133 319,3216 2119,3216 2119,3133"/>
+	<TextEquiv>
+	<Unicode>Item ouch ist recht, wenn man das Jargedinge hat, so sol</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="178,3207 178,3290 2028,3290 2028,3207"/>
+	<TextEquiv>
+	<Unicode>ein yegklicher huber dem andern antwurten an furgepietten.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="316,3278 316,3361 2119,3361 2119,3278"/>
+	<TextEquiv>
+	<Unicode>Item ouch ist recht, prest einem probst huber, so mag er</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="185,3347 185,3430 2119,3430 2119,3347"/>
+	<TextEquiv>
+	<Unicode>nemen fier hůber vsser minr herschaff hoff z Bswilre ³), die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="180,3414 180,3502 2116,3502 2116,3414"/>
+	<TextEquiv>
+	<Unicode>solent einem prost gehorsam sin. Des selben gliche zů En-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="285,3576 285,3645 1221,3645 1221,3576"/>
+	<TextEquiv>
+	<Unicode>1) an der III, südöstlich von Altkirch.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="290,3638 290,3700 1183,3700 1183,3638"/>
+	<TextEquiv>
+	<Unicode>2) Ober-Spechbach, canton Altkirch.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="180,1190 180,1273 2128,1273 2128,1190"/>
+	<TextEquiv>
+	<Unicode>wer der ye z ziten ist, alle Jare ein herberg do mitt funff</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="290,3692 290,3759 926,3759 926,3692"/>
+	<TextEquiv>
+	<Unicode>3) Buxwiller, canton Pfirt.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="264,3757 264,3823 476,3823 476,3757"/>
+	<TextEquiv>
+	<Unicode>Bd. IV.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="1726,3750 1726,3819 1773,3819 1773,3750"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="180,1261 180,1342 2119,1342 2119,1261"/>
+	<TextEquiv>
+	<Unicode>pferden, vnd sol der probst sinen koch an dem obend vor hin</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="180,1330 180,1411 2116,1411 2116,1330"/>
+	<TextEquiv>
+	<Unicode>schicken an die herberg da er essen wil, vnd sol man es dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="180,1400 180,1480 2116,1480 2116,1400"/>
+	<TextEquiv>
+	<Unicode>probste wol bieten, im vnd den sinen, vnd sinen pferden hwe,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="176,1476 176,1550 2119,1550 2119,1476"/>
+	<TextEquiv>
+	<Unicode>strwe vnd fter gng geben, zu dem ymbis z nacht vnd den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="183,1538 183,1619 2116,1619 2116,1538"/>
+	<TextEquiv>
+	<Unicode>morgen ein bescheiden morgenbrot. Ouch mag der probst wol</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>DINGHOF ZU WERENTZHAUSEN ¹).
+1420.
+Dis ist der hoff zu Werentzhusen vnd zu Enschingen.
+Item des ersten so hatt ein probst recht von sant Morand,
+wer der ye z ziten ist, alle Jare ein herberg do mitt funff
+pferden, vnd sol der probst sinen koch an dem obend vor hin
+schicken an die herberg da er essen wil, vnd sol man es dem
+probste wol bieten, im vnd den sinen, vnd sinen pferden hwe,
+strwe vnd fter gng geben, zu dem ymbis z nacht vnd den
+morgen ein bescheiden morgenbrot. Ouch mag der probst wol
+einen biderman oder zwen zu jme laden, wer es dz sy jm
+vngevorlich bekemment. Vnd sol der probst einen vogel furen,
+wind vnd vogelhunde. Wer ouch dz er utzit fienge vnderwegen,
+das sol er mit den hbern teylen.
+Item ouch sint die gter vellig, vnd gent herberg vnd er-
+schatz.
+Ouch wer es dz ein zinsz den andern untz an den dritten
+begriffe, so mcht der hoffherr die gter ziehen vnd weret jm
+die verfallen, mit sinen versessenen zinsen, die doruff stnden.
+Ouch ist recht, wenn ein probst einen fall zhet, so sol er
+nemen daz beste viech on eins, vnd sol den erben die gter
+wider lihen, nach des hoffes recht.
+Item ouch sol yederman sin gt selber zu hoff tragen.
+Item vnd sol ouch yegklicher sin gt verhuben jn einer jors
+frist. Vnd welcher das nit tête, dasselb gt wer ouch einem
+probst verfallen. Item wer ouch dz einer abersturbe, der hůb-
+gte hette das nit besetzet wer, derselbe sol ouch einen fall
+geben. Wer ouch das sich die erben des weren oder widern
+wölten, sa mag der probst vff sin gůt faren mit sinem vall,
+vnd sinen zugk ziehen gen Spechbach ²). Item wer ouch das
+ein frow gut hette, so mag sy wol jr gt besetzen mit einem
+trägern oder huber.
+Item ouch ist recht, wenn man das Jargedinge hat, so sol
+ein yegklicher huber dem andern antwurten an furgepietten.
+Item ouch ist recht, prest einem probst huber, so mag er
+nemen fier hůber vsser minr herschaff hoff z Bswilre ³), die
+solent einem prost gehorsam sin. Des selben gliche zů En-
+1) an der III, südöstlich von Altkirch.
+2) Ober-Spechbach, canton Altkirch.
+3) Buxwiller, canton Pfirt.
+1
+Bd. IV.</Unicode></TextEquiv></TextRegion></Page></PcGts>

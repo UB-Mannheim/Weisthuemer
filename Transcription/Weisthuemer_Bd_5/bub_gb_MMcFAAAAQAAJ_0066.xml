@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-03-21T23:04:20</Created>
+	<LastChange>2020-03-21T23:37:29</LastChange></Metadata>
+	<Page imageFilename="bub_gb_MMcFAAAAQAAJ_0066.png" imageWidth="2500" imageHeight="4100">
+	<TextRegion id="r51" type="paragraph">
+	<Coords points="1300,187 1596,187 1596,341 2419,341 2419,429 2416,429 2416,558 2419,558 2419,764 2432,764 2432,832 2435,832 2435,974 2441,974 2441,1058 1600,1058 1600,1180 2429,1180 2429,1274 1525,1274 1525,1409 2432,1409 2432,1483 2438,1483 2438,1554 2441,1554 2441,1635 2438,1635 2438,1845 2435,1845 2435,2041 2438,2041 2438,2190 2435,2190 2435,2400 2432,2400 2432,2741 2445,2741 2445,2806 1938,2806 1938,3054 2429,3054 2429,3112 2432,3112 2432,3358 2429,3358 2429,3470 2425,3470 2425,3532 2422,3532 2422,3645 2429,3645 2429,3709 2422,3709 2422,3770 2109,3770 2109,3838 422,3838 422,3770 419,3770 419,3658 416,3658 416,3529 419,3529 419,3464 425,3464 425,3293 432,3293 432,3112 548,3112 548,3054 570,3054 570,2887 425,2887 425,2806 422,2806 422,2741 425,2741 425,2596 429,2596 429,2529 432,2529 432,2325 429,2325 429,2116 425,2116 425,2041 429,2041 429,1970 432,1970 432,1774 429,1774 429,1700 425,1700 425,1629 432,1629 432,1483 561,1483 561,1409 1348,1409 1348,1274 425,1274 425,1180 429,1180 429,916 425,916 425,832 429,832 429,500 425,500 425,193 529,193 529,341 1300,341"/>
+	<TextLine id="l0">
+	<Coords points="1300,187 1300,274 1596,274 1596,187"/>
+	<TextEquiv>
+	<Unicode>BASEL.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="425,193 425,270 529,270 529,193"/>
+	<TextEquiv>
+	<Unicode>54</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="429,906 429,983 1883,983 1883,906"/>
+	<TextEquiv>
+	<Unicode>lehen ist als ein (I. eines) andern lehenmans.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="570,974 570,1058 2441,1058 2441,974"/>
+	<TextEquiv>
+	<Unicode>§§. 14—16 im wesentlichen übereinstimmend mit §§. 14. 17</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="429,1048 429,1119 1600,1119 1600,1048"/>
+	<TextEquiv>
+	<Unicode>und 18 der öfnung von Bielbenken.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="425,1180 425,1274 2429,1274 2429,1180"/>
+	<TextEquiv>
+	<Unicode>HOFRECHT ZU MUTTENZ UND MOENCHENSTEIN ¹).</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="1348,1280 1348,1358 1525,1358 1525,1280"/>
+	<TextEquiv>
+	<Unicode>1464.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="561,1409 561,1500 2432,1500 2432,1409"/>
+	<TextEquiv>
+	<Unicode>§. 9. Wer ouch den andern in den obgen. dorfern, zwing</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="432,1483 432,1567 2438,1567 2438,1483"/>
+	<TextEquiv>
+	<Unicode>und banne und gericht wundet so vast, das man es heften und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="435,1554 435,1635 2441,1635 2441,1554"/>
+	<TextEquiv>
+	<Unicode>bein usznemen muosz, sol verbessern 3 Π ein helbling. welher</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="425,1629 425,1700 2432,1700 2432,1629"/>
+	<TextEquiv>
+	<Unicode>aber messer zucket und nút tuot, der soll verbessern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="429,1690 429,1774 2438,1774 2438,1690"/>
+	<TextEquiv>
+	<Unicode>9 β ϑ. §. 10. Welher ouch den andern slüge oder wúrfe</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="425,341 425,429 2419,429 2419,341"/>
+	<TextEquiv>
+	<Unicode>und widerredt ein pfand ze geben, der bessert 9 β. und ist,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="432,1764 432,1845 2438,1845 2438,1764"/>
+	<TextEquiv>
+	<Unicode>mit bengel, kannen oder andern dingen gelider entzwei, der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="438,1832 438,1906 2435,1906 2435,1832"/>
+	<TextEquiv>
+	<Unicode>verbessert dem herren 21 Π. müszt man es aber heften, meiszlen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="432,1896 432,1974 2435,1974 2435,1896"/>
+	<TextEquiv>
+	<Unicode>oder bein usznemen, so verbessert er 10 Π ϑ. muosz man es</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="429,1970 429,2048 2435,2048 2435,1970"/>
+	<TextEquiv>
+	<Unicode>aber pflastern oder sust heilen, so verbessert er 3 Π ein helb-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="425,2041 425,2116 2438,2116 2438,2041"/>
+	<TextEquiv>
+	<Unicode>ling. §. 11. Welher ouch in ieglichem obgemelten dorf dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="432,2112 432,2190 2438,2190 2438,2112"/>
+	<TextEquiv>
+	<Unicode>vogt, banwarten oder den vier geschworen, so ie zuo ziten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="429,2180 429,2258 2435,2258 2435,2180"/>
+	<TextEquiv>
+	<Unicode>sint, oder ir einen oder me under inen hiesz liegen oder</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="429,2251 429,2325 2432,2325 2432,2251"/>
+	<TextEquiv>
+	<Unicode>fluochte oder frevenlich wiıder si rette, der sol verbessern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="432,2319 432,2400 2435,2400 2435,2319"/>
+	<TextEquiv>
+	<Unicode>dem herren ône gnade 10 Π. wer aber ône das den andern</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="432,2387 432,2474 2429,2474 2429,2387"/>
+	<TextEquiv>
+	<Unicode>hiesz liegen oder frevenlich fluochte, sol dem herren ône gnade</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="425,422 425,500 2416,500 2416,422"/>
+	<TextEquiv>
+	<Unicode>das er den bom vom holz fürt uf das veld und da funden wirt,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="432,2458 432,2532 2432,2532 2432,2458"/>
+	<TextEquiv>
+	<Unicode>verbessern 3 β 4 ϑ. §. 12. Wem ouch sin guot verboten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="429,2529 429,2609 2432,2609 2432,2529"/>
+	<TextEquiv>
+	<Unicode>wirt durch die vogte, der vierer oder der banwarten einen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="425,2596 425,2680 2429,2680 2429,2596"/>
+	<TextEquiv>
+	<Unicode>oder wie sust die gebot von des herren oder der gericht wegen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="425,2664 425,2745 2432,2745 2432,2664"/>
+	<TextEquiv>
+	<Unicode>bescheen, der solich gebot nit haltet oder die sachen, so ver-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="422,2741 422,2806 2445,2806 2445,2741"/>
+	<TextEquiv>
+	<Unicode>boten sint mit recht, nit entslahet, der sol verbessern 10 Π ϑ</Unicode></TextEquiv></TextLine>
+	<TextLine id="l35">
+	<Coords points="425,2806 425,2887 812,2887 812,2806"/>
+	<TextEquiv>
+	<Unicode>ône gnade.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="570,2870 570,2958 1938,2958 1938,2870"/>
+	<TextEquiv>
+	<Unicode>§§. 13—17 stehen bd. 4,474 als §§. 9—13.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="548,3054 548,3125 2429,3125 2429,3054"/>
+	<TextEquiv>
+	<Unicode>1) aus den rechtsqu. von Basel 2, 54—58. die öfnung ist zum gröszten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="432,3112 432,3187 2432,3187 2432,3112"/>
+	<TextEquiv>
+	<Unicode>theil bereits bd. 4, 471 abgedruckt. daselbst zeile 12 v. o. zwischen „punc-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="429,487 429,570 2416,570 2416,487"/>
+	<TextEquiv>
+	<Unicode>der bessert 3 β. item, ist, das iemant den wald wüstet, nit ze</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="432,3174 432,3245 2429,3245 2429,3174"/>
+	<TextEquiv>
+	<Unicode>ten“ und „aller“ (l. allen) ist einzurücken : „aller und ieglicher ingangen und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="432,3232 432,3300 2432,3300 2432,3232"/>
+	<TextEquiv>
+	<Unicode>ze rat worden bin, gebiet ouch daruf vögten und geschwornen, so denn bi zi-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="425,3293 425,3358 2432,3358 2432,3293"/>
+	<TextEquiv>
+	<Unicode>ten, und“. zu §. 8 ist hinzuzufügen: „muosz man es aber nit heften und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l43">
+	<Coords points="425,3354 425,3422 2429,3422 2429,3354"/>
+	<TextEquiv>
+	<Unicode>meiszlen, sol er verbessern dem herren 3 Π 1 ϑ. zuo glicher wise, hebt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="425,3416 425,3470 2429,3470 2429,3416"/>
+	<TextEquiv>
+	<Unicode>er ein stein uf und wirfet nit, sol er verbessern 3 Π 1 ϑ". die im text</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="419,3464 419,3532 2425,3532 2425,3464"/>
+	<TextEquiv>
+	<Unicode>abgedruckten vier artikel folgen unmittelbar darauf, vor dem art. 9 der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="416,3529 416,3590 2419,3590 2419,3529"/>
+	<TextEquiv>
+	<Unicode>frühern mittheilung. — Die bd. 4, 473 abgedruckte öfnung von Muttenz.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="416,3587 416,3658 2422,3658 2422,3587"/>
+	<TextEquiv>
+	<Unicode>gleichfalls von 1464, steht jetzt auch rechtsqu. von Basel 2, 59—61. da-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="425,3645 425,3709 2429,3709 2429,3645"/>
+	<TextEquiv>
+	<Unicode>nach ist zeile 2 v. u. zu lesen: „hoch und nach zuo dienen.“ z. 15 v. u.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l49">
+	<Coords points="419,3700 419,3770 2422,3770 2422,3700"/>
+	<TextEquiv>
+	<Unicode>einer st. eynem. über die formel „hoch und nach" oder „hoch und noch“</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="429,558 429,641 2419,641 2419,558"/>
+	<TextEquiv>
+	<Unicode>noturftigen prúchen des buws oder pfluogs, der bessert mit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="422,3767 422,3838 2109,3838 2109,3767"/>
+	<TextEquiv>
+	<Unicode>vgl. den anfang der folgenden urkunde sowie rechtsqu. 2, 554.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="429,629 429,712 2419,712 2419,629"/>
+	<TextEquiv>
+	<Unicode>schatzung des schaden 9 β und einen helbling. und dis bes-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="429,700 429,777 1432,777 1432,700"/>
+	<TextEquiv>
+	<Unicode>serungen sind alle des probsts.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="567,764 567,845 2432,845 2432,764"/>
+	<TextEquiv>
+	<Unicode>§. 13. Item die besserung eins meiers von sinem ambt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="425,832 425,916 2435,916 2435,832"/>
+	<TextEquiv>
+	<Unicode>ist sin ambt oder 5 Π, ob er wil, und die besserung von sinem</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>BASEL.
+54
+und widerredt ein pfand ze geben, der bessert 9 β. und ist,
+das er den bom vom holz fürt uf das veld und da funden wirt,
+der bessert 3 β. item, ist, das iemant den wald wüstet, nit ze
+noturftigen prúchen des buws oder pfluogs, der bessert mit
+schatzung des schaden 9 β und einen helbling. und dis bes-
+serungen sind alle des probsts.
+§. 13. Item die besserung eins meiers von sinem ambt
+ist sin ambt oder 5 Π, ob er wil, und die besserung von sinem
+lehen ist als ein (I. eines) andern lehenmans.
+§§. 14—16 im wesentlichen übereinstimmend mit §§. 14. 17
+und 18 der öfnung von Bielbenken.
+HOFRECHT ZU MUTTENZ UND MOENCHENSTEIN ¹).
+1464.
+§. 9. Wer ouch den andern in den obgen. dorfern, zwing
+und banne und gericht wundet so vast, das man es heften und
+bein usznemen muosz, sol verbessern 3 Π ein helbling. welher
+aber messer zucket und nút tuot, der soll verbessern
+9 β ϑ. §. 10. Welher ouch den andern slüge oder wúrfe
+mit bengel, kannen oder andern dingen gelider entzwei, der
+verbessert dem herren 21 Π. müszt man es aber heften, meiszlen
+oder bein usznemen, so verbessert er 10 Π ϑ. muosz man es
+aber pflastern oder sust heilen, so verbessert er 3 Π ein helb-
+ling. §. 11. Welher ouch in ieglichem obgemelten dorf dem
+vogt, banwarten oder den vier geschworen, so ie zuo ziten
+sint, oder ir einen oder me under inen hiesz liegen oder
+fluochte oder frevenlich wiıder si rette, der sol verbessern
+dem herren ône gnade 10 Π. wer aber ône das den andern
+hiesz liegen oder frevenlich fluochte, sol dem herren ône gnade
+verbessern 3 β 4 ϑ. §. 12. Wem ouch sin guot verboten
+wirt durch die vogte, der vierer oder der banwarten einen,
+oder wie sust die gebot von des herren oder der gericht wegen
+bescheen, der solich gebot nit haltet oder die sachen, so ver-
+boten sint mit recht, nit entslahet, der sol verbessern 10 Π ϑ
+ône gnade.
+§§. 13—17 stehen bd. 4,474 als §§. 9—13.
+1) aus den rechtsqu. von Basel 2, 54—58. die öfnung ist zum gröszten
+theil bereits bd. 4, 471 abgedruckt. daselbst zeile 12 v. o. zwischen „punc-
+ten“ und „aller“ (l. allen) ist einzurücken : „aller und ieglicher ingangen und
+ze rat worden bin, gebiet ouch daruf vögten und geschwornen, so denn bi zi-
+ten, und“. zu §. 8 ist hinzuzufügen: „muosz man es aber nit heften und
+meiszlen, sol er verbessern dem herren 3 Π 1 ϑ. zuo glicher wise, hebt
+er ein stein uf und wirfet nit, sol er verbessern 3 Π 1 ϑ". die im text
+abgedruckten vier artikel folgen unmittelbar darauf, vor dem art. 9 der
+frühern mittheilung. — Die bd. 4, 473 abgedruckte öfnung von Muttenz.
+gleichfalls von 1464, steht jetzt auch rechtsqu. von Basel 2, 59—61. da-
+nach ist zeile 2 v. u. zu lesen: „hoch und nach zuo dienen.“ z. 15 v. u.
+einer st. eynem. über die formel „hoch und nach" oder „hoch und noch“
+vgl. den anfang der folgenden urkunde sowie rechtsqu. 2, 554.</Unicode></TextEquiv></TextRegion></Page></PcGts>
