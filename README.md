@@ -5,10 +5,17 @@ This repository contains transcriptions of 35 pages from Jacob Grimm's seven-vol
 Antiqua
 
 #### Languages:
-old German dialects, Latin
+different variants of Middle High German, Latin
 
 #### Special characters:
 Roman numerals, exponents, section break (§), long s (ſ), circumflex (â), caron (ǎ), acute accent (á), ring diacritic (å), diacritic umlauts (aͤ), cursive Greek letters Theta (ϑ), Beta (β), Pi (Π).
+
+#### Please visit the Wiki for more details on:
+* source of text
+* digital copies used for transcription
+* transcription workflow 
+* OCR training workflow 
+* validation of the trained models.
 
 #### Sources:
 The transcriptions refer to digitised material available on archive.org: <br>
@@ -19,5 +26,6 @@ Volume 4: https://archive.org/details/bub_gb_eAqsmQrcWcQC <br>
 Volume 5: https://archive.org/details/bub_gb_MMcFAAAAQAAJ <br>
 Volume 6: https://archive.org/details/weisthmer02drongoog <br>
 Volume 7: https://archive.org/details/weisthmer09maurgoog <br>
+
 
 
