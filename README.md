@@ -10,12 +10,7 @@ different variants of Middle High German, Latin
 #### Special characters:
 Roman numerals, exponents, section break (§), long s (ſ), circumflex (â), caron (ǎ), acute accent (á), ring diacritic (å), diacritic umlauts (aͤ), cursive Greek letters Theta (ϑ), Beta (β), Pi (Π).
 
-#### Please visit the Wiki for more details on:
-* source of text
-* digital copies used for transcription
-* transcription workflow 
-* OCR training workflow 
-* validation of the trained models.
+#### Further details on the transcription and training workflow can be found in the Wiki
 
 #### Sources:
 The transcriptions refer to digitised material available on archive.org: <br>
