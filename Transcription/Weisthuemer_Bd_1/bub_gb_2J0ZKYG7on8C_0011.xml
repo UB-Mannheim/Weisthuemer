@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator></Creator>
-	<Created>2020-03-14T12:24:46</Created>
-	<LastChange>2020-03-20T15:46:11</LastChange></Metadata>
+	<Created>2020-03-14T11:24:46</Created>
+	<LastChange>2020-03-25T06:57:39</LastChange></Metadata>
 	<Page imageFilename="bub_gb_2J0ZKYG7on8C_0011.png" imageWidth="1509" imageHeight="2500">
 	<TextRegion id="r0" type="paragraph">
 	<Coords points="687,107 871,107 871,196 1358,196 1358,400 1360,400 1360,485 1358,485 1358,610 1360,610 1360,733 1358,733 1358,935 1360,935 1360,1019 1362,1019 1362,1180 1364,1180 1364,1264 1362,1264 1362,1307 1360,1307 1360,1466 1362,1466 1362,1553 1364,1553 1364,1591 1366,1591 1366,1835 1367,1835 1367,1880 1366,1880 1366,2042 910,2042 910,2083 814,2083 814,2216 1283,2216 1283,2257 292,2257 292,2083 223,2083 223,2042 221,2042 221,1917 216,1917 216,1878 219,1878 219,1719 217,1719 217,1591 216,1591 216,1553 219,1553 219,1430 217,1430 217,1392 216,1392 216,1307 214,1307 214,1021 212,1021 212,976 214,976 214,855 212,855 212,814 210,814 210,650 208,650 208,280 207,280 207,153 205,153 205,112 235,112 235,196 687,196"/>
@@ -212,8 +212,8 @@
 	<TextEquiv>
 	<Unicode>des gotzhus über des gotzhus lüt vnd gůt, vnd sol nieman in di-</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>ZÜRICH
-4
+	<Unicode>4 
+ZÜRICH
 ob Grůblen hin iemerme, vnz an Joch. vnd ab Joch vnz an
 Stoerben vnd ab Stoerben dur Ritun vf vnz an den Elwen stein,
 vnd ab dem Elwenstein hin, vnz in Sanden vf den grât, ab dem

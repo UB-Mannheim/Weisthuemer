@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator></Creator>
-	<Created>2020-03-16T14:22:58</Created>
-	<LastChange>2020-03-20T15:47:36</LastChange></Metadata>
+	<Created>2020-03-16T13:22:58</Created>
+	<LastChange>2020-03-24T22:33:11</LastChange></Metadata>
 	<Page imageFilename="bub_gb_2J0ZKYG7on8C_0012.png" imageWidth="1521" imageHeight="2500">
 	<TextRegion id="r0" type="paragraph">
 	<Coords points="492,110 994,110 994,197 1288,197 1288,113 1324,113 1324,406 1325,406 1325,492 1326,492 1326,532 1325,532 1325,696 1326,696 1326,904 1325,904 1325,988 1321,988 1321,1028 1320,1028 1320,1068 1317,1068 1317,1113 849,1113 849,1248 1328,1248 1328,1300 1326,1300 1326,1381 1324,1381 1324,1584 1325,1584 1325,1713 1324,1713 1324,1833 1325,1833 1325,2040 1326,2040 1326,2088 577,2088 577,2221 916,2221 916,2261 233,2261 233,2221 234,2221 234,2088 166,2088 166,2001 165,2001 165,1958 166,1958 166,1920 168,1920 168,1630 166,1630 166,1546 165,1546 165,1380 168,1380 168,1293 248,1293 248,1248 642,1248 642,1113 165,1113 165,737 166,737 166,242 245,242 245,197 492,197"/>
@@ -26,7 +26,7 @@
 	<TextLine id="l12">
 	<Coords points="168,530 168,576 1324,576 1324,530"/>
 	<TextEquiv>
-	<Unicode>güten trüwen beholfen sin zů dien sachen, as er ire denne not-</Unicode></TextEquiv></TextLine>
+	<Unicode>gůten trüwen beholfen sin zů dien sachen, as er ire denne not-</Unicode></TextEquiv></TextLine>
 	<TextLine id="l13">
 	<Coords points="168,1748 168,1793 1324,1793 1324,1748"/>
 	<TextEquiv>
@@ -214,7 +214,7 @@ dem tal nit sessi, so bevogtet es ein abt mit vrteil des gerichtz
 mit einen ingesessen talman. Wenne ovch ein abt von gerichtz
 wegen oder von andren redlichen sachen der tallüten bedarf, so
 sol er inen enbieten, vnd söllent ovch si zů im komen vnd mit
-güten trüwen beholfen sin zů dien sachen, as er ire denne not-
+gůten trüwen beholfen sin zů dien sachen, as er ire denne not-
 durftig ist. Des gotzhus gůt sol nieman buwen noch haben wan
 ein ingesessen gotzhusman. Wene ovch ein vrteil stössig wirt
 vor vnsren gericht vmb erb vnd lehen, die sol man zihen vnder
