@@ -2,11 +2,11 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator></Creator>
-	<Created>2020-03-14T23:34:03</Created>
-	<LastChange>2020-03-15T00:03:37</LastChange></Metadata>
+	<Created>2020-03-14T22:34:03</Created>
+	<LastChange>2020-03-25T07:05:16</LastChange></Metadata>
 	<Page imageFilename="bub_gb_o6S3yrj9TkwC_0011.png" imageWidth="2500" imageHeight="4053">
-	<TextRegion id="tempReg357564684568544579089">
-	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1097,147 1321,147 1321,288 2130,288 2130,159 2190,159 2190,288 2197,288 2197,511 2190,511 2190,919 2197,919 2197,992 2200,992 2200,1211 2197,1211 2197,1550 2202,1550 2202,1697 1666,1697 1666,1988 2200,1988 2200,2130 2202,2130 2202,2411 2200,2411 2200,3242 2197,3242 2197,3457 2195,3457 2195,3530 2192,3530 2192,3716 1711,3716 1711,3842 1616,3842 1616,3716 1042,3716 1042,3778 257,3778 257,3716 254,3716 254,3530 252,3530 252,3457 250,3457 250,3173 252,3173 252,2971 247,2971 247,2892 250,2892 250,2547 252,2547 252,2054 390,2054 390,1988 788,1988 788,1697 523,1697 523,1754 252,1754 252,1550 250,1550 250,1488 245,1488 245,1414 247,1414 247,1140 245,1140 245,921 240,921 240,845 242,845 242,583 238,583 238,509 242,509 242,364 378,364 378,288 1097,288"/>
 	<TextLine id="l0">
 	<Coords points="1097,147 1097,223 1321,223 1321,147"/>
 	<TextEquiv>
@@ -14,35 +14,7 @@
 	<TextLine id="l1">
 	<Coords points="2130,159 2130,230 2190,230 2190,159"/>
 	<TextEquiv>
-	<Unicode>d</Unicode></TextEquiv></TextLine>
-	<TextLine id="l2">
-	<Coords points="378,288 378,376 2197,376 2197,288"/>
-	<TextEquiv>
-	<Unicode>Item si quid Tuytium venit navigio, nisi exoneretur, nihil</Unicode></TextEquiv></TextLine>
-	<TextLine id="l3">
-	<Coords points="242,364 242,428 452,428 452,364"/>
-	<TextEquiv>
-	<Unicode>solvet.</Unicode></TextEquiv></TextLine>
-	<TextLine id="l4">
-	<Coords points="383,428 383,511 2197,511 2197,428"/>
-	<TextEquiv>
-	<Unicode>ltem colonienses, si conveniuntur in Tuytio, accredere se</Unicode></TextEquiv></TextLine>
-	<TextLine id="l5">
-	<Coords points="238,509 238,583 2190,583 2190,509"/>
-	<TextEquiv>
-	<Unicode>possunt super suam hereditatem, si quam habent; sed si non</Unicode></TextEquiv></TextLine>
-	<TextLine id="l7">
-	<Coords points="242,576 242,650 2190,650 2190,576"/>
-	<TextEquiv>
-	<Unicode>sequantur judicium, sicuti sunt vocati, significabitur judicibus co-</Unicode></TextEquiv></TextLine>
-	<TextLine id="l8">
-	<Coords points="242,645 242,721 2190,721 2190,645"/>
-	<TextEquiv>
-	<Unicode>loniensibus, qui de eodem judicabunt. idem jus habent tuytien-</Unicode></TextEquiv></TextLine>
-	<TextLine id="l9">
-	<Coords points="245,714 245,778 700,778 700,714"/>
-	<TextEquiv>
-	<Unicode>ses in Colonia.</Unicode></TextEquiv></TextLine>
+	<Unicode>3</Unicode></TextEquiv></TextLine>
 	<TextLine id="l10">
 	<Coords points="383,778 383,864 2190,864 2190,778"/>
 	<TextEquiv>
@@ -83,6 +55,10 @@
 	<Coords points="245,1414 245,1488 2195,1488 2195,1414"/>
 	<TextEquiv>
 	<Unicode>factione, que dicitur wedde, XXI solidos, in minori satisfactione,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="378,288 378,376 2197,376 2197,288"/>
+	<TextEquiv>
+	<Unicode>Item si quid Tuytium venit navigio, nisi exoneretur, nihil</Unicode></TextEquiv></TextLine>
 	<TextLine id="l20">
 	<Coords points="250,1483 250,1550 1104,1550 1104,1483"/>
 	<TextEquiv>
@@ -123,6 +99,10 @@
 	<Coords points="257,2195 257,2273 2195,2273 2195,2195"/>
 	<TextEquiv>
 	<Unicode>Boilzendaill und Heirich van Polle, scheffen zu Duitze, begeren</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="242,364 242,428 452,428 452,364"/>
+	<TextEquiv>
+	<Unicode>solvet.</Unicode></TextEquiv></TextLine>
 	<TextLine id="l30">
 	<Coords points="254,2271 254,2342 2200,2342 2200,2271"/>
 	<TextEquiv>
@@ -163,6 +143,10 @@
 	<Coords points="247,2892 247,2971 2197,2971 2197,2892"/>
 	<TextEquiv>
 	<Unicode>herre Elger van Duitze zu Reefs proeste, her Engelbrecht van</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="383,428 383,511 2197,511 2197,428"/>
+	<TextEquiv>
+	<Unicode>ltem colonienses, si conveniuntur in Tuytio, accredere se</Unicode></TextEquiv></TextLine>
 	<TextLine id="l40">
 	<Coords points="252,2964 252,3040 2200,3040 2200,2964"/>
 	<TextEquiv>
@@ -203,6 +187,10 @@
 	<Coords points="254,3652 254,3716 2192,3716 2192,3652"/>
 	<TextEquiv>
 	<Unicode>191 ff. 209 ff. Die zweite hälfte dieses weisth. stimmt mit der vorhergehen-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="238,509 238,583 2190,583 2190,509"/>
+	<TextEquiv>
+	<Unicode>possunt super suam hereditatem, si quam habent; sed si non</Unicode></TextEquiv></TextLine>
 	<TextLine id="l50">
 	<Coords points="257,3711 257,3778 1042,3778 1042,3711"/>
 	<TextEquiv>
@@ -210,4 +198,68 @@
 	<TextLine id="l51">
 	<Coords points="1616,3769 1616,3842 1711,3842 1711,3769"/>
 	<TextEquiv>
-	<Unicode>1 *</Unicode></TextEquiv></TextLine></TextRegion></Page></PcGts>
+	<Unicode>1 *</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="242,576 242,650 2190,650 2190,576"/>
+	<TextEquiv>
+	<Unicode>sequantur judicium, sicuti sunt vocati, significabitur judicibus co-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="242,645 242,721 2190,721 2190,645"/>
+	<TextEquiv>
+	<Unicode>loniensibus, qui de eodem judicabunt. idem jus habent tuytien-</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="245,714 245,778 700,778 700,714"/>
+	<TextEquiv>
+	<Unicode>ses in Colonia.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>DEUZ
+3
+Item si quid Tuytium venit navigio, nisi exoneretur, nihil
+solvet.
+ltem colonienses, si conveniuntur in Tuytio, accredere se
+possunt super suam hereditatem, si quam habent; sed si non
+sequantur judicium, sicuti sunt vocati, significabitur judicibus co-
+loniensibus, qui de eodem judicabunt. idem jus habent tuytien-
+ses in Colonia.
+Item colonienses teloneum non solvent in Tuytio, nec tuy-
+tienses Colonie.
+Item si quis deliquerit in tantum, quod vulnus apertum fe-
+cerit, recognoscat v. marcis zů gemůde; et si aliquid aliud fecerit,
+VIII (I. VII½) solidis.
+Item nulla satisfastio, que dicitur gemůde, poterit de justitia
+excedere wedde.
+Jus scabinorum hic sequitur.
+Item si aliquis deliquerit, scabini habebunt in majori satis-
+factione, que dicitur wedde, XXI solidos, in minori satisfactione,
+seilicet wedde, XXI denarios.
+ltem quicunque intraverit vinculum, quod dicitur vroynslos,
+non exibit sine conquisita licentia, scilicet gemůde advocati et sca-
+binorum.
+WEISTHUM ZU DEUZ ¹).
+1386.
+In gotz namen amen. wir Herman von Keldenich, Cone
+Swarz, Heinrich van den Bucke, Elger vermeister , Herman
+cloesterman, Godart van der arffen, Johan van Huuffe, Otto
+Boilzendaill und Heirich van Polle, scheffen zu Duitze, begeren
+kunt zu sein allen luiden, dat in den jairen unns. hern, do man
+schreif nae gotz gebuirde duisent drihundert seſsindechtzig des
+vridages nae dem sondage, dat man sank invocavit, in der vasten
+zu mittage erschienen vur uns in vollen gerichte. dat in disen
+sachen gestalt ind geboidt was, uns. gn. hern vrunde, as uns hern
+heren Frederichs van der gnaiden gotz erzbuisschof zu Colne
+vur in und van sinen weghen die eirbare frome luide mit
+namen die edele hern Heinrich van Fleckenstein here zo Dage-
+stoile, her Johan Hircelen zu senct Cunibertz in Colne, und
+herre Elger van Duitze zu Reefs proeste, her Engelbrecht van
+Dyrsbeek und her Johan van Troyen rittere an die eine site;
+und uns hern hern Wilhems van der selver gnaiden goitz her-
+zogen van dem Berghe u. graven zo Ravensberg, vur in und si-
+nen weigen die eirbare und frome luide her Wilhem Stail und
+her Dederich van dem forste rittere, Johan van der Dornenbergh
+gnant Affenbroich, Johan vaigt van Mecheim, Gerhardus van
+Weiſsbroich der rentmeistere, Bruin van Tzwivell ind Gise sin
+broder knapen an die ander site, van der vurfs. uns beider
+1) aus Kindlinger 60, 201. drei andere abschriften daselbst s. 177 ff.
+191 ff. 209 ff. Die zweite hälfte dieses weisth. stimmt mit der vorhergehen-
+den lat. urkunde meistentheils.
+1 *</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator></Creator>
-	<Created>2020-03-14T21:06:59</Created>
-	<LastChange>2020-03-20T15:57:10</LastChange></Metadata>
+	<Created>2020-03-14T20:06:59</Created>
+	<LastChange>2020-03-25T07:02:35</LastChange></Metadata>
 	<Page imageFilename="bub_gb_o6S3yrj9TkwC_0008.png" imageWidth="2500" imageHeight="4025">
 	<TextRegion id="r0" type="paragraph">
 	<Coords points="1090,121 1514,121 1514,268 2153,268 2153,343 2278,343 2278,753 2280,753 2280,970 2282,970 2282,1390 2287,1390 2287,1460 2078,1460 2078,1756 1531,1756 1531,1460 1158,1460 1158,1668 543,1668 543,1524 331,1524 331,1243 326,1243 326,756 324,756 324,626 320,626 320,540 321,540 321,209 317,209 317,148 400,148 400,268 1090,268"/>
@@ -96,8 +96,8 @@
 	<TextEquiv>
 	<Unicode>Bedeutende nachträge vorzüglich zu dem zweiten band aus</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>VORWORT
-IV
+	<Unicode>IV
+VORWORT
 Aus Thüringen bloſs ein weisthum des Erfurter gebiets.
 Nieder und Oberbaiern haben verschiedne denkmäler dieser
 art dargeboten, die merkwürdigsten aus dem Lechrain und dem

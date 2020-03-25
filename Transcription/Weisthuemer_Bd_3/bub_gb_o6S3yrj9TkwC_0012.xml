@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator></Creator>
-	<Created>2020-03-14T23:20:12</Created>
-	<LastChange>2020-03-20T16:01:39</LastChange></Metadata>
+	<Created>2020-03-14T22:20:12</Created>
+	<LastChange>2020-03-24T22:55:24</LastChange></Metadata>
 	<Page imageFilename="bub_gb_o6S3yrj9TkwC_0012.png" imageWidth="2500" imageHeight="4053">
 	<TextRegion id="r0" type="paragraph">
 	<Coords points="1016,148 1509,148 1509,290 2280,290 2280,364 2283,364 2283,445 2274,445 2274,858 2270,858 2270,1274 2267,1274 2267,2103 2270,2103 2270,2180 2267,2180 2267,2245 2264,2245 2264,2383 2267,2383 2267,2519 2270,2519 2270,2596 2264,2596 2264,2803 2261,2803 2261,2938 2264,2938 2264,3012 2267,3012 2267,3087 2264,3087 2264,3225 2261,3225 2261,3287 2258,3287 2258,3500 2254,3500 2254,3774 329,3774 329,3712 325,3712 325,3496 329,3496 329,3354 319,3354 319,3283 322,3283 322,3087 319,3087 319,2941 312,2941 312,2590 316,2590 316,2387 312,2387 312,2241 316,2241 316,1693 319,1693 319,1558 316,1558 316,1270 319,1270 319,1132 316,1132 316,996 319,996 319,922 322,922 322,654 319,654 319,574 322,574 322,364 325,364 325,232 322,232 322,161 380,161 380,290 1016,290"/>
@@ -94,7 +94,7 @@
 	<TextLine id="l29">
 	<Coords points="316,1967 316,2038 2267,2038 2267,1967"/>
 	<TextEquiv>
-	<Unicode>des erzbusschoffs van Colne und sins gestichts van der vurfs. zit</Unicode></TextEquiv></TextLine>
+	<Unicode>des erzbusschoffs van Colne und sins gestichts van der vurſs. zit</Unicode></TextEquiv></TextLine>
 	<TextLine id="l3">
 	<Coords points="322,364 322,445 2283,445 2283,364"/>
 	<TextEquiv>
@@ -146,11 +146,11 @@
 	<TextLine id="l41">
 	<Coords points="312,2800 312,2874 2261,2874 2261,2800"/>
 	<TextEquiv>
-	<Unicode>in deme velde, as van dem vurfs. steine die achter Heine iunck-</Unicode></TextEquiv></TextLine>
+	<Unicode>in deme velde, as van dem vurſs. steine die achter Heine iunck-</Unicode></TextEquiv></TextLine>
 	<TextLine id="l42">
 	<Coords points="312,2874 312,2941 2261,2941 2261,2874"/>
 	<TextEquiv>
-	<Unicode>ren hoeffe vurfs. steit bis an den steine, die dair steit an der</Unicode></TextEquiv></TextLine>
+	<Unicode>ren hoeffe vurſs. steit bis an den steine, die dair steit an der</Unicode></TextEquiv></TextLine>
 	<TextLine id="l43">
 	<Coords points="319,2938 319,3016 2264,3016 2264,2938"/>
 	<TextEquiv>
@@ -216,8 +216,8 @@
 	<TextEquiv>
 	<Unicode>ouch nae aller herkomen, as dat van uns aldren ind vurvaren</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>WESTFALEN
-4
+	<Unicode>4
+WESTFALEN
 hern weighen dairgeschickt und geferdiget, as si sachten, ind
 gesonnen dair an uns van der vurſs. uns beider hern wegen, dat
 wir mallich van den vurſs. uns hern sin recht dae wisten und
@@ -242,7 +242,7 @@ schofs van Colne ind sins gestichts, also dat die herlicheit und
 dat hoichgerichte und alle gebott u. verbott, die volgen, der
 deinst und der klockenslach, die scheffincge ind dat vair, die
 tolle, vurworde ind geleide ind alle andere reichte uns. hern
-des erzbusschoffs van Colne und sins gestichts van der vurfs. zit
+des erzbusschoffs van Colne und sins gestichts van der vurſs. zit
 und jairen gewest sint und noch sint; beheltnisse doch dem vaigt,
 der zor zit dar ist und der ein swigende vaigt ist, alsulchs rechts,
 as ime der scheffen zodeilt und wist, u. as in den puncten van
@@ -254,8 +254,8 @@ die genant is Heine junckern hof an dem zunge ind boven West-
 hoven gelegen ist, van deme vurschreven steine vort up die
 andere peilsteine, die die herlicheit und dat gerichte van Duitze
 zeichent, ind der noch seessczein is, ind nae ein andere stehent
-in deme velde, as van dem vurfs. steine die achter Heine iunck-
-ren hoeffe vurfs. steit bis an den steine, die dair steit an der
+in deme velde, as van dem vurſs. steine die achter Heine iunck-
+ren hoeffe vurſs. steit bis an den steine, die dair steit an der
 straiſsen ind an dem wege, die zu Oirbach wert geit, ind vort
 van dem steine langs die ander peilstein bis up den stein, der
 darsteit up der wiskuilen, und van dem steine vort bis an den

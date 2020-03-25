@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator></Creator>
-	<Created>2020-03-14T21:51:57</Created>
-	<LastChange>2020-03-20T16:00:15</LastChange></Metadata>
+	<Created>2020-03-14T20:51:57</Created>
+	<LastChange>2020-03-25T07:06:11</LastChange></Metadata>
 	<Page imageFilename="bub_gb_o6S3yrj9TkwC_0010.png" imageWidth="2500" imageHeight="4053">
 	<TextRegion id="r0" type="paragraph">
 	<Coords points="1026,135 1519,135 1519,280 2254,280 2254,359 2257,359 2257,495 2259,495 2259,847 2254,847 2254,990 2252,990 2252,1333 2254,1333 2254,1478 2252,1478 2252,1619 2250,1619 2250,1821 2247,1821 2247,1959 2250,1959 2250,2038 2242,2038 2242,2238 2245,2238 2245,2514 2252,2514 2252,2588 2242,2588 2242,2723 2245,2723 2245,2864 2247,2864 2247,3071 2250,3071 2250,3152 2247,3152 2247,3357 2250,3357 2250,3422 2255,3422 2255,3495 2250,3495 2250,3709 433,3709 433,3633 295,3633 295,3559 297,3559 297,3422 300,3422 300,3285 304,3285 304,3073 295,3073 295,2935 297,2935 297,2802 295,2802 295,2652 290,2652 290,2588 300,2588 300,2378 297,2378 297,2245 295,2245 295,2169 297,2169 297,2038 304,2038 304,1900 302,1900 302,1750 300,1750 300,1680 304,1680 304,1478 302,1478 302,1404 304,1404 304,990 302,990 302,911 304,911 304,642 300,642 300,561 302,561 302,361 297,361 297,280 300,280 300,140 361,140 361,280 1026,280"/>
@@ -212,8 +212,8 @@
 	<TextEquiv>
 	<Unicode>Item si homicidium aliquod actum fuerit infra parochiam, si</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>WESTFALEN
-2
+	<Unicode>2
+WESTFALEN
 locum, qui dicitur werff, custodient tam diu, quo usque alter
 eorum succubuerit. Omnia verba juris, que sunt proferenda, a
 solo sculteto et nullo alio infra pugnam proponentnr. Si quis
