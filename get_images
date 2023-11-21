@@ -1,0 +1,53 @@
+cd Transcription
+
+cd Weisthuemer_Bd_1
+curl -o bub_gb_2J0ZKYG7on8C_0008.png "https://ia903405.us.archive.org/view_archive.php?archive=/0/items/bub_gb_2J0ZKYG7on8C/bub_gb_2J0ZKYG7on8C_images.tar&file=gb_2J0ZKYG7on8C_000009.png"
+curl -o bub_gb_2J0ZKYG7on8C_0009.png "https://ia903405.us.archive.org/view_archive.php?archive=/0/items/bub_gb_2J0ZKYG7on8C/bub_gb_2J0ZKYG7on8C_images.tar&file=gb_2J0ZKYG7on8C_000010.png"
+curl -o bub_gb_2J0ZKYG7on8C_0010.png "https://ia903405.us.archive.org/view_archive.php?archive=/0/items/bub_gb_2J0ZKYG7on8C/bub_gb_2J0ZKYG7on8C_images.tar&file=gb_2J0ZKYG7on8C_000011.png"
+curl -o bub_gb_2J0ZKYG7on8C_0011.png "https://ia903405.us.archive.org/view_archive.php?archive=/0/items/bub_gb_2J0ZKYG7on8C/bub_gb_2J0ZKYG7on8C_images.tar&file=gb_2J0ZKYG7on8C_000012.png"
+curl -o bub_gb_2J0ZKYG7on8C_0012.png "https://ia903405.us.archive.org/view_archive.php?archive=/0/items/bub_gb_2J0ZKYG7on8C/bub_gb_2J0ZKYG7on8C_images.tar&file=gb_2J0ZKYG7on8C_000013.png"
+cd ..
+
+cd Weisthuemer_Bd_2
+curl -o bub_gb_LFpLZSYYg34C_0009.png "https://ia804509.us.archive.org/view_archive.php?archive=/2/items/bub_gb_LFpLZSYYg34C/bub_gb_LFpLZSYYg34C_images.tar&file=gb_LFpLZSYYg34C_000010.png"
+curl -o bub_gb_LFpLZSYYg34C_0010.png "https://ia804509.us.archive.org/view_archive.php?archive=/2/items/bub_gb_LFpLZSYYg34C/bub_gb_LFpLZSYYg34C_images.tar&file=gb_LFpLZSYYg34C_000011.png"
+curl -o bub_gb_LFpLZSYYg34C_0011.png "https://ia804509.us.archive.org/view_archive.php?archive=/2/items/bub_gb_LFpLZSYYg34C/bub_gb_LFpLZSYYg34C_images.tar&file=gb_LFpLZSYYg34C_000012.png"
+curl -o bub_gb_LFpLZSYYg34C_0012.png "https://ia804509.us.archive.org/view_archive.php?archive=/2/items/bub_gb_LFpLZSYYg34C/bub_gb_LFpLZSYYg34C_images.tar&file=gb_LFpLZSYYg34C_000013.png"
+curl -o bub_gb_LFpLZSYYg34C_0013.png "https://ia804509.us.archive.org/view_archive.php?archive=/2/items/bub_gb_LFpLZSYYg34C/bub_gb_LFpLZSYYg34C_images.tar&file=gb_LFpLZSYYg34C_000014.png"
+cd ..
+
+cd Weisthuemer_Bd_3
+curl -o bub_gb_o6S3yrj9TkwC_0008.png "https://ia800303.us.archive.org/view_archive.php?archive=/34/items/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar&file=gb_o6S3yrj9TkwC_000009.png"
+curl -o bub_gb_o6S3yrj9TkwC_0009.png "https://ia800303.us.archive.org/view_archive.php?archive=/34/items/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar&file=gb_o6S3yrj9TkwC_000010.png"
+curl -o bub_gb_o6S3yrj9TkwC_0010.png "https://ia800303.us.archive.org/view_archive.php?archive=/34/items/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar&file=gb_o6S3yrj9TkwC_000011.jpeg"
+curl -o bub_gb_o6S3yrj9TkwC_0011.png "https://ia800303.us.archive.org/view_archive.php?archive=/34/items/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar&file=gb_o6S3yrj9TkwC_000012.png"
+curl -o bub_gb_o6S3yrj9TkwC_0012.png "https://ia800303.us.archive.org/view_archive.php?archive=/34/items/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar&file=gb_o6S3yrj9TkwC_000013.png"
+cd ..
+
+cd Weisthuemer_Bd_4
+curl -L -o bub_gb_eAqsmQrcWcQC_0012.png "https://archive.org/download/bub_gb_eAqsmQrcWcQC/bub_gb_eAqsmQrcWcQC_images.tar/gb_eAqsmQrcWcQC_000013.png"
+curl -L -o bub_gb_eAqsmQrcWcQC_0013.png "https://archive.org/download/bub_gb_eAqsmQrcWcQC/bub_gb_eAqsmQrcWcQC_images.tar/gb_eAqsmQrcWcQC_000014.png"
+curl -L -o bub_gb_eAqsmQrcWcQC_0014.png "https://archive.org/download/bub_gb_eAqsmQrcWcQC/bub_gb_eAqsmQrcWcQC_images.tar/gb_eAqsmQrcWcQC_000015.png"
+curl -L -o bub_gb_eAqsmQrcWcQC_0015.png "https://archive.org/download/bub_gb_eAqsmQrcWcQC/bub_gb_eAqsmQrcWcQC_images.tar/gb_eAqsmQrcWcQC_000016.png"
+curl -L -o bub_gb_eAqsmQrcWcQC_0016.png "https://archive.org/download/bub_gb_eAqsmQrcWcQC/bub_gb_eAqsmQrcWcQC_images.tar/gb_eAqsmQrcWcQC_000017.png"
+cd ..
+
+cd Weisthuemer_Bd_5
+curl -L -o bub_gb_MMcFAAAAQAAJ_0024.png "https://archive.org/download/bub_gb_MMcFAAAAQAAJ/bub_gb_MMcFAAAAQAAJ_images.tar/gb_MMcFAAAAQAAJ_000025.png"
+curl -L -o bub_gb_MMcFAAAAQAAJ_0066.png "https://archive.org/download/bub_gb_MMcFAAAAQAAJ/bub_gb_MMcFAAAAQAAJ_images.tar/gb_MMcFAAAAQAAJ_000067.png"
+curl -L -o bub_gb_MMcFAAAAQAAJ_0076.png "https://archive.org/download/bub_gb_MMcFAAAAQAAJ/bub_gb_MMcFAAAAQAAJ_images.tar/gb_MMcFAAAAQAAJ_000077.png"
+curl -L -o bub_gb_MMcFAAAAQAAJ_0077.png "https://archive.org/download/bub_gb_MMcFAAAAQAAJ/bub_gb_MMcFAAAAQAAJ_images.tar/gb_MMcFAAAAQAAJ_000078.png"
+curl -L -o bub_gb_MMcFAAAAQAAJ_0079.png "https://archive.org/download/bub_gb_MMcFAAAAQAAJ/bub_gb_MMcFAAAAQAAJ_images.tar/gb_MMcFAAAAQAAJ_000080.png"
+cd ..
+
+cd Weisthuemer_Bd_6
+for page in 13 14 15 16 17; do
+  curl -L -o weisthmer02drongoog_00$page.tif "https://archive.org/download/weisthmer02drongoog/weisthmer02drongoog_tif.zip/weisthmer02drongoog_tif%2Fweisthmer02drongoog_00$page.tif"
+done
+cd ..
+
+cd Weisthuemer_Bd_7
+for page in 12 13 14 15 16; do
+  curl -L -o weisthmer09maurgoog_00$page.tif "https://archive.org/download/weisthmer09maurgoog/weisthmer09maurgoog_tif.zip/weisthmer09maurgoog_tif%2Fweisthmer09maurgoog_00$page.tif"
+done
+cd ..
