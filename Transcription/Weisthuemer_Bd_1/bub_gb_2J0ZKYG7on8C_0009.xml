@@ -2,11 +2,11 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 	<Creator></Creator>
-	<Created>2020-03-11T22:34:10</Created>
-	<LastChange>2020-03-20T15:42:30</LastChange></Metadata>
+	<Created>2020-03-11T21:34:10</Created>
+	<LastChange>2023-11-27T13:03:05</LastChange></Metadata>
 	<Page imageFilename="bub_gb_2J0ZKYG7on8C_0009.png" imageWidth="1516" imageHeight="2500">
 	<TextRegion id="r0" type="paragraph">
-	<Coords points="693,126 877,126 877,212 1363,212 1363,253 1369,253 1369,300 1365,300 1365,548 1363,548 1363,585 1361,585 1361,707 1364,707 1364,952 1365,952 1365,998 1363,998 1363,1123 1362,1123 1362,1245 1361,1245 1361,1328 1360,1328 1360,1492 1361,1492 1361,1530 1362,1530 1362,1654 1364,1654 1364,1702 1175,1702 1175,1915 1358,1915 1358,1961 1360,1961 1360,2042 1363,2042 1363,2088 1358,2088 1358,2128 1301,2128 1301,2247 834,2247 834,2282 280,2282 280,2247 212,2247 212,2042 214,2042 214,2002 217,2002 217,1961 296,1961 296,1915 392,1915 392,1742 214,1742 214,1572 211,1572 211,1530 214,1530 214,1411 212,1411 212,1241 215,1241 215,1123 212,1123 212,998 211,998 211,952 214,952 214,914 215,914 215,752 214,752 214,711 211,711 211,585 210,585 210,542 212,542 212,502 214,502 214,261 212,261 212,173 208,173 208,128 248,128 248,212 693,212"/>
+	<Coords points="693,126 877,126 877,212 1363,212 1363,253 1369,253 1369,300 1365,300 1365,548 1363,548 1363,585 1361,585 1361,707 1364,707 1364,952 1365,952 1365,998 1363,998 1363,1123 1362,1123 1362,1245 1361,1245 1361,1328 1360,1328 1360,1492 1361,1492 1361,1530 1362,1530 1362,1654 1364,1654 1364,1702 1175,1702 1175,1915 1358,1915 1358,1961 1360,1961 1360,2209 1302,2209 1301,2247 834,2247 834,2282 280,2282 280,2247 212,2247 212,2042 214,2042 214,2002 217,2002 217,1961 296,1961 296,1915 392,1915 392,1742 214,1742 214,1572 211,1572 211,1530 214,1530 214,1411 212,1411 212,1241 215,1241 215,1123 212,1123 212,998 211,998 211,952 214,952 214,914 215,914 215,752 214,752 214,711 211,711 211,585 210,585 210,542 212,542 212,502 214,502 214,261 212,261 212,173 208,173 208,128 248,128 248,212 693,212"/>
 	<TextLine id="l0">
 	<Coords points="208,128 208,173 248,173 248,128"/>
 	<TextEquiv>
@@ -138,11 +138,11 @@
 	<TextLine id="l38">
 	<Coords points="214,1696 214,1742 781,1742 781,1696"/>
 	<TextEquiv>
-	<Unicode>ANDRER ENGELBERGER HOFRODEL ¹).</Unicode></TextEquiv></TextLine>
+	<Unicode>hand zugesetzt:] vnd Engelberg.</Unicode></TextEquiv></TextLine>
 	<TextLine id="l39">
 	<Coords points="392,1790 392,1844 1175,1844 1175,1790"/>
 	<TextEquiv>
-	<Unicode></Unicode></TextEquiv></TextLine>
+	<Unicode>ANDRER ENGELBERGER HOFRODEL ¹).</Unicode></TextEquiv></TextLine>
 	<TextLine id="l4">
 	<Coords points="214,297 214,346 1363,346 1363,297"/>
 	<TextEquiv>
@@ -182,7 +182,7 @@
 	<TextLine id="l50">
 	<Coords points="280,2244 280,2282 834,2282 834,2244"/>
 	<TextEquiv>
-	<Unicode>2) es steht: in der alten ochsentürl.</Unicode></TextEquiv></TextLine>
+	<Unicode>2) es steht: in der alten ochsentürli.</Unicode></TextEquiv></TextLine>
 	<TextLine id="l6">
 	<Coords points="214,377 214,422 1363,422 1363,377"/>
 	<TextEquiv>
@@ -199,6 +199,10 @@
 	<Coords points="212,502 212,548 1365,548 1365,502"/>
 	<TextEquiv>
 	<Unicode>hus eigen ist, der sol geben das beste hôpt, dc der man hatte,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="282,2171 282,2208 1360,2208 1360,2171"/>
+	<TextEquiv>
+	<Unicode>1) einer bibel der klosterbibliothek zu Engelberg (no 1 1/12) hinten an-</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>ZÜRICH
 2
@@ -238,13 +242,15 @@ ding het, einest in dem jare geben ein stier der zîtuang ist vnd
 einem zinſzigern. Diz het alles der stifter gúsezzet.
 Die vor gúschriben recht, dú dc gotzhus von Engelberg in
 Zyrichgoe hat, dú selben hat es ovch in Argoe, [von späterer
-ANDRER ENGELBERGER HOFRODEL ¹).
+hand zugesetzt:] vnd Engelberg.
 
+ANDRER ENGELBERGER HOFRODEL ¹).
 (wahrscheinlich aus der mitte des 14 jh.)
 Eines abtz vnd des gotzhus friger hof ze Engelberg sol gan
 von des kilchoues ort in das alt ochsentürli ²) ob dem brůderhus,
 vnd von dem ochsentürli an das ort der frowen chloster, vnd
 von der frowenchloster an den spital, vnd von dem spital bi dem
 zun hin vnder den alten eschen, von den alten eschen den zun
+1) einer bibel der klosterbibliothek zu Engelberg (no 1 1/12) hinten an-
 geschrieben, damit auf ihn, wie auf das evangelium, geschworen werde.
-2) es steht: in der alten ochsentürl.</Unicode></TextEquiv></TextRegion></Page></PcGts>
+2) es steht: in der alten ochsentürli.</Unicode></TextEquiv></TextRegion></Page></PcGts>
