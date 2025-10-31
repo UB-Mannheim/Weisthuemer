@@ -17,11 +17,11 @@ curl -o bub_gb_LFpLZSYYg34C_0013.png "https://ia804509.us.archive.org/view_archi
 cd ..
 
 cd Weisthuemer_Bd_3
-curl -o bub_gb_o6S3yrj9TkwC_0008.png "https://ia800303.us.archive.org/view_archive.php?archive=/34/items/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar&file=gb_o6S3yrj9TkwC_000009.png"
-curl -o bub_gb_o6S3yrj9TkwC_0009.png "https://ia800303.us.archive.org/view_archive.php?archive=/34/items/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar&file=gb_o6S3yrj9TkwC_000010.png"
-curl -o bub_gb_o6S3yrj9TkwC_0010.png "https://ia800303.us.archive.org/view_archive.php?archive=/34/items/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar&file=gb_o6S3yrj9TkwC_000011.jpeg"
-curl -o bub_gb_o6S3yrj9TkwC_0011.png "https://ia800303.us.archive.org/view_archive.php?archive=/34/items/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar&file=gb_o6S3yrj9TkwC_000012.png"
-curl -o bub_gb_o6S3yrj9TkwC_0012.png "https://ia800303.us.archive.org/view_archive.php?archive=/34/items/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar&file=gb_o6S3yrj9TkwC_000013.png"
+curl -Lo bub_gb_o6S3yrj9TkwC_0008.png "https://archive.org/download/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar/gb_o6S3yrj9TkwC_000009.png"
+curl -Lo bub_gb_o6S3yrj9TkwC_0009.png "https://archive.org/download/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar/gb_o6S3yrj9TkwC_000010.png"
+curl -Lo bub_gb_o6S3yrj9TkwC_0010.png "https://archive.org/download/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar/gb_o6S3yrj9TkwC_000011.jpeg"
+curl -Lo bub_gb_o6S3yrj9TkwC_0011.png "https://archive.org/download/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar/gb_o6S3yrj9TkwC_000012.png"
+curl -Lo bub_gb_o6S3yrj9TkwC_0012.png "https://archive.org/download/bub_gb_o6S3yrj9TkwC/bub_gb_o6S3yrj9TkwC_images.tar/gb_o6S3yrj9TkwC_000013.png"
 cd ..
 
 cd Weisthuemer_Bd_4
